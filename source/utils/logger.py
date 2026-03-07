@@ -1,6 +1,7 @@
 """Utility functions for the VPN configs generator."""
 
 import threading
+import sys
 from collections import defaultdict
 import re
 
@@ -26,10 +27,13 @@ def _extract_index(msg: str) -> int:
 
 
 def log(message: str):
-    """Добавляет сообщение в общий словарь логов потокобезопасно."""
+    """Добавляет сообщение в общий словарь логов потокобезопасно и выводит в stdout."""
     idx = _extract_index(message)
     with _LOG_LOCK:
         LOGS_BY_FILE[idx].append(message)
+    
+    # Immediately print to stdout with flush for real-time streaming
+    print(message, flush=True)
 
 
 def extract_source_name(url: str) -> str:
@@ -58,4 +62,4 @@ def print_logs():
         output_lines.append("----- Общие сообщения -----")
         output_lines.extend(LOGS_BY_FILE[0])
 
-    print("\n".join(output_lines))
+    print("\n".join(output_lines), flush=True)

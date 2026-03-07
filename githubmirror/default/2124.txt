@@ -1,0 +1,8 @@
+#profile-title: 2124-2124/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+trojan://Go5e2nJM8U@45.85.119.29:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN🚀%20t.me%2Frjsxrd
+trojan://Go5e2nJM8U@45.85.119.0:2087?path=@v2rayNG_VPNN&security=tls&host=ee.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN📂 آموزش استفاده از کانفیگ ها 📱🍎• More: @beta_v2ray 🗿%20t.me%2Frjsxrd

@@ -1,0 +1,8 @@
+#profile-title: 1561-1561/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://e72252a1-122e-436e-984e-09a259c771c5@us.yourdomain.com:443?encryption=none&security=tls&type=ws&path=/ray#US-Node%20t.me%2Frjsxrd
+vless://e72252a1-122e-436e-984e-09a259c771c5@europe.yourdomain.com:443?encryption=none&security=tls&type=ws&path=/ray#Europe-Node%20t.me%2Frjsxrd

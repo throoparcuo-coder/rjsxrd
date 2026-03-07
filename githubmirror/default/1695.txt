@@ -1,0 +1,40 @@
+#profile-title: 1695-1695/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1001?security=tls&insecure=0&sni=br.1010520.xyz#Anon1%20t.me%2Frjsxrd
+hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@br.1010520.xyz:1002?security=tls&insecure=0&sni=br.1010520.xyz#Anon2%20t.me%2Frjsxrd
+hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1001?security=tls&insecure=0&sni=th.1010520.xyz#Anon3%20t.me%2Frjsxrd
+hysteria2://8a3b7d4b-39c4-4bb3-8775-56bd65b771da@th.1010520.xyz:1002?security=tls&insecure=0&sni=th.1010520.xyz#Anon4%20t.me%2Frjsxrd
+hysteria2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@bl1.mangshe.xyz:2056?security=tls&insecure=1&sni=bl1.mangshe.xyz#Anon5%20t.me%2Frjsxrd
+hysteria2://95c2b673-d899-4ff4-a6c1-eafa74268a5e@166.1.18.244:26699?security=tls&insecure=1#Anon6%20t.me%2Frjsxrd
+hysteria2://ThisIsNotForSale-Free%24ervice@52.187.5.16:443?security=tls&insecure=1&sni=api.tg8lnk.tech#Anon7%20t.me%2Frjsxrd
+hysteria2://ThisIsNotForSale-Free%24ervice@api.tg8lnk.tech:443?security=tls&insecure=1#Anon8%20t.me%2Frjsxrd
+hysteria2://few4139098219@172.172.36.217:7863?security=tls&insecure=1&sni=bing.com#Anon9%20t.me%2Frjsxrd
+vless://04c924c7-551e-4c67-b3fa-9cca9e8cdc78@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=ihrcxextyuj.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#Anon10%20t.me%2Frjsxrd
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.27.215:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Anon11%20t.me%2Frjsxrd
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.115.38:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Anon12%20t.me%2Frjsxrd
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.38.137:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Anon13%20t.me%2Frjsxrd
+vless://08074685-1f9b-419b-87ea-c2c9d51b9461@209.250.227.192:2048?security=none&encryption=none&host=saveeditonline.com&headerType=http&type=tcp#Anon14%20t.me%2Frjsxrd
+vless://2add6241-8fe8-3922-8347-da25e8ced601@sydney.aaaa.gay:1443?security=reality&encryption=none&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tesla.com#Anon15%20t.me%2Frjsxrd
+vless://2add6241-8fe8-3922-8347-da25e8ced601@sydney2.aaaa.gay:443?security=reality&encryption=none&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tesla.com#Anon16%20t.me%2Frjsxrd
+vless://2add6241-8fe8-3922-8347-da25e8ced601@trohkt.doubledou.icu:443?security=reality&encryption=none&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tesla.com#Anon17%20t.me%2Frjsxrd
+vless://2add6241-8fe8-3922-8347-da25e8ced601@v2london.aaaa.gay:443?security=reality&encryption=none&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tesla.com#Anon18%20t.me%2Frjsxrd
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.209.127:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=1-13cx20.hc1212.top&fp=random&type=ws&sni=1-13cx20.hc1212.top#Anon19%20t.me%2Frjsxrd
+vmess://ewogICAgImFkZCI6ICJ1cy1jY3MueXVqaTIwMjIuZXUub3JnIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidXMtY2NzLnl1amkyMDIyLmV1Lm9yZyIsCiAgICAiaWQiOiAiNGI1ZTQ1NjUtMzIyZi00MjIzLWE4OTEtNzhhODRmMTg5NzI2IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL1hTamVnNzNvNlpkc2hlYWhDYjVKRyIsCiAgICAicG9ydCI6IDg4ODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNTEuMjI4LTA4MTMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ1cy1jY3MueXVqaTIwMjIuZXUub3JnIgp9#Anon20%20t.me%2Frjsxrd
+vmess://ewogICAgImFkZCI6ICJhejA1LmJleW9uZHkuY2ZkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYXowNS5iZXlvbmR5LmNmZCIsCiAgICAiaWQiOiAiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmsiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hq/Cfh7dGUi0xNDYuMTkuMTY4LjE2MS01NzQ5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiYXowNS5iZXlvbmR5LmNmZCIKfQ==#Anon21%20t.me%2Frjsxrd
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBLUi0xMzIuMjI2LjIyOS4xNjoyMzQ1MSIsICJhZGQiOiAiMTMyLjIyNi4yMjkuMTYiLCAicG9ydCI6ICIyMzQ1MSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNjRhMTNhOTEtZGY5ZC00OTU3LTlhMDYtODkyM2Q1NjQ4NTQxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJzZW91bC0xZGRucy5hYm91dGFuaW1lLmV1Lm9yZyIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==#Anon22%20t.me%2Frjsxrd
+vmess://eyJhZGQiOiI0NS4xNDUuMTY3LjEwMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW5kaWF2aWRlby5zYnMiLCJpZCI6IjQyNWM1ZTZlLTMwYTAtNDk4NC04YTEzLWVlNmY3MjA1MzE2MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJNQ0ktQFYycmF5X0FscGhhLTEyIiwic2N5IjoiYXV0byIsInNuaSI6ImluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#Anon23%20t.me%2Frjsxrd
+vmess://eyJhZGQiOiI0NS4yMDUuMC4yMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGF4MS5pYmdmdy50b3AiLCJpZCI6IjE5MWJhYmM1LTJhYWYtNGZlNS1hNTYzLWYxNDI0NGFlZmI0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii94cmVudndzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#Anon24%20t.me%2Frjsxrd
+vmess://eyJhZGQiOiI0Ni4zOC4xNDYuNjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTNjYzEyODYtODQwMS00YjFmLWIxMTAtZGFjM2EyYjE1MDUwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzODU4NSIsInBzIjoiTUNJLUBWMnJheV9BbHBoYS0xMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#Anon25%20t.me%2Frjsxrd
+vmess://eyJhZGQiOiI4Ni4xMDQuNzQuNTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDAzNmJmNWQtMDEyZS00ZmQ1LTkyOTQtY2M4YWQ4NzlhZThmIiwibmV0Ijoid3MiLCJwYXRoIjoiQFJhRmFWMkJvdCIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMnJheTFfTmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#Anon26%20t.me%2Frjsxrd
+vmess://eyJhZGQiOiIxNjcuMjM1Ljc2LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiIyYThhMTBmYi05Y2EzLTM2N2UtYTIzNC1jZjA5Zjg0MWJlNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjE4OTMyOTNQeSIsInBvcnQiOiI4MCIsInBzIjoiTWNpLUBWMnJheV9BbHBoYS0xMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#Anon27%20t.me%2Frjsxrd
+ss://04c924c7-551e-4c67-b3fa-9cca9e8cdc78@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=ihrcxextyuj.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#Anon28%20t.me%2Frjsxrd
+ss://04ee542f-1e0f-5235-9ad0-3ab2d336fb5c@45.89.55.188:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Anon29%20t.me%2Frjsxrd
+trojan://telegram-id-directvpn@13.37.60.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Anon30%20t.me%2Frjsxrd
+trojan://telegram-id-privatevpns@15.236.175.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Anon31%20t.me%2Frjsxrd
+trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Anon32%20t.me%2Frjsxrd
+trojan://telegram-id-privatevpns@3.120.212.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Anon33%20t.me%2Frjsxrd
+trojan://telegram-id-privatevpns@63.177.118.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Anon34%20t.me%2Frjsxrd

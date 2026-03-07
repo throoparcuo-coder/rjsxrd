@@ -1,0 +1,12 @@
+#profile-title: 2952-2952/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://15b21c84-c3f0-4265-cade-0fd6aacb293b@vps-usa.maze-maker.com:443?sid=799c4dce&fp=chrome&sni=amd.com&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=Cj9jYbCre-jcWl6Bt4dyaWbEUPs-bOVY8IziRlg3ZXE#bwg-usa-vless%20t.me%2Frjsxrd
+hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443?alpn=h3,h2,http/1.1&fastopen=0&security=tls&insecure=1&sni=go.microsoft.com#bwg-usa-hysteria2%20t.me%2Frjsxrd
+vless://9bf99b31-4163-45a9-b2c7-989598c02247@vps-jpn.maze-maker.com:443?flow=xtls-rprx-vision&type=tcp&security=reality&pbk=2nuzDV71Pucu6U31G2S-lObFt1RO_7WsJQakzYqrAlI&sid=&fp=chrome&sni=amd.com#bwg-jpn-vless%20t.me%2Frjsxrd
+hysteria2://2LLBuu8nDz@vps-jpn.maze-maker.com:443?insecure=1&sni=www.apple.com&alpn=h3,h2,http/1.1&fastopen=0&security=tls#bwg-jpn-hysteria2%20t.me%2Frjsxrd
+ss://YWVzLTI1Ni1nY206OHdTbFM5MmVFVkEvYkdnNFA1VnF0Mnlta08raWlqZkcrSTlZK3lGRnlyWT1AMTgzLjYwLjEyMy41Njo0ODExMQ#bwg-jpn-ss%20t.me%2Frjsxrd
+ss://YWVzLTI1Ni1nY206b21YVmJFUk5YRmdtSnFPN3hqNm9uQmdHbWU5UFA3TXJBcjBBSVE2VHhiZz1AMTgzLjYwLjEyMy41Njo0ODIyMg#bwg-usa-ss%20t.me%2Frjsxrd

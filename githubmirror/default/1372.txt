@@ -1,0 +1,8 @@
+#profile-title: 1372-1372/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+trojan://${Pswd}\u0040www.visa.com.sg:8443?security=tls&type=ws&host=${hostName}&sni=${hostName}&fp=random&path=/trojancf#${hostName}`;%20t.me%2Frjsxrd
+trojan://${Pswd}\u0040www.visa.com.sg:8880?security=none&type=ws&host=${hostName}&path=/trojancf#${hostName}`;%20t.me%2Frjsxrd

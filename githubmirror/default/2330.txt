@@ -1,0 +1,9 @@
+#profile-title: 2330-2330/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://96196fc5-67a7-400f-9b1a-e8f2e530e411@chatgpt.com:2086?path=%2F%3Fed%3D2056&security=none&encryption=none&host=copolo.nine.dl101movis.ir&type=httpupgrade#%20t.me%2Frjsxrd
+vless://4dc44daf-52e7-4c47-b87f-cbe86c04c74c@185.143.234.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#%20t.me%2Frjsxrd
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#%20t.me%2Frjsxrd

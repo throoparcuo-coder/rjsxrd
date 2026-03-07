@@ -1,0 +1,8 @@
+#profile-title: 2381-2381/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://f2241eb7-e6dc-45de-a145-4f9cc77243b1@vm3.vpnthailand.cloud:443?security=none&encryption=none&type=ws&host=speedtest.net&path=/#🟢𝘀𝗲𝗿𝘃𝗲3-𝗔𝗜𝗦:𝗣𝗼𝗿𝘁𝟒𝟒𝟑-admin%20t.me%2Frjsxrd
+vmess://eyJ2IjoiMiIsInBvcnQiOiI0NDMiLCJhaWQiOiIwIiwiZGV2aWNlSUQiOiIiLCJtb2RlIjoiIiwic2VydmljZU5hbWUiOiJub25lIiwicHMiOiJBaXMt8J+UuPCflK4g4oCi8J2XnPCdl7vwnZiB8J2XsvCdl7/wnZe78J2XsvCdmIHigKLwn5Su44CMIOKAovCdl6PwnZe/8J2XrvCdl7LwnZeq8J2XruKAoiDjgI0iLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsInRscyI6Im5vbmUiLCJoZWFkZXJUeXBlIjoiIiwiYWxwbiI6IiIsImV4dHJhIjoiIiwicGF0aCI6IlwvIiwiaWQiOiIyZDgzNTdkYS0yMGRlLTRhNDMtOTQyNi01MDE5ZmY4MjYxZWQiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwic2VlZCI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJhZGQiOiJ2bTEudnBudGhhaWxhbmQuY2xvdWQiLCJzbmkiOiIifQ==#%20t.me%2Frjsxrd

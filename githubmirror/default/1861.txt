@@ -1,0 +1,18 @@
+#profile-title: 1861-1861/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vmess://$(echo $VMESS_WS | base64 -w 0)#%20t.me%2Frjsxrd
+vmess://$(echo $VMESS_NON_TLS | base64 -w 0)#%20t.me%2Frjsxrd
+vmess://$(echo $VMESS_GRPC | base64 -w 0)#%20t.me%2Frjsxrd
+vmess://$(echo $VMESS_OPOK | base64 -w 0)#%20t.me%2Frjsxrd
+vless://${UUID}@${DOMAIN}:443?path=/vlessws&security=tls&encryption=none&type=ws#Tknetwork%20t.me%2Frjsxrd
+vless://${UUID}@${DOMAIN}:80?path=/vless&encryption=none&type=ws#Tknetwork%20t.me%2Frjsxrd
+vless://${UUID}@${DOMAIN}:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=${DOMAIN}#Tknetwork%20t.me%2Frjsxrd
+vless://${UUID}@${DOMAIN}:80?path=http://tsel.me/worryfree&encryption=none&type=ws#Tknetwork%20t.me%2Frjsxrd
+trojan://${UUID}@${DOMAIN}:443?path=%2Ftrojan-ws&security=tls&host=${DOMAIN}&type=ws&sni=${DOMAIN}#Tknetwork%20t.me%2Frjsxrd
+trojan://${UUID}@${DOMAIN}:443?mode=gun&security=tls&type=grpc&serviceName=trojan-grpc&sni=${DOMAIN}#Tknetwork%20t.me%2Frjsxrd
+ss://${shadowsocks_base64e}@$DOMAIN:443?plugin=xray-plugin;mux=0;path=/ss-ws;host=$DOMAIN;tls#Tknetwork"%20t.me%2Frjsxrd
+ss://${shadowsocks_base64e}@$DOMAIN:443?plugin=xray-plugin;mux=0;serviceName=ss-grpc;host=$DOMAIN;tls#Tknetwork"%20t.me%2Frjsxrd

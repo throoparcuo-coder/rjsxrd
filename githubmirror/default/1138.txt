@@ -1,0 +1,15 @@
+#profile-title: 1138-1138/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.208.49:80?encryption=none&security=none&type=ws&host=sib.sibzamini.dpdns.org&path=%2F%3Fed%3D2570#%5B%20%E2%9A%AA%EF%B8%8F%20WiFi%20%5D%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20t.me%2Frjsxrd
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?encryption=none&security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#%5B%20%E2%9A%AA%EF%B8%8F%20WiFi%20%5D%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20t.me%2Frjsxrd
+vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.244.143:443?encryption=none&security=tls&sni=lv.2138937.xyz&type=ws&host=lv.2138937.xyz&path=%2F%3Fed%3D2560#%5B%20%E2%9A%AA%EF%B8%8F%20WiFi%20%5D%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20t.me%2Frjsxrd
+vless://12c5e889-e0f8-4012-bc02-d037cd75f6c7@217.60.198.103:8890?encryption=none&security=none&type=tcp&headerType=http&host=onedrive.live.com%2Ccdnjs.cloudflare.com%2Craw.githubusercontent.com%2Cdrive.google.com%2Cdropbox.com%2Cbox.com%2Carchive.org#%5B%20%F0%9F%9F%A1%20MTN%20%5D%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20t.me%2Frjsxrd
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.107.193.169:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#%5B%20%F0%9F%9F%A1%20MTN%20%5D%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20t.me%2Frjsxrd
+vless://db9d419e-3094-4942-9313-d39afd3dd163@172.67.143.76:443?encryption=none&security=tls&sni=spx.lindak.dpdns.org&fp=random&type=ws&host=spx.lindak.dpdns.org&path=%2F%3Fed%3D2560#%5B%20%F0%9F%9F%A1%20MTN%20%5D%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20t.me%2Frjsxrd
+vless://6f6946ff-d061-4bc9-9c3c-b927c9bad3cb@104.18.26.90:8080?encryption=none&security=none&type=ws&host=Hoo.somo44.sbs&path=%2Fhhvghhv#%5B%20%F0%9F%94%B5%20MCI%20%5D%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20t.me%2Frjsxrd
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#%5B%20%F0%9F%94%B5%20MCI%20%5D%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20t.me%2Frjsxrd
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#%5B%20%F0%9F%94%B5%20MCI%20%5D%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20t.me%2Frjsxrd

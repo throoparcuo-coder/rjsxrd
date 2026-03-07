@@ -1,0 +1,8 @@
+#profile-title: all-5/5 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://a8a44101-8659-47be-861b-e5a35797908b@64.188.90.93:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=a.primarymaster.online&fp=chrome&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&sid=c5b7244c0fef441a#killmeblackcotton.ru-1.hitorivpn%20-%20user_yrvvoi%20t.me%2Frjsxrd
+vless://2b0f0798-1099-4e72-8c69-efe9b8b6a9b8@171.22.31.215:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=vpn.xorealis.com&fp=chrome&pbk=N9YEtcvbXxG2GD8cLMlQT35HnX8cmvYPasnqtcBW_XY&sid=131df166be01a436#killmeblackcotton.de-01.hitorivpn%20-%20user_0vm55t%20t.me%2Frjsxrd

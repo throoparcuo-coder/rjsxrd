@@ -1,0 +1,38 @@
+#profile-title: 2476-2476/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+trojan://2qmYr0p4X63t@15.223.118.153:14826?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#CA|subx%20t.me%2Frjsxrd
+trojan://v1eV4PsyDTXI@35.183.17.108:14807?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#CA|subx%20t.me%2Frjsxrd
+trojan://HxQUta02eVg8@3.96.211.215:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#CA|subx%20t.me%2Frjsxrd
+trojan://plDez)(gXYve@35.182.156.67:14822?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#CA|subx%20t.me%2Frjsxrd
+trojan://ycwU9l9)kkL8@35.183.105.23:14793?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#CA|subx%20t.me%2Frjsxrd
+trojan://PiPSz(vVVKtO@3.64.178.27:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|subx%20t.me%2Frjsxrd
+trojan://Zl4TdxUTPBlb@3.122.237.170:14797?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|subx%20t.me%2Frjsxrd
+trojan://qRaRSTEuwAy5@35.158.61.10:14813?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|subx%20t.me%2Frjsxrd
+trojan://ldC3QiF4myIb@18.192.126.233:14800?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|subx%20t.me%2Frjsxrd
+trojan://dOaPgwi2Hvz)@3.76.124.113:14803?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#DE|subx%20t.me%2Frjsxrd
+trojan://(VuRWFIPsAhP@13.38.109.97:14828?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|subx%20t.me%2Frjsxrd
+trojan://jESPFD2DoPwn@13.38.44.244:14796?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#FR|subx%20t.me%2Frjsxrd
+trojan://M4Z093NUxzTd@35.177.239.227:14812?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#GB|subx%20t.me%2Frjsxrd
+trojan://GbpL4)01b2J9@18.171.154.1:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#GB|subx%20t.me%2Frjsxrd
+trojan://HjL8vMvgFr)j@3.8.117.84:14813?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#GB|subx%20t.me%2Frjsxrd
+trojan://R5ktplWYd5PU@43.203.193.132:14786?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|subx%20t.me%2Frjsxrd
+trojan://zHckDvqHolUX@3.39.252.238:14825?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|subx%20t.me%2Frjsxrd
+trojan://hFkaShOhZSdh@52.78.143.136:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|subx%20t.me%2Frjsxrd
+trojan://eQlCz7DG3SDT@13.229.126.77:14822?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|subx%20t.me%2Frjsxrd
+trojan://1JAuty9W)9FJ@13.213.30.41:14831?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|subx%20t.me%2Frjsxrd
+trojan://iYmAGdiUow(p@47.129.43.6:14815?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|subx%20t.me%2Frjsxrd
+trojan://Bv6(vEkU79ze@13.215.202.62:14824?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|subx%20t.me%2Frjsxrd
+trojan://56XDBucDiOwF@13.213.39.39:14802?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#SG|subx%20t.me%2Frjsxrd
+trojan://S1apO)aZireU@35.95.151.36:14814?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|subx%20t.me%2Frjsxrd
+trojan://nf)F1PpGVMs2@54.188.150.95:14827?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|subx%20t.me%2Frjsxrd
+trojan://D9NOL7gTTTrL@3.236.168.245:14795?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|subx%20t.me%2Frjsxrd
+trojan://BJb2nsqRUVpK@3.87.15.14:14792?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|subx%20t.me%2Frjsxrd
+trojan://UOfS6qosiMs6@18.204.247.68:14803?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|subx%20t.me%2Frjsxrd
+trojan://l0JDnxBWqeTH@35.92.243.136:14825?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|subx%20t.me%2Frjsxrd
+trojan://lhW(t)kw)mdN@54.71.210.254:14792?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|subx%20t.me%2Frjsxrd
+trojan://U8Tt(VAqTen2@35.86.151.77:14820?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|subx%20t.me%2Frjsxrd
+trojan://zixGcZjzWxMG@44.223.106.182:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|subx%20t.me%2Frjsxrd

@@ -1,0 +1,9 @@
+#profile-title: 519-519/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://,#%20t.me%2Frjsxrd
+vmess://,#%20t.me%2Frjsxrd
+trojan://, etc.)#%20t.me%2Frjsxrd

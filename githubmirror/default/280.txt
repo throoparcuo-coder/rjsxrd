@@ -1,0 +1,12 @@
+#profile-title: 280-280/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+trojan://v7v34oyn-awup-dskg-23kl-5k3i5ajzgbwe@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/11/09 | 15:48%20t.me%2Frjsxrd
+trojan://bs1n14vr-58uw-1ifx-wtw0-xsqnwr3ot2hh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.%20t.me%2Frjsxrd
+trojan://3ej9hfq5-zpjs-s27p-x95a-ufwtzezj8lv3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」%20t.me%2Frjsxrd
+vless://87cd21c8-5366-4837-8a9d-a70d4c440336@181.36.229.212:443?type=ws&security=tls&path=/Free-VPN-CF-Geo-Project/181.36.229.212=443&sni=joss.krukkruk.web.id&fp=randomized#DO 🇩🇴 ┇ VLESS-WS-TLS - ALTICE DOMINICANA S.A. ┇ 181.36.229.212%20t.me%2Frjsxrd
+trojan://v89zn0du-qdmz-za17-borl-80rmhq60p8si@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!%20t.me%2Frjsxrd
+trojan://pbvhjjyx-iquf-cuui-v6d3-v4371b2jlu7y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0%20t.me%2Frjsxrd

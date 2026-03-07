@@ -1,0 +1,20 @@
+#profile-title: 2766-2766/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vmess://$(echo $asu | base64 -w 0)"#%20t.me%2Frjsxrd
+vmess://$(echo $ask | base64 -w 0)"#%20t.me%2Frjsxrd
+vmess://$(echo $grpc | base64 -w 0)"#%20t.me%2Frjsxrd
+vmess://$(echo $VMESS_WS | base64 -w 0)#%20t.me%2Frjsxrd
+vmess://$(echo $VMESS_NON_TLS | base64 -w 0)#%20t.me%2Frjsxrd
+vmess://$(echo $VMESS_GRPC | base64 -w 0)#%20t.me%2Frjsxrd
+vmess://$(echo $VMESS_OPOK | base64 -w 0)#%20t.me%2Frjsxrd
+vmess://$(echo $asu | base64 -w 0)"#%20t.me%2Frjsxrd
+vmess://$(echo $ask | base64 -w 0)"#%20t.me%2Frjsxrd
+vmess://$(echo $grpc | base64 -w 0)"#%20t.me%2Frjsxrd
+vmess://$(echo $VMESS_WS | base64 -w 0)#%20t.me%2Frjsxrd
+vmess://$(echo $VMESS_NON_TLS | base64 -w 0)#%20t.me%2Frjsxrd
+vmess://$(echo $VMESS_GRPC | base64 -w 0)#%20t.me%2Frjsxrd
+vmess://$(echo $VMESS_OPOK | base64 -w 0)#%20t.me%2Frjsxrd

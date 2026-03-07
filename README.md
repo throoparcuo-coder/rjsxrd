@@ -2,11 +2,13 @@
 
 tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 
+---
+
 Автоматически обновляемая коллекция публичных VPN-конфигов (`V2Ray` / `VLESS` / `Trojan` / `VMess` / `Reality` / `Shadowsocks` / `Hysteria2` / `TUIC`) для быстрого обхода блокировок. Обход белых списков на мобильном интернете.
 
 Каждый конфиг — это TXT-подписка, которую можно импортировать практически в любой современный клиент (`v2rayNG`, `NekoRay`, `Throne`, `v2rayN`, `V2Box`, `v2RayTun`, `Hiddify` и др.).
 
-Конфиги обновляются каждые **12 часов** с помощью GitHub Actions, поэтому все ссылки всегда актуальны.
+Конфиги обновляются **раз в 2 дня** с помощью GitHub Actions, поэтому все ссылки всегда актуальны.
 
 ## Особенности
 - Автоматическая фильтрация и дедупликация конфигов
@@ -24,6 +26,11 @@ tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 - Небезопасные конфиги для обхода SNI/CIDR
 - Конфиги, разделенные по протоколам
 - Создание файлов all.txt и all-secure.txt
+- **Автоматическая верификация конфигов**: тестирование через Xray-core с сортировкой по скорости (fastest first)
+- **Двухуровневая система верификации**:
+  - **Raw файлы**: нетестированные конфиги в `/raw/` подпапках
+  - **Верифицированные файлы**: протестированы через Xray-core, отсортированы по пингу
+- **Telegram прокси**: автоматический сбор, верификация и обработка MTProto и SOCKS5 прокси для Telegram с сортировкой по пингу
 - Улучшенная валидация конфигов: теперь учитываются только строки, начинающиеся с поддерживаемого протокола (vless://, vmess://, trojan:// и др.) для предотвращения включения неподходящих строк в итоговые файлы
 - Поддержка ежедневно обновляемых репозиториев с автоматическим поиском конфигов по дате
 - Поддержка YAML-конфигов с конвертацией в формат VPN URL
@@ -44,6 +51,7 @@ tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
     - [Конфиги для обхода SNI/CIDR белых списков (bypass/)](#конфиги-для-обхода-snicidr-белых-списков-bypass)
     - [Небезопасные конфиги для обхода SNI/CIDR (bypass-unsecure/)](#небезопасные-конфиги-для-обхода-snicidr-bypass-unsecure)
     - [Конфиги, разделенные по протоколам (split-by-protocols/)](#конфиги-разделенные-по-протоколам-split-by-protocols)
+   - [Telegram прокси (tg-proxy/)](#telegram-прокси-tg-proxy)
   - [Установка и использование](#установка-и-использование)
   - [Дополнительно](#дополнительно)
     - [Структура репозитория](#структура-репозитория)
@@ -158,7 +166,12 @@ tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 - **[hysteria2.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria2.txt)** - все Hysteria2 конфиги
 - **[hy2.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hy2.txt)** - все Hysteria2 (hy2) конфиги
 
+### Telegram прокси (tg-proxy/)
 
+**Файлы с Telegram прокси для обхода блокировок мессенджера**:
+- **[all.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/tg-proxy/all.txt)** - все Telegram прокси (MTProto + SOCKS5, отсортированы по пингу)
+- **[MTProto.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/tg-proxy/MTProto.txt)** - только MTProto прокси
+- **[socks.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/tg-proxy/socks.txt)** - только SOCKS5 прокси
 
 [Ссылка на QR-коды вечно актуальных конфигов](https://github.com/whoahaow/rjsxrd/tree/main/qr-codes)
 
@@ -360,33 +373,41 @@ Linux - linux-amd64.zip
 ```text
 githubmirror/        - сгенерированные .txt файлы конфигов
  ├─ default/          - основные конфиги (1.txt, 2.txt, ..., all.txt, all-secure.txt)
- ├─ bypass/           - безопасные конфиги для обхода SNI/CIDR (bypass-all.txt, bypass-1.txt, bypass-2.txt, ...)
- ├─ bypass-unsecure/  - все конфиги для обхода SNI/CIDR (включая небезопасные) (bypass-unsecure-all.txt, bypass-unsecure-1.txt, ...)
- └─ split-by-protocols/ - протокол-специфичные файлы (vless.txt, vmess.txt, trojan.txt, и т.д. в обеих версиях: secure и unsecure)
+ ├─ bypass/           - безопасные конфиги для обхода SNI/CIDR
+ │   ├─ raw/          - нетестированные конфиги (перед верификацией)
+ │   └─ bypass-all.txt, bypass-1.txt, ... (протестированы, отсортированы по пингу)
+ ├─ bypass-unsecure/  - все конфиги для обхода SNI/CIDR (включая небезопасные)
+ │   ├─ raw/          - нетестированные конфиги (перед верификацией)
+ │   └─ bypass-unsecure-all.txt, bypass-unsecure-1.txt, ... (протестированы, отсортированы по пингу)
+ ├─ split-by-protocols/ - протокол-специфичные файлы (vless.txt, vmess.txt, trojan.txt, и т.д. в обеих версиях: secure и unsecure)
+ ├─ tg-proxy/         - Telegram прокси (all.txt, MTProto.txt, socks.txt)
 qr-codes/            - PNG-версии конфигов для импорта по QR
 source/              - исходный код генератора
  ├─ main.py          - основная точка входа в приложение
  ├─ config/          - настройки и конфигурационные параметры
  │   ├─ settings.py  - глобальные настройки, токены, URL-источники, часовые пояса
- │   ├─ URLS.txt     - список URL для основных конфигов
- │   ├─ URLS_base64.txt - список URL для base64-кодированных подписок
- │   ├─ URLS_yaml.txt - список URL для YAML-конфигов
+ │   ├─ URLS.txt     - список URL для основных конфигов (секции: default, extra_bypass, yaml, telegram)
  │   ├─ servers.txt  - список ручных серверов для добавления в конфигурации
  │   ├─ whitelist-all.txt - список доменов для SNI фильтрации
  │   └─ cidrwhitelist.txt - список CIDR для IP фильтрации
  ├─ fetchers/        - модули для загрузки конфигов из внешних источников
- │   ├─ fetcher.py   - базовый загрузчик конфигов с обработкой ошибок
+ │   ├─ fetcher.py   - базовый загрузчик конфигов с curl_cffi (быстрый, обход анти-ботов)
  │   ├─ daily_repo_fetcher.py - загрузка из ежедневно обновляемого репозитория
- │   └─ yaml_converter.py - конвертер YAML-конфигов в формат VPN URL
+ │   ├─ telegram_proxy_scraper.py - скрапер Telegram прокси (MTProto и SOCKS5)
+ │   └─ yaml_converter.py - конвертер YAML-конфигов (Clash/Surge) в формат VPN URL
  ├─ processors/      - основная обработка и фильтрация конфигов
- │   └─ config_processor.py - содержит всю основную логику обработки
+ │   ├─ config_processor.py - содержит всю основную логику обработки
+ │   └─ telegram_proxy_processor.py - обработчик Telegram прокси
  ├─ utils/           - вспомогательные функции и утилиты
- │   ├─ file_utils.py - файловые операции, фильтрация insecure конфигов
- │   │                - содержит улучшенную функцию has_insecure_setting()
+ │   ├─ file_utils.py - файловые операции, фильтрация insecure конфигов, SNI/CIDR фильтрация
  │   ├─ logger.py    - потокобезопасное логирование
- │   └─ github_handler.py - работа с GitHub API
+ │   ├─ github_handler.py - работа с GitHub API
+ │   ├─ git_updater.py - Git-коммиты (режим GitHub Actions)
+ │   ├─ config_verifier.py - DNS/TCP/HTTP верификация с кэшированием
+ │   ├─ xray_batch_tester.py - v2rayN-стиль Xray-core батч-тестирование
+ │   └─ telegram_proxy_verifier.py - верификация Telegram прокси
  └─ requirements.txt - зависимости проекта
-.github/workflows/   - CI/CD (авто-обновление каждые 12 часов)
+.github/workflows/   - CI/CD (авто-обновление ежедневно)
 README.md            - этот файл
 docs/                - документация проекта
 ```
@@ -404,10 +425,32 @@ python main.py                   # конфиги появятся в ../githubm
 
 > **Важно!** В файле `source/config/settings.py` вручную задайте `REPO_NAME = "<username>/<repository>"`, если запускаете скрипт из форка.
 
-Для локального тестирования без загрузки в GitHub используйте флаг `--dry-run`:
+#### Режимы запуска
+
+**Локальное тестирование без загрузки в GitHub:**
 ```bash
 python main.py --dry-run
 ```
+
+**Запуск в режиме GitHub Actions (использует git команды вместо API):**
+```bash
+python main.py --use-git
+```
+
+**Пропустить Xray верификацию (только TCP проверка, быстрее но менее точно):**
+```bash
+python main.py --skip-xray
+```
+
+#### Зависимости
+
+Основные зависимости:
+- `curl_cffi` - быстрый HTTP клиент с TLS fingerprinting (2-3x быстрее requests)
+- `PyGithub` - работа с GitHub API
+- `PyYAML` - парсинг YAML конфигов (Clash/Surge)
+- `requests[socks]` - HTTP запросы через прокси
+- `aiodns` - асинх DNS резолвинг (опционально, для скорости)
+- `PySocks` - SOCKS прокси поддержка
 
 ---
 

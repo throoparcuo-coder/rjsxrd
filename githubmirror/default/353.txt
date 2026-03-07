@@ -1,0 +1,10 @@
+#profile-title: 353-353/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+ss://062e6bee-c3f2-42e7-a1c1-e09305b2cffe@178.17.48.57:443?security=reality&encryption=none&pbk=gmcaceHetuS4yBVtFAlZbhupbpkmpqPrm38lM2Vfjks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.digital&sid=e751cbd976552088#REALITY|IQ🇮🇶%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+143.09ms%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#%F0%9F%87%AE%F0%9F%87%B6IQ-178.17.61.67-0281%20t.me%2Frjsxrd
+vless://062e6bee-c3f2-42e7-a1c1-e09305b2cffe@178.17.48.57:443?security=reality&encryption=none&pbk=gmcaceHetuS4yBVtFAlZbhupbpkmpqPrm38lM2Vfjks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.digital&sid=e751cbd976552088#REALITY|IQ🇮🇶%20t.me%2Frjsxrd

@@ -1,0 +1,7 @@
+#profile-title: 1083-1083/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://I_Love_🇵🇸_SSHMax_61cbbe6@172.66.40.99:443?path=🔒 [By EbraSha]&security=tls&encryption=none&allowinsecure=0&type=ws&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 345 #@Xen2ray💛%20t.me%2Frjsxrd

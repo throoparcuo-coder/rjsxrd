@@ -1,0 +1,11 @@
+#profile-title: 2363-2363/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vmess://eyJhZGQiOiJ5eGlwLmJlZXRlY2guY2xvdWRucy5iaXoiLCJhaWQiOiIwIiwiaG9zdCI6ImhrLmJlZXRlY2guY2xvdWRucy5iaXoiLCJpZCI6ImZlZTMwM2NlLTIxYTEtNGRhZC1hM2M3LWI1NjczYzkxYzdhZSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bTg4ODAiLCJwb3J0IjoiMjA1MiIsInBzIjoiaGsreXhpcCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#%20t.me%2Frjsxrd
+vmess://eyJhZGQiOiJoay5iZWV0ZWNoLmNsb3VkbnMuYml6IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImU3NzBkMTFmLWYzMGQtNDMyMi1hOTMyLTA2NjNjZDgzZDA5NiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiNDQzIiwicHMiOiJoayt2bWVzcyt3cyt3ZWIiLCJzY3kiOiJ6ZXJvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#%20t.me%2Frjsxrd
+vless://5fa096b7-3879-4567-e1db-2bda9e8dadf1@hk.beetech.cloudns.biz:21017?security=reality&sni=www.towngas.com&fp=random&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&sid=04bf3faf&type=tcp&flow=xtls-rprx-vision&encryption=none#hk-reality%20t.me%2Frjsxrd
+vless://9f45b351-34e3-42b3-d230-37b28453099c@hk.beetech.cloudns.biz:443?security=tls&type=ws&path=/vless9f45b351&encryption=none#hk+vless+web%20t.me%2Frjsxrd
+trojan://Xt7hbtc2vX@hk.beetech.cloudns.biz:21020?security=tls&fp=random&type=ws&path=/23@456uji(87#hk+trojan%20t.me%2Frjsxrd

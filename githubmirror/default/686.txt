@@ -1,0 +1,15 @@
+#profile-title: 686-686/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://89038685-e5f4-4315-8cac-325e122f9ce2@37.202.238.220:1992?security=none&amp;encryption=none&amp;host=skyroom.online%2Cigap.net%2Cgharar.ir&amp;headerType=http&amp;type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%E2%98%84%EF%B8%8F%20t.me%2Frjsxrd
+vless://440af2ed-35c4-4884-e230-0c41f56a14a2@37.32.42.100:21103?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%E2%98%84%EF%B8%8F%20t.me%2Frjsxrd
+vless://89038685-e5f4-4315-8cac-325e122f9ce2@37.202.238.220:1992?security=none&amp;encryption=none&amp;host=skyroom.online%2Cigap.net%2Cgharar.ir&amp;headerType=http&amp;type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%E2%98%84%EF%B8%8F%20t.me%2Frjsxrd
+vless://440af2ed-35c4-4884-e230-0c41f56a14a2@37.32.42.100:21103?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%E2%98%84%EF%B8%8F%20t.me%2Frjsxrd
+vless://89038685-e5f4-4315-8cac-325e122f9ce2@37.202.238.220:1992?security=none&amp;encryption=none&amp;host=skyroom.online%2Cigap.net%2Cgharar.ir&amp;headerType=http&amp;type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%E2%98%84%EF%B8%8F%20t.me%2Frjsxrd
+vless://440af2ed-35c4-4884-e230-0c41f56a14a2@37.32.42.100:21103?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%E2%98%84%EF%B8%8F%20t.me%2Frjsxrd
+vless://89038685-e5f4-4315-8cac-325e122f9ce2@37.202.238.220:1992?security=none&amp;encryption=none&amp;host=skyroom.online%2Cigap.net%2Cgharar.ir&amp;headerType=http&amp;type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%E2%98%84%EF%B8%8F%20t.me%2Frjsxrd
+vless://440af2ed-35c4-4884-e230-0c41f56a14a2@37.32.42.100:21103?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%E2%98%84%EF%B8%8F%20t.me%2Frjsxrd
+vless://89038685-e5f4-4315-8cac-325e122f9ce2@37.202.238.220:1992?security=none&amp;encryption=none&amp;host=skyroom.online%2Cigap.net%2Cgharar.ir&amp;headerType=http&amp;type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Daily_Configs%20%E2%98%84%EF%B8%8F%20t.me%2Frjsxrd

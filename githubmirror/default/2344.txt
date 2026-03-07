@@ -1,0 +1,7 @@
+#profile-title: 2344-2344/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+ss://$script,websocket#%20t.me%2Frjsxrd

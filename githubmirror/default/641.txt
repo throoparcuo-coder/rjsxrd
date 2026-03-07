@@ -1,0 +1,21 @@
+#profile-title: 641-641/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://e926558e-f6de-40d5-cee6-178e72f5586b@104.27.77.90:80/?type=ws&encryption=none&host=neT.MiCrosOfTS.doWnLOAd&path=%2F#%2B%7C%20t.me%2Frjsxrd
+vless://c45e038c-976c-4c65-b3a3-eb5c03519b71@panel.aryanrayan.xyz:443/?type=ws&encryption=none&host=panel.aryanrayan.xyz&path=%2Fsrv1&security=tls&sni=panel.aryanrayan.xyz&alpn=http%2F1.1#890%20t.me%2Frjsxrd
+vless://---Telegram-Parsashonam--6-@zula.ir:443/?type=grpc&encryption=none&security=tls&sni=0Germany.Parsashonam.Tech#%F0%9F%87%A9%F0%9F%87%AA-TLS-1%20t.me%2Frjsxrd
+vless://DamonConfig@damonconfig.king-web.site:2096/?type=grpc&encryption=none&serviceName=%40DamonConfig%40DamonConfig%40DamonConfig%40DamonConfig%40DamonConfig%40DamonConfig&security=tls&sni=damon-config.king-web.site&alpn=h2#13%20t.me%2Frjsxrd
+vless://fcaf5da5-ff63-4493-8ec1-90c46b26022d@81.28.6.228:25010/?encryption=none&host=ghbi.ir&type=tcp&headerType=http#01%20t.me%2Frjsxrd
+vless://af3881da-1b90-4709-8725-9d8bc67903b8@172.67.213.151:8443/?type=grpc&encryption=none&serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&security=tls&sni=fast1.alpha5.top#03%20t.me%2Frjsxrd
+vless://913dfd5d-c4ab-4bd9-af2d-fd320252e9f5@104.21.12.150:80/?type=ws&encryption=none&host=us4.vlessx.us&path=%2F%3Fed%3D2048#04%20t.me%2Frjsxrd
+vmess://eyJhZGQiOiIxNzIuNjcuMTMyLjIwOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaXMyLXZtZXNzLnNzaG1heC54eXoiLCJpZCI6IjdlNjdkZmNhLTNmMGQtNGJhMS1hN2U4LWIyNzJiY2ZjMTU2ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiMDYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=#%20t.me%2Frjsxrd
+hysteria://51.158.54.46:11926/?insecure=1&peer=Telegram-IPCF.Cloud&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=80&downmbps=100&alpn=h3#05%20t.me%2Frjsxrd
+hysteria://173.234.25.52:20164/?insecure=1&peer=Telegram-IPCF.Cloud&auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&upmbps=50&downmbps=100&alpn=h3#14%20t.me%2Frjsxrd
+vless://67736622-d2b2-49fa-84eb-6259d61b0223@104.21.65.133:2087/?type=grpc&encryption=none&serviceName=IP_CF&security=tls&sni=kyyugkuyuygutf.mic-mokhaderat-shatel-irancel-digikala.shop&fp=chrome#09%20t.me%2Frjsxrd
+vless://a4d7dc2d-4810-4b45-a0be-49796aebe7d3@172.64.104.204:2083/?type=grpc&encryption=none&serviceName=dailyconfigs.darkmood.cfd&security=tls&sni=dailyconfigs.Darkmood.cfd&fp=chrome#%F0%9F%95%8A%EF%B8%8F%F0%9F%96%A4%0A%0A%20t.me%2Frjsxrd
+vless://ec35852e-9b67-40bb-a98c-d3003dbfccd7@193.203.202.7:443/?type=tcp&encryption=none#%F0%9F%9A%B8%20VLESS%20%28340%29%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@www.outline.network.ak1913.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#CF%20t.me%2Frjsxrd
+vless://e5f264b2-4ef8-41b8-835e-c0be22b2f1b4@91.151.93.69:8080/?type=grpc&encryption=none&serviceName=%40UCIRANIR%40UCIRANIR%40UCIRANIR%40UCIRANIR%40UCIRANIR%40UCIRANIR%40UCIRANIR%40UCIRANIR%40UCIRANIR%40UCIRANIR%40UCIRANIR%40UCIRANIR&sni=haendlerbund.de&fp=chrome&security=reality&pbk=UxvbIy3zbYQNftyNqZk7vTTjibN45vRmZ0MaJSIVQH8&sid=47b8abb6#VLESS%2810%29%20t.me%2Frjsxrd

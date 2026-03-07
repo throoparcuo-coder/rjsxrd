@@ -1,0 +1,36 @@
+#profile-title: 1838-1838/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://${uuid}@${wildcard}:443?encryption=none&security=tls&sni=${modifiedHostName}&fp=randomized&type=ws&host=${modifiedHostName}&path=${encodeURIComponent(config.path.toUpperCase())}#(${config.countryCode})%20${config.isp.replace(/\s/g,'%20')}${getFlagEmoji(config.countryCode)}`}')">%20t.me%2Frjsxrd
+trojan://${uuid}@${wildcard}:443?encryption=none&security=tls&sni=${modifiedHostName}&fp=randomized&type=ws&host=${modifiedHostName}&path=${encodeURIComponent(config.path.toUpperCase())}#(${config.countryCode})%20${config.isp.replace(/\s/g,'%20')}${getFlagEmoji(config.countryCode)}`}')">%20t.me%2Frjsxrd
+ss://${btoa(`none:${uuid}`)}%3D@${wildcard}:443?encryption=none&type=ws&host=${modifiedHostName}&path=${encodeURIComponent(config.path.toUpperCase())}&security=tls&sni=${modifiedHostName}#(${config.countryCode})%20${config.isp.replace(/\s/g,'%20')}${getFlagEmoji(config.countryCode)}`}')">%20t.me%2Frjsxrd
+vless://${uuid}@${wildcard}:80?path=${encodeURIComponent(config.path.toUpperCase())}&security=none&encryption=none&host=${modifiedHostName}&fp=randomized&type=ws&sni=${modifiedHostName}#(${config.countryCode})%20${config.isp.replace(/\s/g,'%20')}${getFlagEmoji(config.countryCode)}`}')">%20t.me%2Frjsxrd
+trojan://${uuid}@${wildcard}:80?path=${encodeURIComponent(config.path.toUpperCase())}&security=none&encryption=none&host=${modifiedHostName}&fp=randomized&type=ws&sni=${modifiedHostName}#(${config.countryCode})%20${config.isp.replace(/\s/g,'%20')}${getFlagEmoji(config.countryCode)}`}')">%20t.me%2Frjsxrd
+ss://${btoa(`none:${uuid}`)}%3D@${wildcard}:80?encryption=none&type=ws&host=${modifiedHostName}&path=${encodeURIComponent(config.path.toUpperCase())}&security=none&sni=${modifiedHostName}#(${config.countryCode})%20${config.isp.replace(/\s/g,'%20')}${getFlagEmoji(config.countryCode)}`}')">%20t.me%2Frjsxrd
+vless://${UUIDS}\u0040${bug}:443?encryption=none&security=tls&sni=${bexnxx}&fp=randomized&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}#${ispInfo}\n`;%20t.me%2Frjsxrd
+vless://${UUIDS}\u0040${bug}:80?path=%2F${proxyHost}%3D${proxyPort}&security=none&encryption=none&host=${bexnxx}&fp=randomized&type=ws&sni=${bexnxx}#${ispInfo}\n`;%20t.me%2Frjsxrd
+trojan://${UUIDS}\u0040${bug}:443?encryption=none&security=tls&sni=${bexnxx}&fp=randomized&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}#${ispInfo}\n`;%20t.me%2Frjsxrd
+trojan://${UUIDS}\u0040${bug}:80?path=%2F${proxyHost}%3D${proxyPort}&security=none&encryption=none&host=${bexnxx}&fp=randomized&type=ws&sni=${bexnxx}#${ispInfo}\n`;%20t.me%2Frjsxrd
+ss://${btoa(`none:${UUIDS}`)}%3D@${bug}:443?encryption=none&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}&security=tls&sni=${bexnxx}#${ispInfo}\n`;%20t.me%2Frjsxrd
+ss://${btoa(`none:${UUIDS}`)}%3D@${bug}:80?encryption=none&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}&security=none&sni=${bexnxx}#${ispInfo}\n`;%20t.me%2Frjsxrd
+vless://${UUIDS}\u0040${bug}:443?encryption=none&security=tls&sni=${bexnxx}&fp=randomized&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}#${ispInfo}\n`;%20t.me%2Frjsxrd
+trojan://${UUIDS}\u0040${bug}:443?encryption=none&security=tls&sni=${bexnxx}&fp=randomized&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}#${ispInfo}\n`;%20t.me%2Frjsxrd
+ss://${btoa(`none:${UUIDS}`)}%3D@${bug}:443?encryption=none&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}&security=tls&sni=${bexnxx}#${ispInfo}\n`;%20t.me%2Frjsxrd
+vless://${UUIDS}\u0040${bug}:80?path=%2F${proxyHost}%3D${proxyPort}&security=none&encryption=none&host=${bexnxx}&fp=randomized&type=ws&sni=${bexnxx}#${ispInfo}\n`;%20t.me%2Frjsxrd
+trojan://${UUIDS}\u0040${bug}:80?path=%2F${proxyHost}%3D${proxyPort}&security=none&encryption=none&host=${bexnxx}&fp=randomized&type=ws&sni=${bexnxx}#${ispInfo}\n`;%20t.me%2Frjsxrd
+ss://${btoa(`none:${UUIDS}`)}%3D@${bug}:80?encryption=none&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}&security=none&sni=${bexnxx}#${ispInfo}\n`;%20t.me%2Frjsxrd
+vless://${UUIDS}@${bug}:443?encryption=none&security=tls&sni=${bexnxx}&fp=randomized&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}#${information}\n`;%20t.me%2Frjsxrd
+vless://${UUIDS}@${bug}:80?path=%2F${proxyHost}%3D${proxyPort}&security=none&encryption=none&host=${bexnxx}&fp=randomized&type=ws&sni=${bexnxx}#${information}\n`;%20t.me%2Frjsxrd
+trojan://${UUIDS}@${bug}:443?encryption=none&security=tls&sni=${bexnxx}&fp=randomized&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}#${information}\n`;%20t.me%2Frjsxrd
+trojan://${UUIDS}@${bug}:80?path=%2F${proxyHost}%3D${proxyPort}&security=none&encryption=none&host=${bexnxx}&fp=randomized&type=ws&sni=${bexnxx}#${information}\n`;%20t.me%2Frjsxrd
+ss://${btoa(`none:${UUIDS}`)}%3D@${bug}:443?encryption=none&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}&security=tls&sni=${bexnxx}#${information}\n`;%20t.me%2Frjsxrd
+ss://${btoa(`none:${UUIDS}`)}%3D@${bug}:80?encryption=none&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}&security=none&sni=${bexnxx}#${information}\n`;%20t.me%2Frjsxrd
+vless://${UUIDS}@${bug}:443?encryption=none&security=tls&sni=${bexnxx}&fp=randomized&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}#${information}\n`;%20t.me%2Frjsxrd
+trojan://${UUIDS}@${bug}:443?encryption=none&security=tls&sni=${bexnxx}&fp=randomized&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}#${information}\n`;%20t.me%2Frjsxrd
+ss://${btoa(`none:${UUIDS}`)}%3D@${bug}:443?encryption=none&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}&security=tls&sni=${bexnxx}#${information}\n`;%20t.me%2Frjsxrd
+vless://${UUIDS}@${bug}:80?path=%2F${proxyHost}%3D${proxyPort}&security=none&encryption=none&host=${bexnxx}&fp=randomized&type=ws&sni=${bexnxx}#${information}\n`;%20t.me%2Frjsxrd
+trojan://${UUIDS}@${bug}:80?path=%2F${proxyHost}%3D${proxyPort}&security=none&encryption=none&host=${bexnxx}&fp=randomized&type=ws&sni=${bexnxx}#${information}\n`;%20t.me%2Frjsxrd
+ss://${btoa(`none:${UUIDS}`)}%3D@${bug}:80?encryption=none&type=ws&host=${bexnxx}&path=%2F${proxyHost}%3D${proxyPort}&security=none&sni=${bexnxx}#${information}\n`;%20t.me%2Frjsxrd

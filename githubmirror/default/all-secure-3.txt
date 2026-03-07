@@ -1,0 +1,7 @@
+#profile-title: all-secure-3/3 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://2b0f0798-1099-4e72-8c69-efe9b8b6a9b8@171.22.31.215:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=vpn.xorealis.com&fp=chrome&pbk=N9YEtcvbXxG2GD8cLMlQT35HnX8cmvYPasnqtcBW_XY&sid=131df166be01a436#killmeblackcotton.de-01.hitorivpn%20-%20user_0vm55t%20t.me%2Frjsxrd

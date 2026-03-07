@@ -148,3 +148,13 @@ settings_local.py
 
 # GitHub token environment variable
 MY_TOKEN
+
+# nul
+nul
+
+# Xray binary (auto-downloaded, large file)
+source/xray/
+xray/
+*.exe
+geosite.dat
+geoip.dat

@@ -1,0 +1,11 @@
+#profile-title: 899-899/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiNzgsODI1IEdCIC0gMjAyMy0xMi0yNSAwOToyNjowMiIsICJhZGQiOiAiY3BhbmVsLmlwdHVubmVscy5jb20iLCAicG9ydCI6IDgwLCAiaWQiOiAiMjNmZmY5OGMtNmE5ZS00Y2Y1LWJjMzMtMTRmODFkOWY0NzQwIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJPcGVuLnNwb3RpZnkuY29tIiwgInBhdGgiOiAiL2J1eS12bWVzcy13cy1wbS10ZWxlZ3JhbS1hdC1zeW5yaWNoYSIsICJ0bHMiOiAiIn0=#%20t.me%2Frjsxrd
+vless://28a00a5d-7527-45da-b0b6-c7e82cfcfcb1@cpanel.iptunnels.com:80?path=/buy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&type=ws&host=Open.spotify.com#39%2C218%20GB%20-%202023-12-25%2014%3A32%3A01%20t.me%2Frjsxrd
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMzEsOTg4IEdCIC0gMjAyMy0xMi0yNSAwNzozNDowMSIsICJhZGQiOiAiamFsYS5pcHR1bm5lbHMuY29tIiwgInBvcnQiOiA4MCwgImlkIjogImI5YjkwNDRjLWFkYWQtNGYxNC05Nzk5LTMzOWM0YTZmOGJlYyIsICJhaWQiOiAwLCAibmV0IjogIndzIiwgImhvc3QiOiAiT3Blbi5zcG90aWZ5LmNvbSIsICJwYXRoIjogIi9idXktdm1lc3Mtd3MtcG0tdGVsZWdyYW0tYXQtc3lucmljaGEiLCAidGxzIjogIiJ9#%20t.me%2Frjsxrd
+vless://b7d8f368-225e-41c4-958e-60e05eb70e0d@jala.iptunnels.com:80?path=/buy-vless-ws-pm-telegram-at-synricha&security=none&encryption=none&type=ws&host=Open.spotify.com#25%2C258%20GB%20-%202023-12-24%2015%3A10%3A05%20t.me%2Frjsxrd
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMywxODEgR0IgLSAyMDIzLTEyLTI2IDAxOjE4OjAyIiwgImFkZCI6ICJqYWxhLmlwdHVubmVscy5jb20iLCAicG9ydCI6IDgwLCAiaWQiOiAiMDM4YjM5NTAtZjVjOS00Y2M0LTk4OWUtMDAyOTU3OTljNGFiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJPcGVuLnNwb3RpZnkuY29tIiwgInBhdGgiOiAiL2J1eS12bWVzcy13cy1wbS10ZWxlZ3JhbS1hdC1zeW5yaWNoYSIsICJ0bHMiOiAiIn0=#%20t.me%2Frjsxrd

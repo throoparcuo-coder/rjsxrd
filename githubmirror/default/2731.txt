@@ -1,0 +1,11 @@
+#profile-title: 2731-2731/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vmess://"):#%20t.me%2Frjsxrd
+vless://"):#%20t.me%2Frjsxrd
+trojan://"):#%20t.me%2Frjsxrd
+ss://"):#%20t.me%2Frjsxrd
+ssr://"):#%20t.me%2Frjsxrd

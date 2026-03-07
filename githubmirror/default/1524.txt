@@ -1,0 +1,7 @@
+#profile-title: 1524-1524/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://f368a002-a4b6-424c-a75d-7473a717a14d@vpn.emdev.ru:443?type=tcp&security=reality&pbk=l0zuO4QC98V3-9qLm11kITL4qk2MDLGluFh8Le-cpyg&fp=random&sni=yahoo.com&sid=f73200f229&spx=%2F&flow=xtls-rprx-vision#VLESS%2BXTLS-Reality-aignatenko%20t.me%2Frjsxrd

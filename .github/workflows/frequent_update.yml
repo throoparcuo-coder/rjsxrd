@@ -2,23 +2,32 @@ name: Update VPN Configs
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Every 12 hours
+    - cron: "0 0 */2 * *"  # Once every 2 days at midnight UTC
   workflow_dispatch:
 
 jobs:
   update-files:
     runs-on: ubuntu-latest
+    timeout-minutes: 80
+    permissions:
+      contents: write
+
+    concurrency:
+      group: vpn-config-update
+      cancel-in-progress: true
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 2  # Fetch more commits to compare
+          fetch-depth: 1  # Shallow clone is sufficient
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          python-version: '3.12'
+          cache: 'pip'
 
       - name: Upgrade pip
         run: python -m pip install --upgrade pip
@@ -26,8 +35,14 @@ jobs:
       - name: Install dependencies
         run: cd source && pip install --no-cache-dir -r requirements.txt
 
-      - name: Run script
-        env:
-          MY_TOKEN: ${{ secrets.MY_TOKEN }}
+      - name: Run script with git mode
+        id: run_script
         run: |
-          cd source && python main.py
+          cd source && python main.py --use-git
+        continue-on-error: true
+
+      - name: Check script result
+        if: steps.run_script.outcome == 'failure'
+        run: |
+          echo "::error::VPN config update failed"
+          exit 1

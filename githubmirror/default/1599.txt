@@ -1,0 +1,15 @@
+#profile-title: 1599-1599/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://链接添加节点时候，在grpc模式下，serviceName可能漏掉添加的问题#%20t.me%2Frjsxrd
+vmess://xxx 链接添的节点在节点面板中信息显示不全的问题#%20t.me%2Frjsxrd
+vmess://xxx 链接添的节点将由xray运行#%20t.me%2Frjsxrd
+vmess://xxx 链接添加节点的支持#%20t.me%2Frjsxrd
+ss://,#%20t.me%2Frjsxrd
+ssr://,#%20t.me%2Frjsxrd
+vmess://,#%20t.me%2Frjsxrd
+vless://,#%20t.me%2Frjsxrd
+trojan://链接添加节点可能失败的问题#%20t.me%2Frjsxrd

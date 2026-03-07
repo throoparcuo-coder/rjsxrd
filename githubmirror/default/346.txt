@@ -1,0 +1,14 @@
+#profile-title: 346-346/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+ss://eyJhZGQiOiJkb3duLmdvb2RkZWNpc2lvbmZvcnlvdS5iZXN0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI3ZWZlODdhLWY5YWItNDViMS1iZjBiLWExNmVjNjVhMDBjNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTk1MzIiLCJwcyI6InQubWUva3V0b3Byb3h58J+HqfCfh6oiLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#%20t.me%2Frjsxrd
+vless://b9581975-5527-4432-a89b-aa848a6b8a98@ge1.v2vml.ga:52496?path=%2F&security=tls&encryption=none&host=ge1.v2vml.ga&type=ws&sni=ge1.v2vml.ga#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA%20t.me%2Frjsxrd
+trojan://ccBIufLBGd@ge1.v2vml.ga:16548#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA------------------------------------------必进：【TG全网导航】%20t.me%2Frjsxrd
+vless://b9581975-5527-4432-a89b-aa848a6b8a98@ge1.v2vml.ga:52496?path=%2F&security=tls&encryption=none&host=ge1.v2vml.ga&type=ws&sni=ge1.v2vml.ga#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA%20t.me%2Frjsxrd
+trojan://ccBIufLBGd@ge1.v2vml.ga:16548#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA------------------------------------------必进：【TG全网导航】%20t.me%2Frjsxrd
+vmess://eyJhZGQiOiJkb3duLmdvb2RkZWNpc2lvbmZvcnlvdS5iZXN0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI3ZWZlODdhLWY5YWItNDViMS1iZjBiLWExNmVjNjVhMDBjNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTk1MzIiLCJwcyI6InQubWUva3V0b3Byb3h58J+HqfCfh6oiLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#%20t.me%2Frjsxrd
+vless://b9581975-5527-4432-a89b-aa848a6b8a98@ge1.v2vml.ga:52496?path=%2F&security=tls&encryption=none&host=ge1.v2vml.ga&type=ws&sni=ge1.v2vml.ga#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA%20t.me%2Frjsxrd
+trojan://ccBIufLBGd@ge1.v2vml.ga:16548#t.me%2Fkutoproxy%F0%9F%87%A9%F0%9F%87%AA------------------------------------------必进：【TG全网导航】%20t.me%2Frjsxrd

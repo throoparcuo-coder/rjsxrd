@@ -1,0 +1,12 @@
+#profile-title: 1602-1602/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://${uuidv4()}@${selectedService}:443?encryption=none&type=ws&host=${domain}&path=%2F${id}${cons}&security=tls&sni=${domain}#(${selectedService})+${id}+${isp}`;%20t.me%2Frjsxrd
+vless://${uuidv4()}@${selectedService}:443?encryption=none&type=ws&host=${domain}&path=%2F${ip}-${port}&security=tls&sni=${domain}#(${selectedService})+${id}+${isp}`;%20t.me%2Frjsxrd
+trojan://${uuidv4()}@${selectedService}:443?encryption=none&type=ws&host=${domain}&path=%2F${id}${cons}&security=tls&sni=${domain}#(${selectedService})+${id}+${isp}`;%20t.me%2Frjsxrd
+trojan://${uuidv4()}@${selectedService}:443?encryption=none&type=ws&host=${domain}&path=%2F${ip}-${port}&security=tls&sni=${domain}#(${selectedService})+${id}+${isp}`;%20t.me%2Frjsxrd
+ss://bm9uZTo1ZDJlYmQyYS05Y2I5LTRkMWItYWY1NS04NjE3ZDNlODFmMzk%3D@${selectedService}:443?encryption=none&type=ws&host=${domain}&path=%2F${id}${cons}&security=tls&sni=${domain}#(${selectedService})+${id}+${isp}`;%20t.me%2Frjsxrd
+ss://bm9uZTo1ZDJlYmQyYS05Y2I5LTRkMWItYWY1NS04NjE3ZDNlODFmMzk%3D@${selectedService}:443?encryption=none&type=ws&host=${domain}&path=%2F${ip}-${port}&security=tls&sni=${domain}#(${selectedService})+${id}+${isp}`;%20t.me%2Frjsxrd

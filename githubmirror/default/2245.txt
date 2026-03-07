@@ -1,0 +1,7 @@
+#profile-title: 2245-2245/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.4.103:8443?path=%2F0urElQgJETT0e5hw%2FOC4yMTkuNDIuNzI%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=FiRSt-GITHUb.ZOBKlf.wOrKERs.Dev&fp=randomized&type=ws&sni=fiRSt-GIThUb.ZobKLf.woRKers.dev#%40External_Net+-+Clean+IP_3+%3A+8443%20t.me%2Frjsxrd

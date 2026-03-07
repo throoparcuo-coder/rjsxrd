@@ -1,0 +1,13 @@
+#profile-title: 2312-2312/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://d787c7d5-46c1-4434-869e-76cddd3e2e50@84bf6a263638e546.fast1.viperping.ir:80?encryption=none&security=none&type=xhttp&host=milad-g1.global.ssl.fastly.net&path=%2F&mode=auto#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-xh%5D%20%5B260221-014220.226%5D%20t.me%2Frjsxrd
+vless://4eb3d390-95d6-4667-bc3f-2e0fa606daa0@129.6.29.86:2053?encryption=none&security=tls&sni=myopen.tencan.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&path=%2F%3Fed%3D2048&mode=auto#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-xh%5D%20%5B260221-013317.507%5D%20t.me%2Frjsxrd
+vless://8d5ebe3f-d0c5-45f2-9dde-21ee29fc0ee6@8.6.112.0:443?encryption=none&security=tls&sni=fin.moell13.org&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#%5B%F0%9F%87%AB%F0%9F%87%AE%5D%20%5Bvl-tl-xh%5D%20%5B260221-013700.439%5D%20t.me%2Frjsxrd
+vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?encryption=none&security=tls&sni=edge-eu-1.veaglevpn.software&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=edge-eu-1.veaglevpn.software&path=%2F&mode=auto#%5B%F0%9F%87%AB%F0%9F%87%AE%5D%20%5Bvl-tl-xh%5D%20%5B260221-013934.099%5D%20t.me%2Frjsxrd
+vless://e4ffd1f2-6032-4f59-8b62-852312b592f5@79.174.94.49:21314?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=VLTPbv0RFFV3b1SZsYV4NXDgNmhzx_mtyKCOy509hVQ&sid=fe98f19f16f18265&type=xhttp&path=%2F&mode=auto#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20%5Bvl-re-xh%5D%20%5B260221-014309.893%5D%20t.me%2Frjsxrd
+vless://152e80f4173b42668ab6a918ffcbaded@212.192.14.227:8443?encryption=none&security=reality&sni=ya.ru&fp=random&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd&type=xhttp&path=%2Fx&mode=auto#%5B%F0%9F%87%B7%F0%9F%87%BA%5D%20%5Bvl-re-xh%5D%20%5B260221-012957.307%5D%20t.me%2Frjsxrd
+vless://dc0fa266-ad3a-4bfa-9671-69917911cbf1@fastly.cdn.steampipe.steamcontent.com:80?encryption=none&security=none&type=xhttp&host=keyapi345803473234.global.ssl.fastly.net&path=%2F%3Fed%3D2024&mode=auto#%5B%F0%9F%87%BA%F0%9F%87%A6%5D%20%5Bvl-no-xh%5D%20%5B260221-014237.036%5D%20t.me%2Frjsxrd

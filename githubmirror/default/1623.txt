@@ -1,0 +1,7 @@
+#profile-title: 1623-1623/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://9abe324e-5e97-0018-9dd3-06675443e715@cloud.quattro-tech.ru:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=cloud.quattro-tech.ru#🌍 Algeria | Icosnet SPA 1%20t.me%2Frjsxrd

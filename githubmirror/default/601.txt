@@ -1,0 +1,7 @@
+#profile-title: 601-601/1788 t.me/rjsxrd
+#profile-update-interval: 24
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://f48b0692-46bd-4180-bcf8-427981a05e02@icook.tw:2053?encryption=none&security=tls&sni=vpn-8xi.pages.dev&fp=randomized&type=ws&host=vpn-8xi.pages.dev&path=/proxyIP=proxyip.vultr.fxxk.dedyn.io#vpn-8xi.pages.dev%20t.me%2Frjsxrd
