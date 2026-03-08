@@ -2992,6 +2992,11 @@ https://raw.githubusercontent.com/zs007-a/a/main/list.txt
 https://raw.githubusercontent.com/zwgmy/OpenWrt-X64-often/main/Sub2.txt
 https://raw.githubusercontent.com/zxslh/cf_vless/main/ip.txt
 https://raw.githubusercontent.com/zyxusan/IPTV/main/V2ray.txt
+https://raw.githubusercontent.com/VP01596/vless-top15/refs/heads/main/top100.txt
+https://sub-001.dns-on-fire.net/api/sub/Jezwb75NgtvzKbxT
+https://gbr.mydan.online/configs
+https://autosub-config.vercel.app/sub.txt
+http://allvpn.x10.mx/sub.php
 
 
 # extra for bypass
@@ -3044,6 +3049,8 @@ https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/h
 http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b
 https://simchin.online/sub/?secret=2GQ65ZNLcNTHl830FxQR0uWq%2F%2FggN9wXb0zfwSSgwHEctU6RmjRqBVW%2BjE%2F9fQQUSoU%3D
 https://raw.githubusercontent.com/zipvpn/FreeVPNNodes/refs/heads/main/free_v2ray_xray_nodes.txt
+https://github.com/FLEXIY0/matryoshka-vpn/raw/main/configs/russia_whitelist.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 
 
 # yaml
