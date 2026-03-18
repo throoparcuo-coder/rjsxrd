@@ -6,6 +6,7 @@ import time
 import concurrent.futures
 import base64
 import re
+import glob
 from typing import List, Tuple, Optional
 import math
 
@@ -20,7 +21,6 @@ from config.constants import V2RAYN_MAX_CONCURRENCY, MAX_SAFE_CONCURRENCY
 from fetchers.fetcher import fetch_data, build_session
 from fetchers.daily_repo_fetcher import fetch_configs_from_daily_repo
 from utils.file_utils import save_to_local_file, load_from_local_file, split_config_file, deduplicate_configs, prepare_config_content, filter_secure_configs, has_insecure_setting, apply_sni_cidr_filter, split_file_by_size
-from utils.config_verifier import ConfigVerifier
 from utils.logger import log
 from processors.telegram_proxy_processor import TelegramProxyProcessor
 
@@ -99,9 +99,9 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
 
     # Download from regular URLs with auto-detection of base64 (PARALLEL - much faster)
     if URLS:
-        log(f"Fetching {len(URLS)} URLs in parallel (with auto base64 detection)...")
+        log(f"Fetching {len(URLS)} URLs in parallel...")
         with concurrent.futures.ThreadPoolExecutor(max_workers=min(DEFAULT_MAX_WORKERS, max(1, len(URLS)))) as executor:
-            future_to_url = {executor.submit(fetch_data, url, timeout=7): url for url in URLS}
+            future_to_url = {executor.submit(fetch_data, url): url for url in URLS}
             for future in concurrent.futures.as_completed(future_to_url):
                 try:
                     content = future.result()
@@ -137,7 +137,7 @@ def download_all_configs(output_dir: str = "../githubmirror", scan_for_telegram_
     if URLS_EXTRA_BYPASS:
         log(f"Fetching {len(URLS_EXTRA_BYPASS)} extra bypass URLs in parallel...")
         with concurrent.futures.ThreadPoolExecutor(max_workers=min(DEFAULT_MAX_WORKERS, max(1, len(URLS_EXTRA_BYPASS)))) as executor:
-            future_to_url = {executor.submit(fetch_data, url, timeout=7): url for url in URLS_EXTRA_BYPASS}
+            future_to_url = {executor.submit(fetch_data, url): url for url in URLS_EXTRA_BYPASS}
             for future in concurrent.futures.as_completed(future_to_url):
                 try:
                     content = future.result()
@@ -491,7 +491,18 @@ def _write_numbered_file(args):
 
 
 def create_numbered_default_files(numbered_configs_with_urls: List[Tuple[List[str], str]], output_dir: str = "../githubmirror") -> List[str]:
-    """Creates numbered files (1.txt, 2.txt, etc.) in the default directory based on URL order using parallel processing."""
+    """Creates numbered files (1.txt - 26.txt only) in the default directory based on URL order using parallel processing.
+    
+    Limits to first 26 sources to avoid creating too many numbered files.
+    all.txt and all-secure.txt are still created from ALL sources.
+    """
+    # LIMIT to first 26 sources only
+    original_count = len(numbered_configs_with_urls)
+    numbered_configs_with_urls = numbered_configs_with_urls[:26]
+    
+    if original_count > 26:
+        log(f"Limiting numbered files to 26 sources (had {original_count}, dropped {original_count - 26})")
+    
     # Count total files for counter format
     total_files = sum(1 for configs, _ in numbered_configs_with_urls if configs)
     # Prepare all file writes as tasks
@@ -554,15 +565,30 @@ def create_working_config_files(output_dir: str = "../githubmirror") -> tuple:
         with open(bypass_unsecure_raw_path, 'r', encoding='utf-8', buffering=65536) as f:
             unsecure_configs = [line.strip() for line in f if line.strip() and not line.strip().startswith('#')]
         
-        # Find configs that are only in unsecure (not in bypass-all-raw.txt at all)
+        # Find configs that are only in unsecure (not in bypass-all-raw.txt or split raw files)
+        all_bypass_configs = set()
+        
+        # Check bypass-all-raw.txt first
         if os.path.exists(bypass_all_raw_path):
             with open(bypass_all_raw_path, 'r', encoding='utf-8', buffering=65536) as f:
-                all_bypass_configs = set(line.strip() for line in f if line.strip() and not line.strip().startswith('#'))
-        else:
-            all_bypass_configs = set()
+                all_bypass_configs.update(line.strip() for line in f if line.strip() and not line.strip().startswith('#'))
+        
+        # Also check split RAW files (bypass-all-raw-1.txt, bypass-all-raw-2.txt, etc.)
+        bypass_raw_dir = f"{output_dir}/bypass/raw"
+        if os.path.isdir(bypass_raw_dir):
+            # Match only numeric suffix files (bypass-all-raw-1.txt, bypass-all-raw-2.txt, etc.)
+            bypass_raw_split_files = glob.glob(f"{bypass_raw_dir}/bypass-all-raw-[0-9]*.txt")
+            for bypass_raw_file in bypass_raw_split_files:
+                if os.path.exists(bypass_raw_file):
+                    try:
+                        with open(bypass_raw_file, 'r', encoding='utf-8', buffering=65536) as f:
+                            all_bypass_configs.update(line.strip() for line in f if line.strip() and not line.strip().startswith('#'))
+                    except (IOError, OSError, UnicodeDecodeError) as e:
+                        log(f"Warning: Could not read split raw file {bypass_raw_file}: {e}")
+        
         unsecure_only = [cfg for cfg in unsecure_configs if cfg not in all_bypass_configs]
         
-        log(f"bypass-unsecure-all-raw.txt has {len(unsecure_configs)} configs, {len(all_bypass_configs)} already tested, testing {len(unsecure_only)} new configs...")
+        log(f"bypass-unsecure-all-raw.txt has {len(unsecure_configs)} configs, {len(all_bypass_configs)} already tested (including split raw files), testing {len(unsecure_only)} new configs...")
         
         if unsecure_only:
             # Verify only the new (insecure-only) configs
@@ -582,7 +608,7 @@ def create_working_config_files(output_dir: str = "../githubmirror") -> tuple:
             # Split verified configs into bypass-unsecure-1.txt, bypass-unsecure-2.txt, etc.
             bypass_unsecure_files = split_configs_to_files(all_working, f"{output_dir}/bypass-unsecure", "bypass-unsecure", max_configs_per_file=300)
         else:
-            log(f"All configs in bypass-unsecure-all-raw.txt were already verified in bypass-all-raw.txt")
+            log(f"All configs in bypass-unsecure-all-raw.txt were already verified in bypass-all-raw.txt or split raw files")
             # Use the same working_bypass configs
             if working_bypass:
                 os.makedirs(os.path.dirname(bypass_unsecure_all_txt_path), exist_ok=True)
@@ -615,14 +641,15 @@ def _verify_config_file(input_path: str, configs: List[str] = None, verbose: boo
             log(f"No configs in {input_path}")
             return []
         
-        # Use Xray batch tester (v2rayN-style)
+        # Use Xray tester (concurrent testing with sorting by latency)
+        verifier = None
         try:
-            from utils.xray_batch_tester import XrayBatchTester
-            verifier = XrayBatchTester(pool_size=0)  # Single-config mode, no pooling
+            from utils.xray_tester import XrayTester
+            verifier = XrayTester()  # Async testing on all platforms
             
             if verifier.xray_path and os.path.exists(verifier.xray_path):
-                log(f"Using Xray-core tester (single-config mode): {verifier.xray_path}")
-                working = verifier.test_batch(configs, timeout=VALIDATION_HTTP_TIMEOUT, verbose=verbose, use_batch_mode=False)
+                log(f"Using Xray-core tester: {verifier.xray_path}")
+                working = verifier.test_batch(configs, timeout=VALIDATION_HTTP_TIMEOUT, verbose=verbose)
                 sorted_configs = [cfg for cfg, _, _ in working]
             else:
                 log("WARNING: Xray not found, skipping verification")

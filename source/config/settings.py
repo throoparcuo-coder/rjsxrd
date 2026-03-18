@@ -3,6 +3,7 @@
 import os
 from datetime import datetime
 import zoneinfo
+from utils.logger import log
 
 # Repository settings
 GITHUB_TOKEN = os.environ.get("MY_TOKEN")
@@ -68,7 +69,7 @@ def parse_urls_file():
                     telegram_proxy_urls.append(line)
                     
     except FileNotFoundError:
-        print("URLS.txt file not found!")
+        log("URLS.txt file not found!")
     
     return urls, urls_extra_bypass, urls_yaml, telegram_proxy_urls
 
@@ -81,7 +82,7 @@ try:
     with open(os.path.join(os.path.dirname(__file__), 'servers.txt'), 'r', encoding='utf-8') as f:
         MANUAL_SERVERS = [line.strip() for line in f if line.strip()]
 except FileNotFoundError:
-    print("servers.txt file not found!")
+    log("servers.txt file not found!")
     MANUAL_SERVERS = []  # Fallback to empty list
 
 # Telegram proxy sources URLs - parsed from URLS.txt (telegram section)
@@ -97,7 +98,7 @@ def load_sni_domains():
             domains = [line.strip() for line in f if line.strip()]
         return domains
     except FileNotFoundError:
-        print(f"whitelist-all.txt not found at {whitelist_path}, using empty list")
+        log(f"whitelist-all.txt not found at {whitelist_path}, using empty list")
         return []
 
 SNI_DOMAINS = load_sni_domains()
@@ -108,7 +109,7 @@ MAX_SERVERS_PER_FILE = 300
 # Other settings
 DEFAULT_MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "16"))
 
-# Validation concurrency settings (v2rayN-style)
+# Validation concurrency settings
 VALIDATION_TCP_CONCURRENCY = int(os.environ.get("VALIDATION_TCP_CONCURRENCY", "100"))
 VALIDATION_HTTP_CONCURRENCY = int(os.environ.get("VALIDATION_HTTP_CONCURRENCY", "20"))
 VALIDATION_MAX_WORKERS = int(os.environ.get("VALIDATION_MAX_WORKERS", "200"))
@@ -122,3 +123,13 @@ CHROME_UA = (
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/138.0.0.0 Safari/537.36"
 )
+
+# Proxy detection settings
+PROXY_AUTO_DETECT = True
+COMMON_PROXY_PORTS = [10808, 2080, 7890, 7891, 1080, 8080]
+
+# Async testing concurrency settings
+# Windows has higher process overhead, so lower concurrency prevents system freeze
+# Linux/WSL can handle higher concurrency
+ASYNC_CONCURRENCY_WIN32 = int(os.environ.get("ASYNC_CONCURRENCY_WIN32", "50"))
+ASYNC_CONCURRENCY_LINUX = int(os.environ.get("ASYNC_CONCURRENCY_LINUX", "300"))

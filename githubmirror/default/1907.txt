@@ -1,7 +1,0 @@
-#profile-title: 1907-1907/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-ss://bm9uZTowMTk1YzQ3Ni02M2Y4LTcyMzItYWM0Mi0wYWMxZWFhYmU5MzQ=@104.19.177.137:2096?plugin=v2ray-plugin;tls;mux%3D0;mode%3Dwebsocket;path%3D/192.168.1.1-443;host%3Dss1.pages.dev#⑤|104.19.177.137:2096%20t.me%2Frjsxrd

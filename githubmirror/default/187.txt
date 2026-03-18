@@ -1,8 +1,0 @@
-#profile-title: 187-187/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vless://4b683a11-582d-4d7f-a5c6-82ca6f55f4ea@45.131.4.10:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=vvv.ranger.raz.rangershop.icu.&type=ws#Websocket-aom81ixd%20t.me%2Frjsxrd
-vless://c2cac47f-9d95-4d37-b0b7-59df282b60d5@85.133.202.100:4149?security=none&encryption=none&host=Discord.com&headerType=http&type=tcp#Tunnel+1-Iran%20t.me%2Frjsxrd

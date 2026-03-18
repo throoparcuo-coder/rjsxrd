@@ -96,7 +96,7 @@ def fetch_daily_configs_with_timezone_fallback(base_url: str, target_date: Optio
         for filename in filenames:
             url = urljoin(base_url, filename)
             try:
-                content = fetch_data(url, timeout=10)
+                content = fetch_data(url)
                 # Try base64 decode
                 try:
                     decoded_bytes = base64.b64decode(content.strip())

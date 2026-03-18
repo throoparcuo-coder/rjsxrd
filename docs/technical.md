@@ -29,8 +29,7 @@
 - `logger.py` - потокобезопасное логирование
 - `github_handler.py` - GitHub API взаимодействия
 - `git_updater.py` - Git-коммиты (режим Actions)
-- `config_verifier.py` - DNS/TCP/HTTP верификация с кэшированием
-- `xray_batch_tester.py` - v2rayN-стиль Xray-core батч-тестирование
+- `xray_tester.py` - Xray-core тестирование с сортировкой по скорости
 - `telegram_proxy_verifier.py` - верификация Telegram прокси
 
 ### Детали компонентов
@@ -76,30 +75,23 @@
    - Сортировка по латентности
    - Создание all.txt, MTProto.txt, socks.txt
 
-#### XrayBatchTester (`utils/xray_batch_tester.py`)
-**v2rayN-стиль батч-тестирование:**
+#### XrayTester (`utils/xray_tester.py`)
+**Xray-core тестирование с сортировкой по скорости:**
 
-- **Один процесс Xray** с множеством inbound/outbound (100 конфигов на батч)
-- **Динамическое выделение портов** (диапазон 5000 портов)
+- **Один процесс Xray на конфиг** для максимальной совместимости
+- **Конкурентное тестирование** через разные порты
+- **Динамическое выделение портов** (диапазоны: 20000-21999 batch, 22000-23999 chains, 24000-24999 persistent)
 - **Платформенная оптимизация**:
-  - Linux/WSL: async + curl_cffi AsyncSession
-  - Windows: ThreadPoolExecutor + sync requests
+  - Linux/WSL: async + curl_cffi AsyncSession (до 300 concurrent)
+  - Windows: ThreadPoolExecutor + sync requests (до 150 concurrent)
 - **Пайплайн тестирование**:
-  1. Старт Xray в thread pool (не блокирует event loop)
-  2. HTTP тест через curl_cffi async (native async)
-  3. Cleanup Xray в фоне
-- **Fallback механизмы**: TCP + TLS handshake когда Xray падает
+  1. Валидация URL
+  2. Генерация Xray конфига
+  3. Старт Xray процесса
+  4. HTTP тест через SOCKS прокси (curl_cffi с remote DNS)
+  5. Cleanup процесса
+- **Сортировка результатов** по пингу (fastest first)
 - **Кэширование ошибок** для дебаггинга
-
-#### ConfigVerifier (`utils/config_verifier.py`)
-**Высокопроизводительная DNS/TCP/HTTP верификация:**
-
-- `_extract_host_port()` - парсинг VPN URLs для получения host:port
-- `_resolve_host()` - DNS резолюция с кэшированием (aiodns + socket fallback)
-- `_tcp_ping()` - TCP connectivity test (0.5s быстрый таймаут)
-- `_http_proxy_ping()` - HTTP запрос ЧЕРЕЗ прокси (v2rayN-стиль)
-- `verify_configs()` - многопоточная батч верификация
-- `verify_configs_two_pass()` - быстрый фильтр + полная верификация
 
 #### File Utilities (`utils/file_utils.py`)
 **Критические функции:**
@@ -215,36 +207,35 @@
    - Сортируются по пингу (fastest first)
    - Готовы к использованию в продакшене
 
-### Xray Batch Testing
+### Xray Testing
 
-**Архитектура (v2rayN-стиль):**
-- **Один процесс Xray** на батч (100 конфигов)
-- **Множество inbound/outbound** в одном конфиге
-- **Динамическое выделение портов** (BASE_PORT = 20000, диапазон 5000)
-- **Параллельное тестирование** через разные порты
+**Архитектура:**
+- **Один процесс Xray на конфиг** для максимальной совместимости
+- **Конкурентное тестирование** через разные порты
+- **Динамическое выделение портов** (BASE_PORT = 20000, диапазоны: 20000-21999 batch, 22000-23999 chains, 24000-24999 persistent)
+- **Параллельное тестирование** через ThreadPoolExecutor/async
 
 **Платформенные различия:**
 ```python
 # Linux/WSL
-if sys.platform == "linux":
-    return self._test_batch_async_wrapper()  # Async + curl_cffi
+if sys.platform != "win32":
+    return self._test_batch_async_wrapper()  # Async + curl_cffi (до 300 concurrent)
 
 # Windows
 else:
-    return self._test_batch_single()  # ThreadPoolExecutor + sync
+    return self._test_batch_single()  # ThreadPoolExecutor + sync (до 150 concurrent)
 ```
 
 **Пайплайн тестирования одного конфига:**
 1. Валидация URL (`_quick_validate_url()`)
 2. Генерация Xray конфига (`create_single_outbound_config()`)
 3. Старт Xray процесса (`start_xray_instance()`)
-4. HTTP тест через SOCKS прокси (`test_through_socks()`)
+4. HTTP тест через SOCKS прокси с remote DNS (`test_through_socks()` → `socks5h://`)
 5. Cleanup процесса (`stop_xray_process()`)
 
-**Fallback механизмы:**
-- TCP пинг при неудаче Xray
-- TLS handshake для TLS/Reality конфигов
-- Retry логика с экспоненциальной задержкой
+**Retry логика:**
+- Максимум 2 попытки на конфиг
+- Экспоненциальная задержка между попытками
 
 ### Оптимизации производительности
 
@@ -254,20 +245,22 @@ else:
 - **Конкурентное тестирование** (до 300 одновременных на Linux, 150 на Windows)
 
 #### Кэширование
-- **DNS кэш** с TTL 60 секунд (lock-free)
+- **DNS кэш** с TTL 60 секунд (lock-free, aiodns resolver)
 - **Хост/порт экстракция** кэш для избежания повторных парсингов
 - **Connection pooling** в curl_cffi сессиях
 
 #### Сетевые оптимизации
-- **curl_cffi** вместо requests (2-3x быстрее, TLS fingerprinting)
+- **curl_cffi** вместо requests (2-3x быстрее, TLS fingerprinting, обход анти-ботов)
 - **SOCKS прокси формат** `socks://` для curl_cffi совместимости
 - **HTTP сессии** с retry адаптерами
+- **Remote DNS** через `socks5h://` для предотвращения DNS leaks
 
 #### Управление ресурсами
-- **Батч-тестирование** (100 конфигов на Xray процесс)
-- **Динамическое выделение портов** с авто-сбросом
+- **Конкурентное тестирование** (один Xray процесс на конфиг)
+- **Динамическое выделение портов** с проверкой доступности
 - **Process cleanup** с signal handlers и atexit hooks
 - **Агрессивный spam filtering** для логов Xray
+- **psutil fallback** для гарантированного завершения процессов
 
 ## Безопасность
 
@@ -332,29 +325,23 @@ else:
 
 ### Управление файлами
 - **Разделение больших файлов**: макс. 300 конфигов на файл или 49MB (лимит GitHub)
-- **Динамическое выделение портов**: BASE_PORT=20000, диапазон 5000, авто-сброс
-- **Process cleanup**: signal handlers (SIGINT, SIGTERM) + atexit hooks
+- **Динамическое выделение портов**: BASE_PORT=20000, проверка доступности через socket.bind()
+- **Process cleanup**: signal handlers (SIGINT, SIGTERM) + atexit hooks + psutil fallback
 
 ### Сетевые оптимизации
 - **curl_cffi integration**: 2-3x быстрее requests + TLS fingerprinting + обход анти-ботов
 - **SOCKS прокси формат**: `socks://` для curl_cffi (не `socks5://`)
+- **Remote DNS**: `socks5h://` для предотвращения DNS leaks
 - **Connection pooling**: curl_cffi сессии с retry адаптерами
-- **Smart batching**: группировка конфигов по хосту для DNS cache эффективности
-
-### v2rayN-стиль архитектура
-- **Один Xray процесс** на батч (100 конфигов) вместо 100 процессов
-- **Множество inbound/outbound** в одном конфиге
-- **1000x reduction** в process overhead
-- **Пайплайн тестирование**: Xray startup перекрывается с HTTP тестами
 
 ### Error handling
-- **Агрессивный spam filtering** для логов Xray (фильтрует banner, goroutine traces)
+- **Агрессивный spam filtering** для логов Xray (фильтрует banner, goroutine traces, runtime errors)
 - **Error categorization** с трекингом статистики
 - **Retry логика** с экспоненциальной задержкой для GitHub API
-- **Fallback механизмы**: TCP + TLS handshake когда Xray fails
+- **Secure temp files**: `tempfile.mkstemp()` с `chmod 0600` для защиты credentials
 
 ### Потокобезопасность
 - **Lock-free DNS кэш** для высокой конкуренции
 - **Thread-local sessions** для избежания contention
 - **Results locks** для агрегации результатов тестирования
-- **Port allocation locks** для атомарного выделения портов
+- **Port allocation locks** для атомарного выделения портов с проверкой доступности

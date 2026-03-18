@@ -1,7 +1,0 @@
-#profile-title: 1642-1642/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vless://6ead0279-b05e-0082-a7bd-81710d74bef4@cloud.quattro-tech.ru:8443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=cloud.quattro-tech.ru#🌍 Syria | Datacamp 1%20t.me%2Frjsxrd

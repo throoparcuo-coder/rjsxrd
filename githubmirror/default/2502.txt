@@ -1,7 +1,0 @@
-#profile-title: 2502-2502/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vless://6d75d7c9-1c9e-44a7-8ebe-873c655d0e0d@108.165.106.8:4444?security=reality&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.discord.gg&pbk=KvGhjBnyb983h2tm9fAT_HNLN7cSxmXn8w1LQmhBPFA&sid=dbd32d7659ee1d63#Phoenix%20t.me%2Frjsxrd

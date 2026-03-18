@@ -1,7 +1,7 @@
 """Centralized constants for VPN config validation system."""
 
-# Concurrency settings (v2rayN-inspired)
-V2RAYN_MAX_CONCURRENCY = 1000  # v2rayN's SpeedTestPageSize
+# Concurrency settings
+V2RAYN_MAX_CONCURRENCY = 1000  # Reference: v2rayN SpeedTestPageSize
 MAX_SAFE_CONCURRENCY = 500  # Conservative cap to avoid resource exhaustion
 MIN_CONCURRENCY = 100  # Minimum for reasonable performance
 CPU_MULTIPLIER = 25  # Multiplier for CPU-based concurrency calculation
@@ -17,7 +17,7 @@ DEFAULT_HTTP_TIMEOUT = 3.0  # Reduced to match VALIDATION_HTTP_TIMEOUT
 DEFAULT_SPEED_TEST_TIMEOUT = 30.0
 DEFAULT_PING_TIMEOUT = 5.0
 
-# Fast timeout for initial TCP filter (v2rayN-style)
+# Fast timeout for initial TCP filter
 FAST_TCP_TIMEOUT = 0.5
 
 # DNS cache settings
@@ -27,7 +27,7 @@ DNS_CACHE_TTL_SECONDS = 60  # Reduced from 300s for dynamic IP support
 XRAY_BASE_PORT = 20000
 XRAY_PORT_RANGE = 5000  # Increased from 1000 to avoid TIME_WAIT conflicts
 
-# Test URLs (v2rayN standard)
+# Test URLs (common connectivity endpoints)
 SPEED_TEST_URLS = [
     "http://www.gstatic.com/generate_204",
     "https://www.gstatic.com/generate_204",
@@ -38,7 +38,7 @@ SPEED_TEST_URLS = [
 
 # Batch processing settings
 DEFAULT_BATCH_SIZE = 500
-SPEED_TEST_PAGE_SIZE = 1000  # v2rayN's batch size
+SPEED_TEST_PAGE_SIZE = 1000  # Reference: v2rayN batch size
 
 # Retry settings
 MAX_RETRY_ATTEMPTS = 2

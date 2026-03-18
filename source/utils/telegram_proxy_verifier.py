@@ -390,5 +390,7 @@ class TelegramProxyVerifier:
                 results = future.result(timeout=dynamic_timeout)
                 return results if results else []
             except concurrent.futures.TimeoutError:
-                self.shutdown()
                 return [(url, False, "OVERALL_TIMEOUT") for url in proxy_urls]
+            finally:
+                # ALWAYS shutdown executor to prevent thread leak
+                self.shutdown()

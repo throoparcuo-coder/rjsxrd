@@ -1,7 +1,0 @@
-#profile-title: 1512-1512/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vless://f2dc17f5-3113-4a40-8c51-55fe0e2c7f75@www.speedtest.net:443?path=%2FSJmBiX7PQdZ3LjJX%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PUrCowFAst.PAgeS.dev&fp=randomized&type=ws&sni=purCoWFAst.PAgES.dev#purnet2%20t.me%2Frjsxrd

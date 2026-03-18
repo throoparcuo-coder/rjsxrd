@@ -1,7 +1,0 @@
-#profile-title: 1639-1639/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vless://45d13f6e-bd92-4e78-87f5-774b68c62ce2@antiquewhite.qzz.io:443?encryption=none&security=tls&type=ws&host=antiquewhite.qzz.io&path=%2F197.221.237.255%3D443&sni=antiquewhite.qzz.io#🌍 Zimbabwe | Telone PVT 1%20t.me%2Frjsxrd

@@ -28,11 +28,15 @@ class GitHubHandler:
         except Exception as e:
             log(f"Could not check GitHub API limits: {e}")
 
-    def upload_file(self, local_path: str, remote_path: str):
-        """Uploads a local file to GitHub repository."""
+    def upload_file(self, local_path: str, remote_path: str) -> bool:
+        """Uploads a local file to GitHub repository.
+        
+        Returns:
+            True on success, False on failure
+        """
         if not self._file_exists(local_path):
             log(f"File {local_path} not found.")
-            return
+            return False
 
         with open(local_path, "r", encoding="utf-8") as file:
             content = file.read()
@@ -56,17 +60,17 @@ class GitHubHandler:
                         )
                         log(f"File {remote_path} created.")
                         self._add_to_updated_files(remote_path)
-                        return
+                        return True
                     else:
                         msg = e_get.data.get("message", str(e_get))
                         log(f"Error getting {remote_path}: {msg}")
-                        return
+                        return False
 
                 try:
                     remote_content = file_in_repo.decoded_content.decode("utf-8", errors="replace")
                     if remote_content == content:
                         log(f"No changes for {remote_path}.")
-                        return
+                        return True
                 except Exception:
                     pass
 
@@ -81,7 +85,7 @@ class GitHubHandler:
                     )
                     log(f"File {remote_path} updated in repository.")
                     self._add_to_updated_files(remote_path)
-                    return
+                    return True
                 except GithubException as e_upd:
                     if getattr(e_upd, "status", None) == 409:
                         if attempt < max_retries:
@@ -91,25 +95,31 @@ class GitHubHandler:
                             continue
                         else:
                             log(f"Could not update {remote_path} after {max_retries} attempts")
-                            return
+                            return False
                     else:
                         msg = e_upd.data.get("message", str(e_upd))
                         log(f"Error uploading {remote_path}: {msg}")
-                        return
+                        return False
 
             except Exception as e_general:
                 short_msg = str(e_general)
                 if len(short_msg) > 200:
                     short_msg = short_msg[:200] + "…"
                 log(f"Unexpected error updating {remote_path}: {short_msg}")
-                return
+                return False
 
         log(f"Could not update {remote_path} after {max_retries} attempts")
+        return False
 
 
-    def upload_multiple_files(self, file_pairs: list, dry_run: bool = False):
-        """Uploads multiple config files to GitHub."""
+    def upload_multiple_files(self, file_pairs: list, dry_run: bool = False) -> int:
+        """Uploads multiple config files to GitHub.
+        
+        Returns:
+            Number of failed uploads (0 = success)
+        """
         max_workers_upload = max(2, min(6, len(file_pairs)))
+        failures = 0
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers_upload) as upload_pool:
             upload_futures = []
@@ -123,61 +133,17 @@ class GitHubHandler:
                     )
 
             for uf in concurrent.futures.as_completed(upload_futures):
-                _ = uf.result()
-
-
-    def _file_exists(self, path: str) -> bool:
-        """Checks if a local file exists."""
-        return os.path.exists(path)
-
-    def _get_basename(self, remote_path: str) -> str:
-        """Extracts the basename from a remote path."""
-        return os.path.basename(remote_path)
-
-    def _get_timestamp(self) -> str:
-        """Gets the current timestamp."""
-        from config.settings import OFFSET
-        return OFFSET
-
-    def _extract_source_name(self, url: str) -> str:
-        """Extracts source name from URL."""
-        from utils.logger import extract_source_name
-        return extract_source_name(url)
-
-    def _add_to_updated_files(self, remote_path: str):
-        """Adds a file to the updated files set."""
-        path_parts = remote_path.split('/')
-        if len(path_parts) >= 2:
-            folder_or_filename = path_parts[1]
-            if folder_or_filename == "bypass":
-                # Handle bypass files (e.g., bypass/bypass-1.txt, bypass/bypass-all.txt)
-                if len(path_parts) >= 3:
-                    bypass_filename = path_parts[2]
-                    if bypass_filename.startswith("bypass-") and bypass_filename.endswith(".txt"):
-                        if bypass_filename == "bypass-all.txt":
-                            # Use a special number to represent bypass-all.txt in updated_files
-                            file_index = 99999
-                        else:
-                            # Extract number from bypass-N.txt
-                            num_str = bypass_filename.replace("bypass-", "").replace(".txt", "")
-                            try:
-                                file_index = int(num_str)
-                            except ValueError:
-                                file_index = -1  # Invalid bypass file
-                    else:
-                        # Default to -1 if it's not a bypass file
-                        file_index = -1
-                else:
-                    file_index = -1
-            else:
-                # Handle default files (e.g., default/1.txt, etc.)
                 try:
-                    file_index = int(folder_or_filename.split('.')[0])
-                except ValueError:
-                    file_index = -1
-        else:
-            file_index = -1
-
-        if file_index != -1:
-            with _UPDATED_FILES_LOCK:
-                updated_files.add(file_index)
+                    result = uf.result()
+                    # upload_file returns None on success, but may fail silently
+                    # Count as failure if result is explicitly False
+                    if result is False:
+                        failures += 1
+                except Exception as e:
+                    log(f"Upload future failed: {e}")
+                    failures += 1
+        
+        if failures > 0:
+            log(f"WARNING: {failures} upload(s) failed")
+        
+        return failures

@@ -1,8 +1,0 @@
-#profile-title: 202-202/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vless://890a9221-171c-49cc-9650-02215d12951d@77.221.156.213:12157?type=tcp&path=%2F&host=zara.com&headerType=http&security=none#4daax8qn%20t.me%2Frjsxrd
-vless://53e12998-536c-43e1-8d79-d2d5310d90ab@85.192.24.243:36241?type=tcp&path=%2F&host=zara.com&headerType=http&security=none#95ybkwsa%20t.me%2Frjsxrd

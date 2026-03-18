@@ -1,7 +1,0 @@
-#profile-title: 1337-1337/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vless://d1dd6d8c-116c-4645-9581-1afee48dc354@188.227.86.60:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=JoinBadeChannel%40antimeli&fp=chrome&pbk=fYrfIC-Mg5Ju1c-8Rt9Tj5QsUjERqHyZkpIDSL9OTGs&sid=5554353c62#🔒 VL-GRPC-RLT 🇳🇱 NL-188.227.86.60:8443%20t.me%2Frjsxrd

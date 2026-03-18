@@ -1,9 +1,0 @@
-#profile-title: 2375-2375/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vless://b9061294-b119-4cc4-9217-d179e435c60d@turbo9.thegameuhb.ir:2076?security=none\u0026encryption=none\u0026host=speedtest.net\u0026headerType=http\u0026type=tcp#@BugFreeNet - Meli § 178",%20t.me%2Frjsxrd
-vless://b9061294-b119-4cc4-9217-d179e435c60d@turbo9.thegameuhb.ir:2076?security=none\u0026encryption=none\u0026host=speedtest.net\u0026headerType=http\u0026type=tcp#@BugFreeNet - Meli § 178",%20t.me%2Frjsxrd
-vless://b9061294-b119-4cc4-9217-d179e435c60d@turbo9.thegameuhb.ir:2076?security=none\u0026encryption=none\u0026host=speedtest.net\u0026headerType=http\u0026type=tcp#@BugFreeNet - Meli § 178",%20t.me%2Frjsxrd

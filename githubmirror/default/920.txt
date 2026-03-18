@@ -1,7 +1,0 @@
-#profile-title: 920-920/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vmess://eyJhZGQiOiIxMDQuMjEuMTIuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjYzliMTIwLWUzMGItNDUxYi04YzczLTU4MTM1ZGViNzI4YiIsIm5ldCI6ImdycGMiLCJwYXRoIjoiYXJnbyIsInBvcnQiOiI0NDMiLCJwcyI6IkFyZ29WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoibm1xb2MuamhicW10d3RtLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9#%20t.me%2Frjsxrd

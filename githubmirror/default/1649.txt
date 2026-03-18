@@ -1,7 +1,0 @@
-#profile-title: 1649-1649/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vless://c5d669bb-aab1-002e-a23d-e7279ca0b4ab@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🌍 Venezuela | Clouvider 1%20t.me%2Frjsxrd

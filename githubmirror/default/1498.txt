@@ -1,9 +1,0 @@
-#profile-title: 1498-1498/1788 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vless://76d89481-14ec-4e38-8417-4d9ce477ad7f@188.213.168.33:443?security=reality&alpn=h2&encryption=none&pbk=9j1fMgxDj-bFpwWmGSAdPiKbuh3gTjSV4o9h4QXgt3o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hostit.frkn.cloud&sid=#vless-it%20t.me%2Frjsxrd
-vless://76d89481-14ec-4e38-8417-4d9ce477ad7f@108.181.0.243:443?security=reality&alpn=h2&encryption=none&pbk=9j1fMgxDj-bFpwWmGSAdPiKbuh3gTjSV4o9h4QXgt3o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hostus.frkn.cloud&sid=#vless-us%20t.me%2Frjsxrd
-vless://f9a5f0b5-1cb7-4aa8-9a17-9ae4cfc283b4@31.129.109.109:443?security=reality&encryption=none&pbk=JKIbBf3LvvtV4mq0p9yPMCnQ3W3CUc0LIGp-7rBCJlM&headerType=none&fp=chrome&spx=%2Fportfolio&type=tcp&flow=xtls-rprx-vision&sni=investor-portfolio.ru&sid=4d441e5e777a9a18#vless-ru%20t.me%2Frjsxrd

@@ -1,0 +1,8 @@
+#profile-title: all-secure-4/4 t.me/rjsxrd
+#profile-update-interval: 48
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://9eb9217a-5d06-4872-b7d8-39137e7186e2@92.53.105.80:443?mode=gun&security=reality&encryption=none&authority=&pbk=_69wn-VZn2fPHi-v9Q5XkZ-AixXtbUY45tHb_oxGmig&fp=random&spx=%2F&allowinsecure=0&type=grpc&serviceName=rutube&sni=rutube.ru:443&sid=15318b9c28#%F0%9F%87%B7%F0%9F%87%BA+RU+%7C+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%234%20t.me%2Frjsxrd
+vless://9eb9217a-5d06-4872-b7d8-39137e7186e2@194.87.140.146:9443?mode=gun&security=reality&encryption=none&authority=&pbk=89Ue0iCb54oFF82DZ97N949iCa2dWIvJPAX2hB50YTM&fp=random&spx=%2F&allowinsecure=0&type=grpc&serviceName=grpc&sni=vkvideo.ru:443&sid=15318b9c28#%F0%9F%87%B7%F0%9F%87%BA+RU+%7C+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%235%20t.me%2Frjsxrd
