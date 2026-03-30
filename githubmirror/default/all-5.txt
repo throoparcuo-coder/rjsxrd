@@ -4,6 +4,6 @@
 #announce: t.me/rjsxrd
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@108.162.195.244:8443?alpn=h3&encryption=none&flow=&host=m1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8-SanJose-580ms-Cloudflare%20Inc.%20t.me%2Frjsxrd
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls&allowinsecure=0&type=raw#%F0%9F%87%B3%F0%9F%87%B1+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%2C+Amsterdam+%7C+%F0%9F%8C%90+%7C+%F0%9F%94%90+%5B%F0%9F%8F%B4BL%5D%20t.me%2Frjsxrd
-vless://9b73c904-e704-4537-ab1a-6aadfc5c535e@g-api1.maps-yandex.net:10120?mode=gun&security=reality&encryption=none&authority=&pbk=TWTC9ME2USNv_Vug-fJ-jeh0NxiLJ7IN9jjJN_3UylY&fp=ios&allowinsecure=0&type=grpc&serviceName=api&sni=apple.com&sid=0d6151ea50972a17#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F+%232%20t.me%2Frjsxrd
+vless://3272fef1-b30c-4a7d-a83d-0279b4552bf2@217.16.31.224:443?security=reality&encryption=none&pbk=oj6D__u-VwAYCHb1EBH3GwjJHTC8S7WrMfVtiAA6qWY&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=a0043c09acd0c962#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20VK%20t.me%2Frjsxrd
+vless://3bc0a2b8-aa72-0014-856c-6ab01cf7a8c6@217.16.31.164:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B*CIDR%5D%20VK%20t.me%2Frjsxrd
+vless://a6abf70b-f734-42e5-ace6-208e4d53d207@85.192.32.138:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5B*CIDR%5D%20VK%20t.me%2Frjsxrd
