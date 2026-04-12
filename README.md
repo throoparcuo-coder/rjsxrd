@@ -86,92 +86,92 @@ tgc: [t.me/rjsxrd](https://t.me/rjsxrd)
 
 ### Обычные конфиги (default/)
 Обычные конфиги для обхода стандартных блокировок. Рекомендуемые:
-- **[1](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/1.txt)**
-- **[6](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/6.txt)**
-- **[22](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/22.txt)**
-- **[23](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/23.txt)**
-- **[24](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/24.txt)**
-- **[25](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/25.txt)**
+- **[1](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/default/1.txt)**
+- **[6](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/default/6.txt)**
+- **[22](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/default/22.txt)**
+- **[23](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/default/23.txt)**
+- **[24](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/default/24.txt)**
+- **[25](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/default/25.txt)**
 
 #### Дополнительные файлы в default/
-- **[all.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/all.txt)** - все уникальные конфиги из папки default в одном файле
-- **[all-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/all-secure.txt)** - все безопасные (без insecure параметров) уникальные конфиги из папки default в одном файле
+- **[all.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/default/all.txt)** - все уникальные конфиги из папки default в одном файле
+- **[all-secure.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/default/all-secure.txt)** - все безопасные (без insecure параметров) уникальные конфиги из папки default в одном файле
 
 ### Конфиги для обхода SNI/CIDR белых списков (bypass/)
 
 > **Для пользователей мобильных устройств**: при возникновении проблем с производительностью рекомендуется использовать файлы по отдельности, а не bypass-all.txt
 
-**[bypass-all](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt)** - все безопасные конфиги для обхода SNI/CIDR в одном файле
+**[bypass-all](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt)** - все безопасные конфиги для обхода SNI/CIDR в одном файле
 
 **Файлы разделенные по 300 конфигов**:
-- **[bypass-1](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-1.txt)**
-- **[bypass-2](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-2.txt)**
-- **[bypass-3](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-3.txt)**
-- **[bypass-4](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-4.txt)**
-- **[bypass-5](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-5.txt)**
-- **[bypass-6](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-6.txt)**
-- **[bypass-7](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-7.txt)**
-- **[bypass-8](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-8.txt)**
-- **[bypass-9](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-9.txt)**
-- **[bypass-10](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-10.txt)**
-- **[bypass-11](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-11.txt)**
-- **[bypass-12](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-12.txt)**
-- **[bypass-13](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-13.txt)**
-- **[bypass-14](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-14.txt)**
-- **[bypass-15](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-15.txt)**
+- **[bypass-1](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-1.txt)**
+- **[bypass-2](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-2.txt)**
+- **[bypass-3](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-3.txt)**
+- **[bypass-4](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-4.txt)**
+- **[bypass-5](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-5.txt)**
+- **[bypass-6](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-6.txt)**
+- **[bypass-7](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-7.txt)**
+- **[bypass-8](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-8.txt)**
+- **[bypass-9](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-9.txt)**
+- **[bypass-10](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-10.txt)**
+- **[bypass-11](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-11.txt)**
+- **[bypass-12](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-12.txt)**
+- **[bypass-13](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-13.txt)**
+- **[bypass-14](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-14.txt)**
+- **[bypass-15](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-15.txt)**
 
 ### Небезопасные конфиги для обхода SNI/CIDR (bypass-unsecure/)
 
-**[bypass-unsecure-all](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-all.txt)** - все конфиги для обхода SNI/CIDR в одном файле (включая небезопасные)
+**[bypass-unsecure-all](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-all.txt)** - все конфиги для обхода SNI/CIDR в одном файле (включая небезопасные)
 
 **Файлы разделенные по 300 конфигов**:
-- **[bypass-unsecure-1](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-1.txt)**
-- **[bypass-unsecure-2](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-2.txt)**
-- **[bypass-unsecure-3](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-3.txt)**
-- **[bypass-unsecure-4](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-4.txt)**
-- **[bypass-unsecure-5](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-5.txt)**
-- **[bypass-unsecure-6](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-6.txt)**
-- **[bypass-unsecure-7](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-7.txt)**
-- **[bypass-unsecure-8](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-8.txt)**
-- **[bypass-unsecure-9](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-9.txt)**
-- **[bypass-unsecure-10](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-10.txt)**
-- **[bypass-unsecure-11](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-11.txt)**
-- **[bypass-unsecure-12](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-12.txt)**
-- **[bypass-unsecure-13](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-13.txt)**
-- **[bypass-unsecure-14](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-14.txt)**
-- **[bypass-unsecure-15](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-15.txt)**
-- **[bypass-unsecure-16](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-16.txt)**
+- **[bypass-unsecure-1](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-1.txt)**
+- **[bypass-unsecure-2](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-2.txt)**
+- **[bypass-unsecure-3](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-3.txt)**
+- **[bypass-unsecure-4](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-4.txt)**
+- **[bypass-unsecure-5](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-5.txt)**
+- **[bypass-unsecure-6](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-6.txt)**
+- **[bypass-unsecure-7](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-7.txt)**
+- **[bypass-unsecure-8](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-8.txt)**
+- **[bypass-unsecure-9](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-9.txt)**
+- **[bypass-unsecure-10](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-10.txt)**
+- **[bypass-unsecure-11](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-11.txt)**
+- **[bypass-unsecure-12](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-12.txt)**
+- **[bypass-unsecure-13](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-13.txt)**
+- **[bypass-unsecure-14](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-14.txt)**
+- **[bypass-unsecure-15](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-15.txt)**
+- **[bypass-unsecure-16](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/bypass-unsecure/bypass-unsecure-16.txt)**
 
 ### Конфиги, разделенные по протоколам (split-by-protocols/)
 
 **Безопасные протокол-специфичные файлы**:
-- **[vless-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vless-secure.txt)** - только безопасные VLESS конфиги
-- **[vmess-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vmess-secure.txt)** - только безопасные VMess конфиги
-- **[trojan-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/trojan-secure.txt)** - только безопасные Trojan конфиги
-- **[ss-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ss-secure.txt)** - только безопасные Shadowsocks конфиги
-- **[ssr-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ssr-secure.txt)** - только безопасные ShadowsocksR конфиги
-- **[tuic-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/tuic-secure.txt)** - только безопасные TUIC конфиги
-- **[hysteria-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria-secure.txt)** - только безопасные Hysteria конфиги
-- **[hysteria2-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria2-secure.txt)** - только безопасные Hysteria2 конфиги
-- **[hy2-secure.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hy2-secure.txt)** - только безопасные Hysteria2 (hy2) конфиги
+- **[vless-secure.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vless-secure.txt)** - только безопасные VLESS конфиги
+- **[vmess-secure.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vmess-secure.txt)** - только безопасные VMess конфиги
+- **[trojan-secure.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/trojan-secure.txt)** - только безопасные Trojan конфиги
+- **[ss-secure.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ss-secure.txt)** - только безопасные Shadowsocks конфиги
+- **[ssr-secure.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ssr-secure.txt)** - только безопасные ShadowsocksR конфиги
+- **[tuic-secure.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/tuic-secure.txt)** - только безопасные TUIC конфиги
+- **[hysteria-secure.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria-secure.txt)** - только безопасные Hysteria конфиги
+- **[hysteria2-secure.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria2-secure.txt)** - только безопасные Hysteria2 конфиги
+- **[hy2-secure.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hy2-secure.txt)** - только безопасные Hysteria2 (hy2) конфиги
 
 **Все протокол-специфичные файлы (включая небезопасные)**:
-- **[vless.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vless.txt)** - все VLESS конфиги
-- **[vmess.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vmess.txt)** - все VMess конфиги
-- **[trojan.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/trojan.txt)** - все Trojan конфиги
-- **[ss.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ss.txt)** - все Shadowsocks конфиги
-- **[ssr.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ssr.txt)** - все ShadowsocksR конфиги
-- **[tuic.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/tuic.txt)** - все TUIC конфиги
-- **[hysteria.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria.txt)** - все Hysteria конфиги
-- **[hysteria2.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria2.txt)** - все Hysteria2 конфиги
-- **[hy2.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hy2.txt)** - все Hysteria2 (hy2) конфиги
+- **[vless.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vless.txt)** - все VLESS конфиги
+- **[vmess.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/vmess.txt)** - все VMess конфиги
+- **[trojan.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/trojan.txt)** - все Trojan конфиги
+- **[ss.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ss.txt)** - все Shadowsocks конфиги
+- **[ssr.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/ssr.txt)** - все ShadowsocksR конфиги
+- **[tuic.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/tuic.txt)** - все TUIC конфиги
+- **[hysteria.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria.txt)** - все Hysteria конфиги
+- **[hysteria2.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hysteria2.txt)** - все Hysteria2 конфиги
+- **[hy2.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/split-by-protocols/hy2.txt)** - все Hysteria2 (hy2) конфиги
 
 ### Telegram прокси (tg-proxy/)
 
 **Файлы с Telegram прокси для обхода блокировок мессенджера**:
-- **[all.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/tg-proxy/all.txt)** - все Telegram прокси (MTProto + SOCKS5, отсортированы по пингу)
-- **[MTProto.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/tg-proxy/MTProto.txt)** - только MTProto прокси
-- **[socks.txt](https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/tg-proxy/socks.txt)** - только SOCKS5 прокси
+- **[all.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/tg-proxy/all.txt)** - все Telegram прокси (MTProto + SOCKS5, отсортированы по пингу)
+- **[MTProto.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/tg-proxy/MTProto.txt)** - только MTProto прокси
+- **[socks.txt](https://raw.githubusercontent.com/throoparcuo-coder/rjsxrd/refs/heads/main/githubmirror/tg-proxy/socks.txt)** - только SOCKS5 прокси
 
 [Ссылка на QR-коды вечно актуальных конфигов](https://github.com/whoahaow/rjsxrd/tree/main/qr-codes)
 
