@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-43/54 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://0c49f1d8-3d34-473b-bebf-9d9a4811db62@45.141.234.196:51472?security=reality&encryption=none&pbk=hvFQArY-PeMdz4jfKEGZ9HgIJvZbR5Bd9F0GgNLemQI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ab4398ec00fc775d#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20101813%20t.me%2Frjsxrd
 vless://0c49f1d8-3d34-473b-bebf-9d9a4811db62@45.141.234.196:51472?security=reality&encryption=none&pbk=hvFQArY-PeMdz4jfKEGZ9HgIJvZbR5Bd9F0GgNLemQI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ab4398ec00fc775d#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20794568%20t.me%2Frjsxrd
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#4Nika-6324%20t.me%2Frjsxrd

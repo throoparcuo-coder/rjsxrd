@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-27/31 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e928d85d-f223-07d0-a1d2-a56e9fbd50e0@5.188.141.137:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20LTE%201057%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel%20t.me%2Frjsxrd
 vless://241e1d88-218b-000a-a135-e643b3a9a320@89.208.222.204:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20874926%20t.me%2Frjsxrd
 vless://bf316ecb-8f38-4343-8776-d83c0640006d@95.163.209.106:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea#15.%20VLESS%20%7C%20SNI%3A%20rbc.ru%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd

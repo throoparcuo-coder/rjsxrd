@@ -1,9 +1,3 @@
-#profile-title: hysteria-secure.txt t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 hysteria://108.181.17.116:15566?upmbps=50&downmbps=80&auth=jQrGpwSqp34P&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
 hysteria://108.181.22.155:11223?upmbps=50&downmbps=80&auth=O5tQQiW2xKf5&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
 hysteria://108.181.22.205:22334?upmbps=50&downmbps=80&auth=lASdKzWK0VxL&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY1-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd

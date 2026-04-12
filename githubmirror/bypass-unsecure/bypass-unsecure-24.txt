@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-24/24 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e62d084a-b9de-4486-a776-a54d200f89c1@172.67.134.91:443?encryption=none&security=tls&sni=square-sea-36d2.sendconfig.workers.dev&insecure=1&allowInsecure=1&type=ws&host=square-sea-36d2.sendconfig.workers.dev&path=ws#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd
 vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.13.31:80?security=none&encryption=none&host=floral-term-d21f.wafajax493.workers.dev&type=ws#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd
 vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80?type=ws&security=none&encryption=none&path=%F0%9F%94%92&host=floral-term-d21f.wafajax493.workers.dev#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd

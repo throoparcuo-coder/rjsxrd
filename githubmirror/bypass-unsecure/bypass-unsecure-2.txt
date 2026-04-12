@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-2/7 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://5e2befab-e21b-4820-8c85-ebb7aae82913@188.241.241.15:8443?mode=auto&security=reality&encryption=none&extra=%2525257B%25252522scMaxEachPostBytes%25252522%2525253A1000000.0%2525252C%25252522scMaxConcurrentPosts%25252522%2525253A100.0%2525252C%25252522scMinPostsIntervalMs%25252522%2525253A30.0%2525252C%25252522xPaddingBytes%25252522%2525253A%25252522100-1000%25252522%2525252C%25252522noGRPCHeader%25252522%2525253Afalse%2525257D&echfq=none&pbk=5c_t0D_v-CEnVeISY6bTzPufEREugRvBi25e0k_bsj4&fp=chrome&spx=%2525252Fversion&allowinsecure=0&type=xhttp&sni=akashi.vk-portal.net&sid=e65d3cf17e8fffb1#1526.%20VLESS%20%7C%20SNI%3A%20akashi.vk-portal.net%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel%20t.me%2Frjsxrd
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@95.85.226.166:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1Hr3vZv1JC7PuvH8iGfA7LyMHi2afnvp9y_q507I0Ew&security=reality&sni=eh.vk.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20111230%20t.me%2Frjsxrd
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@103.231.73.181:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#1563 | 🇱🇻 Latvia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd

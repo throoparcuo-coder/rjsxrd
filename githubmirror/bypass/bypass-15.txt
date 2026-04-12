@@ -1,9 +1,3 @@
-#profile-title: bypass-15/16 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://98f6b8b0-88bd-4fa8-82f4-ed120ecf8b5c@95.163.211.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vkvideo.ru&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b&type=tcp#339.%20%F0%9F%87%AC%F0%9F%87%A7%20VLESS%20%7C%20SNI%3A%20www.vkvideo.ru%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
 vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@217.16.28.63:7443?encryption=none&fp=chrome&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&security=reality&serviceName=UpdateService&sid=dd700a46e27751d1&sni=ads.x5.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔥%20%20%20t.me%2Frjsxrd
 vless://4de9e661-71ca-4dc8-bbf3-3d6483831164@217.16.28.211:4443?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=E6-0KGtLzYJTIVYyHptkOrKEYXJ0lCCttLTT6JMgmmg&sid=d9b48d85472323d5#4Nika-6068%20t.me%2Frjsxrd

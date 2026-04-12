@@ -1,9 +1,3 @@
-#profile-title: bypass-19/23 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://33b5d1ee-1075-4ee0-b87b-8104fd6a8686@146.185.240.172:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&sni=rbc.ru#%F0%9F%87%A8%F0%9F%87%AD%20Швейцария%20[🏳️LTE]%20|%20🥭🔥%20%20%20t.me%2Frjsxrd
 vless://f9c1d3c1-07a2-455c-aecb-a61b9be832ff@fin.aprux.ru:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qh09oMH5d3OWilniu8_8hC42ZPr8hvdUrOK6xq-QWWg&sid=b670&sni=google.com#[480ms Финляндия FI 🇫🇮 @vlesstrojan]%20t.me%2Frjsxrd
 vless://03896a37-db8f-44ed-8ce1-45a1577f6da6@104.21.34.189:443?type=ws&security=tls&encryption=none&sni=stipulations.gelatin.workers.dev&path=/eyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=stipulations.gelatin.workers.dev&ed=2560&eh=Sec-WebSocket-Protocol#%F0%9F%87%AE%F0%9F%87%B1%20%5B%D0%91%D0%A1-VL%5D%20%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%20%2318327%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd

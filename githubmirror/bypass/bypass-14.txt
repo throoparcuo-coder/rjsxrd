@@ -1,9 +1,3 @@
-#profile-title: bypass-14/16 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://ca4e9219-5f21-497d-bb9d-cd6719b03512@159.195.69.251:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=fastsync.xyz&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c&spx=%2F#[2286ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
 vless://99e2fd5e-f5b2-47f9-be5a-eb38daa4e670@212.233.97.35:5443?encryption=none&fp=qq&pbk=wXpc4aufCrdxZ2_aoh6Zt0aLWLioMN2Zi0jtKdonMW4&security=reality&sid=b027c9244d2a&sni=max.ru&type=tcp&headerType=none#866.%20%F0%9F%87%B5%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20max.ru%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
 vless://4de9e661-71ca-4dc8-bbf3-3d6483831164@217.16.28.211:4443?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=E6-0KGtLzYJTIVYyHptkOrKEYXJ0lCCttLTT6JMgmmg&sid=d9b48d85472323d5#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20406770%20t.me%2Frjsxrd

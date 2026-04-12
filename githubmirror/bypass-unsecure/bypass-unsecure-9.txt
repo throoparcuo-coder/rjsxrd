@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-9/9 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80?type=ws&security=none&encryption=none&path=%F0%9F%94%92&host=floral-term-d21f.wafajax493.workers.dev#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd
 vless://03896a37-db8f-44ed-8ce1-45a1577f6da6@172.67.216.218:443?allowInsecure=1&encryption=none&host=stipulations.gelatin.workers.dev&path=%2FeyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=stipulations.gelatin.workers.dev&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20%5BVL%5D%20%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%20%234842%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.13.31:80?security=none&encryption=none&host=floral-term-d21f.wafajax493.workers.dev&type=ws#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd

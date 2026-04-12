@@ -1,9 +1,3 @@
-#profile-title: bypass-20/23 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api.vk.com&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339#%F0%9F%87%B7%F0%9F%87%BAОбходы - TG: AirLinkVPNBot |0161|%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://289ca022-fd53-4830-af16-59e8abccd3d9@146.185.240.172:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20240459%20t.me%2Frjsxrd
 vless://4f0b281e-8a49-4a2d-9e54-3abe1c9b9d1f@146.185.208.123:4443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=I4RNTYDqaq4zPgrxcZkXKQN5fGCAAXTw34PWHoHBUXk&sid=d6c88ebf0408&spx=/i9IGvJFtwiVtCVB#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20132044%20t.me%2Frjsxrd

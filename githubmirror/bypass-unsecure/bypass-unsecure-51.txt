@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-51/54 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20147769%20t.me%2Frjsxrd
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20738570%20t.me%2Frjsxrd
 vless://0c49f1d8-3d34-473b-bebf-9d9a4811db62@45.141.234.196:51472?security=reality&encryption=none&pbk=hvFQArY-PeMdz4jfKEGZ9HgIJvZbR5Bd9F0GgNLemQI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ab4398ec00fc775d#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20391497%20t.me%2Frjsxrd

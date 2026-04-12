@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-52/54 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&type=ws&security=none&path=%2F#%F0%9F%87%BB%F0%9F%87%B3%20%E2%84%96870%20%D1%82%D0%B3%D0%BA%3A%40obwhitel%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.43.79.121:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-160%20t.me%2Frjsxrd
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?encryption=none&type=ws&security=tls&path=%2F&host=ca.adobe-connect.top&fp=chrome&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%E2%80%94%20%2383%20t.me%2Frjsxrd

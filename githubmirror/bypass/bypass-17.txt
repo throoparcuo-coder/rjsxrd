@@ -1,9 +1,3 @@
-#profile-title: bypass-17/23 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://9b691795-7bbd-45a8-bca1-10684c064e60@79.174.93.162:2083?type=grpc&security=reality&encryption=none&fp=qq&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=ads.x5.ru&serviceName=UpdateService#Шкатулка запретов — 🇷🇺RU%20t.me%2Frjsxrd
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=api.vk.com&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20910694%20t.me%2Frjsxrd
 vless://f1881fb7-3d7c-42d4-ab52-1a9eebf6fb71@ru-02.maxonelove.com:443?type=raw&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=bqoZnQgCG5B4vLKc-mgL-CHRI06Q0H1bv9zBcpo9zjE&sid=96962fed&sni=ru-02.maxonelove.com#Шкатулка запретов — 🇷🇺RU%20t.me%2Frjsxrd

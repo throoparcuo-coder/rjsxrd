@@ -1,9 +1,3 @@
-#profile-title: 12-12/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://832169cc-30ca-4e00-bb34-fdee426ef46c@bo2.ghognus.com:29096?security=none&amp;encryption=none&amp;host=nic.ir&amp;headerType=http&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple%20t.me%2Frjsxrd
 ss://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&amp;host=iioo.iioou.workers.dev&amp;security=none&amp;type=ws#%F0%9F%AA%BA24@oneclickvpnkeys%20t.me%2Frjsxrd
 ss://ca936f22-fbe1-443d-15cb-9cf2ee9b8334@vip-81.f-sub.lenalizmy0ve.ir:45542?security=none&amp;encryption=none&amp;host=vip-81.f-sub.lenalizmy0ve.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20t.me%2Frjsxrd

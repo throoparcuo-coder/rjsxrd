@@ -1,9 +1,3 @@
-#profile-title: bypass-all t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@84.201.186.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#Стабильный | 🇷🇺 Selectel — #68%20t.me%2Frjsxrd
 vless://a356908f-2058-4992-b26b-4262eb8847ab@158.160.222.45:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=5kiPAcXkZDoNrCIQ4UX7qXG2vvGxARZ_NGnSiM7YyAg&sid=9f42684c1b#🇷🇺 Russia | Yandex.Cloud 1%20t.me%2Frjsxrd
 vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@swe-bridge.sbrf-cdn342.ru:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=qq&sni=sub.sbrf-cdn342.ru&alpn=http/1.1#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd

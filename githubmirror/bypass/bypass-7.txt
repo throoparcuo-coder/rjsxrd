@@ -1,9 +1,3 @@
-#profile-title: bypass-7/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://58820cc9-7eba-43e2-b10b-370b6fe2786d@212.233.97.139:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20167496%20t.me%2Frjsxrd
 vless://eb7e9c29-cc88-4577-bf61-ee6785332224@161.104.105.144:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9#🇷🇺 Россия | White List | Fast | EaveVPN | #0059%20t.me%2Frjsxrd
 vless://74c459f7-f99a-4132-aa81-4cbfd66ae29d@212.233.97.139:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23236%20t.me%2Frjsxrd

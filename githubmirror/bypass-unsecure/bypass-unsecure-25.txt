@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-25/31 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://2d263fef-fd46-4168-afb0-e1e37e24351a@85.192.32.4:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=764f497dda21c4fc#🇵🇱 Poland | Datacamp 376%20t.me%2Frjsxrd
 vless://217db6b9-29ac-4a09-aa30-19c9464b596a@85.192.32.4:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=50e09046c0c00159#🇵🇱 Poland | Datacamp 374%20t.me%2Frjsxrd
 vless://e928d85d-f223-0bb8-a1d2-a56e9fbd50e0@109.120.189.223:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20LTE%201414%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel%20t.me%2Frjsxrd

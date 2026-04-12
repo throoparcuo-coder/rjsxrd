@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-10/16 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://09f01905-29de-4d4d-ade8-a77c2a83a1c3@161.104.105.144:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=5be97fb85093a3a9#%F0%9F%87%A9%F0%9F%87%AAОбходы - TG: AirLinkVPNBot |0419|%20t.me%2Frjsxrd
 vless://3b3cd4fd-5589-4929-8168-00aa0790294b@109.73.199.214:2064?security=reality&type=tcp&headerType=&path=&host=&sni=api-maps.yandex.ru&fp=chrome&pbk=wisCp1rkvJHzKo-C3SAVgUISLYXa_yuNRRPi81Ftomo&sid=e3a1b5f7a2c3d4e5#1202.%20VLESS%20%7C%20SNI%3A%20api-maps.yandex.ru%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel%20t.me%2Frjsxrd
 vless://51c8cff5-bb9a-4ade-8ceb-dc5805f5abc3@161.104.105.144:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a#[515ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd

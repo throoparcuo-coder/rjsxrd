@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-45/54 t.me/rjsxrd
-#profile-update-interval: 24
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://0509acee-63e3-4364-95cc-21c601f059be@185.254.99.241:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=booking.com&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23360%20t.me%2Frjsxrd
 vless://26524cce-d514-4014-a426-365fb266a14d@162.159.152.184:443?encryption=none&type=ws&security=tls&path=%2Fdanfeng&host=k7ryegiaeu.chinam.eu.org&fp=random&sni=k7ryegiaeu.chinam.eu.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23295%20t.me%2Frjsxrd
 vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.229:2040?encryption=none&type=tcp&security=reality&fp=chrome&sni=tradingview.com&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20592764%20t.me%2Frjsxrd

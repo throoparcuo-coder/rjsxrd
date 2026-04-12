@@ -1,9 +1,3 @@
-#profile-title: bypass-18/23 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com%20t.me%2Frjsxrd%20t.me%2Frjsxrd%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#%E2%84%96860%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%40obwhitel%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#26.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20t.me%2Frjsxrd%20t.me%2Frjsxrd%20t.me%2Frjsxrd
