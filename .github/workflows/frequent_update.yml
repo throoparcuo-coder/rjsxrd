@@ -1,50 +1,55 @@
-name: Update VPN Configs
+name: Daily Sync and Clean
 
 on:
   schedule:
-    - cron: "0 0 */2 * *"  # Once every 2 days at midnight UTC
+    # Runs automatically every day at midnight (UTC)
+    - cron: '0 0 * * *'
   workflow_dispatch:
+    # Allows you to manually trigger the workflow from the Actions tab
+
+permissions:
+  contents: write # Required to allow GitHub Actions to push commits back to your fork
 
 jobs:
-  update-files:
+  sync-and-clean:
     runs-on: ubuntu-latest
-    timeout-minutes: 80
-    permissions:
-      contents: write
-
-    concurrency:
-      group: vpn-config-update
-      cancel-in-progress: true
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29  # v4.1.6
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 1
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 # Fetches all history so we can merge properly
 
-      - name: Set up Python
-        uses: actions/setup-python@0b93645e92151f777d924e8c48dc00eee2ebc3ea  # v5.3.0
-        with:
-          python-version: '3.12'
-          cache: 'pip'
-
-      - name: Upgrade pip
-        run: python -m pip install --upgrade pip
-
-      - name: Install dependencies
-        run: cd source && pip install --no-cache-dir -r requirements.txt
-
-      - name: Run script with git mode
-        id: run_script
-        env:
-          PROXY_REQUIRED: false  # GitHub Actions runners don't have proxy
+      - name: Configure Git
         run: |
-          cd source && python main.py --use-git --no-proxy-check
-        continue-on-error: true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Check script result
-        if: steps.run_script.outcome == 'failure'
+      - name: Sync with Upstream (Original Repo)
         run: |
-          echo "::error::VPN config update failed"
-          exit 1
+          # REPLACE the URL below with the original repository you forked from
+          git remote add upstream https://github.com/whoahaow/rjsxrd.git
+          git fetch upstream
+          
+          # Merges the changes from upstream/main into your fork.
+          # (If the original repo uses 'master', change 'upstream/main' to 'upstream/master')
+          # '-X theirs' ensures that if there are conflicts, the upstream original wins.
+          git merge upstream/main -X theirs --no-edit
+
+      - name: Clean .txt files
+        run: |
+          # Finds all .txt files recursively and runs 'sed' to process them.
+          # - '/^[[:space:]]*$/d' deletes empty lines (and lines with only spaces/carriage returns)
+          # - '/^[[:space:]]*#/d' deletes lines starting with '#' (even if preceded by spaces)
+          find . -type f -name "*.txt" -exec sed -i '/^[[:space:]]*$/d; /^[[:space:]]*#/d' {} +
+          
+      - name: Commit and Push changes
+        run: |
+          git add .
+          
+          # Check if there are any changes to commit before trying to push
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Automated daily sync and cleanup of .txt files"
+            git push
+          else
+            echo "No changes found to commit."
+          fi
