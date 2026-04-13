@@ -1,9 +1,3 @@
-#profile-title: 10-10/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vmess://eyJhZGQiOiIxMDQuMTguMTIuMTQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJkZXZpY2VJRCI6IiIsImV4dHJhIjoiIiwiZnAiOiJmaXJlZm94IiwiZnJhZ21lbnQiOiIiLCJoZWFkZXJUeXBlIjoiIiwiaG9zdCI6ImJhY2tmYWxsLmF6YWRpY29uZmlnLnRvcCIsImlkIjoiNmNjMTAzYTEtM2U0OS00YzhlLWEyYzEtZjcwZDI0YjE5YzY1IiwibW9kZSI6IiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zdG9yZSIsInBvcnQiOiI0NDMiLCJwcyI6ImZpbGVtYmFkLTQxMyIsInNlZWQiOiIiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJzbmkiOiJiYWNrZmFsbC5hemFkaWNvbmZpZy50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0#%20t.me%2Frjsxrd
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#vmessorg%20t.me%2Frjsxrd
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#vmessorg%20t.me%2Frjsxrd
