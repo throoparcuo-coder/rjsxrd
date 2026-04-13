@@ -1,9 +1,3 @@
-#profile-title: bypass-11/11 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://72dea6b2-f642-4b41-89be-340ac75f84b4@212.192.14.160:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%204vps.su%20%E2%80%94%20%2339%20t.me%2Frjsxrd
 vless://1b3bd2c4-1ba7-46ff-8955-f4d2f2060bb4@158.160.141.59:4243?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=id.x5.ru&pbk=PuhE7UEfMY1T0o92NW0mUZujzLDo_HTK9sHWnuWbNyU&sid=abcd1234#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20924543%20t.me%2Frjsxrd
 vless://2f8f6b75-64c0-4f70-8302-a4a2c953fb72@158.160.248.134:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#4Kian-5573%20t.me%2Frjsxrd

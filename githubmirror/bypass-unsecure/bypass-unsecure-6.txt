@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-6/11 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://7abc4045-39aa-44db-bfd2-a57462ccb4a8@185.141.216.42:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&sni=www.ya.ru#🇦🇩 Андорра | White List | Fast | EaveVPN | #0004%20t.me%2Frjsxrd
 vless://1a87693f-fbe6-414a-9085-6a546a740ce2@node.restlyconnect.mooo.com:1443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=jcbKiuGcU2YDvAzLDO0fRFboRtQH-v-bQpZMWsns9TA&sid=f9e8d7c6#🏳️ UNKNOWN VLESS 1623%20t.me%2Frjsxrd
 vless://1a87693f-fbe6-414a-9085-6a546a740ce2@node.restlyconnect.mooo.com:1443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jcbKiuGcU2YDvAzLDO0fRFboRtQH-v-bQpZMWsns9TA&security=reality&sid=f9e8d7c6&sni=max.ru&type=tcp#🏳️ UNKNOWN VLESS 1440%20t.me%2Frjsxrd

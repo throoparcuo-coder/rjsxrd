@@ -1,9 +1,3 @@
-#profile-title: bypass-4/11 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@pl-1.illusion-vpn.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I&security=reality&sid=b2a1c97a38&sni=ozon.ru&type=tcp&headerType=none#[624ms Польша PL 🇵🇱 @vlesstrojan]%20t.me%2Frjsxrd
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@94.131.101.19:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sid=&sni=tradingview.com#0957%20t.me%2Frjsxrd
 vless://a01881a8-3d9b-48bb-9a9c-e96e8b40b2c6@5.129.220.190:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&sid=5e6f7a8b&sni=eh.vk.com#🇷🇺 Россия | White List | Fast | EaveVPN | #0067%20t.me%2Frjsxrd

@@ -1,9 +1,3 @@
-#profile-title: tuic.txt t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 tuic://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb:strong-secret-pass-777@82.117.255.37:50043?congestion_control=bbr&udp_relay_mode=native&alpn=h3#RO   TUIC-TCP-NTLS - Green Floid LLC  82.117.255.37%20t.me%2Frjsxrd
 tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?sni=apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#FR   TUIC-TCP-NTLS - Scaleway S.a.s.  163.172.126.31%20t.me%2Frjsxrd
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&%3Budp_relay_mode=native&%3Balpn=h3%2Cspdy/3.1&%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231%20t.me%2Frjsxrd
