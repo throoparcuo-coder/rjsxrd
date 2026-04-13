@@ -1,2 +1,9 @@
+#profile-title: all-5/5 t.me/rjsxrd
+#profile-update-interval: 48
+#support-url: https://t.me/rjsxrd
+#announce: t.me/rjsxrd
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://3272fef1-b30c-4a7d-a83d-0279b4552bf2@217.16.31.224:443?security=reality&encryption=none&pbk=oj6D__u-VwAYCHb1EBH3GwjJHTC8S7WrMfVtiAA6qWY&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=a0043c09acd0c962#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20VK%20t.me%2Frjsxrd
 vless://3bc0a2b8-aa72-0014-856c-6ab01cf7a8c6@217.16.31.164:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B*CIDR%5D%20VK%20t.me%2Frjsxrd
 vless://a6abf70b-f734-42e5-ace6-208e4d53d207@85.192.32.138:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5B*CIDR%5D%20VK%20t.me%2Frjsxrd
