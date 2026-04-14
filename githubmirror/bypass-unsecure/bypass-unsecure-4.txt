@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-4/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://2818b4d1-86f2-4cb5-a522-672d1cea7f08@5.255.111.183:58888?type=tcp&security=reality&sni=yastatic.net&fp=edge&pbk=Py_20O8xMOyvtgjbHegVy_EK_CU3-BetwxM19Rj24zo&sid=7a3f9e2b1c8d4f6a&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20yastatic.net%20t.me%2Frjsxrd
 vless://76da7d46-b939-4a20-ab45-80942f3b075b@84.252.132.3:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA%20t.me%2Frjsxrd
 vless://f0304622-79b4-4d7a-a00c-e950fd793333@51.250.50.24:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=CnluTuWsXgRCALAq6t1fsXdt-1LSmG3o8P0J20E9CU8&sid=d0d5172e9f#%F0%9F%87%AB%F0%9F%87%AE%20LTE%20201%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel%20t.me%2Frjsxrd

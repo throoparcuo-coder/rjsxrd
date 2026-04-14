@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-7/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://4d2e3031-4f3b-4de3-92e3-57088b4f32a3@158.160.211.49:4243?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PhKmYtye3nReC8oq32Q7w6CYUeIsHdLgFuNp-hLpN3Y&sid=abcd1234&sni=id.x5.ru#541.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20id.x5.ru%20%7C%20CIDR%3A%20Yandex%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://0d9dbacd-f8e8-438c-820d-c3ed5d3ed7e0@89.223.68.181:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&sid=&sni=goodcardboard.shop#🇷🇺 Россия | White List | Fast | EaveVPN | #0010%20t.me%2Frjsxrd
 vless://8241e224-d80d-469c-af12-97035ba47255@159.195.70.85:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c&sni=fastsync.xyz&spx=/#0459 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd

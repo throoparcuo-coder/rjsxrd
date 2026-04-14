@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-6/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://ac576bcc-d42a-41c1-a3c4-394e8c062999@144.31.107.136:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vNp5FVeRBscyDhJRn8fnk9MydYQnuAYUNYI0pa-CPj4&sid=3c0c7ddbce68&sni=api-maps.yandex.ru#%F0%9F%87%AE%F0%9F%87%B9%20LTE%2041%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel%20t.me%2Frjsxrd
 vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@144.31.220.155:45763?type=grpc&security=reality&encryption=none&fp=chrome&pbk=n00VSaVEImUfNI-8882Ecum-Er2KIHLg32Y-MWQGeh8&sni=alset.group#1056 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://2818b4d1-86f2-4cb5-a522-672d1cea7f08@178.154.203.155:8443?type=tcp&security=reality&sni=ads.x5.ru&fp=edge&pbk=iu72fUewSgHq_9kK13zuUulSIPqB0_TAiERA-R1XLzE&sid=372c05b48fe83e5b&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20LTE%2038%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel%20t.me%2Frjsxrd
