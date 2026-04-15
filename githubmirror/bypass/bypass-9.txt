@@ -1,9 +1,3 @@
-#profile-title: bypass-9/13 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://0599bdbc-b131-42cc-9b5c-03857e111eb9@82.202.137.77:9887?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4#🏳️ UNKNOWN VLESS 4454%20t.me%2Frjsxrd
 vless://52ca0d43-e64a-4127-a972-a15623886a06@158.160.237.0:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&sid=378086fbdb7c61cd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273056%20t.me%2Frjsxrd
 vless://75807638-6f19-2328-ae08-38492ee85c88@ing-13.anti-vpn.ru:52006?security=tls&alpn=http%2525252F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇪🇪 Эстония | White List | Fast | EaveVPN | #0047%20t.me%2Frjsxrd

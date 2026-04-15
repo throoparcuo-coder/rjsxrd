@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-1/14 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@188.225.33.137:443?type=tcp&security=reality&sni=m.vk.ru&fp=random&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&sid=8ac77e6b777376c8&spx=%25252525252525252F&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20LTE%2010%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel%20t.me%2Frjsxrd
 vless://6ea5d64d-0693-4489-8abb-13db6977762b@151.236.114.156:8443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=UsIT-zjeviusx9Av1bItm6yZiZCW56J1P1zvoQAOpU0&sid=0123456789abcdef&sni=max.ru&mode=multi#0820 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://05234eb5-8200-4afb-bd2a-41f14e9fed1b@g5mt7kgg7q.country-26.de-nfast.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=tradingview.com&spx=/#2071 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd

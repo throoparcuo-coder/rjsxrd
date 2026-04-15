@@ -1,9 +1,3 @@
-#profile-title: bypass-5/13 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://a96f18f0-4a56-4c4f-be6e-434835f5523c@158.160.161.235:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xI4ByyrKnvI7bBGwY2ndAe4oPWs_X_6mgXqcT6zn7QA&sid=534673474586&sni=li1.dendibase.org#2693 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.96.116:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=wcs.adobe.com#[538ms HK HK  @vlesstrojan]%20t.me%2Frjsxrd
 vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@lv-1.illusion-vpn.ru:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=5Op9LeBebcKeoU92ob9QZeJ5D_A1sBwAMr4loaojgBk&sid=c1398a9d2b9aed&sni=ozon.ru#3881 | 🌐 Unknown | 🏳️ SNI-Ozon | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd

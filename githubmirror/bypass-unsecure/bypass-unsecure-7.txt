@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-7/14 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://7abc4045-39aa-44db-bfd2-a57462ccb4a8@185.141.216.42:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&sid=3c88b649989ffa95&sni=www.ya.ru#537.%20%F0%9F%87%A8%F0%9F%87%A6%20VLESS%20%7C%20SNI%3A%20www.ya.ru%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://75807638-6f19-2710-ae08-38492ee85c88@germ-dop.anti-vpn.ru:52006?encryption=none&flow=xtls-rprx-vision&security=tls&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF%20t.me%2Frjsxrd
 vless://0599bdbc-b131-42cc-9b5c-03857e111eb9@82.202.137.77:9888?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4#106.%20%F0%9F%87%B7%F0%9F%87%B8%20VLESS%20%7C%20SNI%3A%20www.io.ozone.ru%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd%20t.me%2Frjsxrd
