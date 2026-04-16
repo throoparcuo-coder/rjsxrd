@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-6/7 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://034f514d-a3f3-4e94-a3eb-b5338e8b93fa@158.160.96.59:443?security=reality&encryption=none&pbk=B8ekmOgk9QTnXJJOR_4lDSUapa7PZvV2E37l1Nm4lxk&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=f497fe3dff69ff78#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20YA%20t.me%2Frjsxrd
 vless://9ffcda24-9d63-4c82-ae3d-932aa2b39879@node18.svoy.run:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0_FWbcTe6tvBuSZ7_7PrMaNmg44a8VxYRXPKjZuERwQ&sid=a150dff4&sni=www.cloudflare.com#0622 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://0b5d4737-0665-4b36-a941-0299f5362491@193.233.128.156:4355?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#[361ms Австрия AT 🇦🇹 @vlesstrojan]%20t.me%2Frjsxrd

@@ -1,8 +1,2 @@
-#profile-title: all-5/5 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://3bc0a2b8-aa72-0014-856c-6ab01cf7a8c6@217.16.31.164:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B*CIDR%5D%20VK%20t.me%2Frjsxrd
 vless://a6abf70b-f734-42e5-ace6-208e4d53d207@85.192.32.138:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5B*CIDR%5D%20VK%20t.me%2Frjsxrd

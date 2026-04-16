@@ -1,9 +1,3 @@
-#profile-title: 26-26/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@83.243.86.103:12855?sni=www.microsoft.com&insecure=1#DE   HYSTERIA2-TCP-NTLS - GHOSTnet GmbH  83.243.86.103%20t.me%2Frjsxrd
 hysteria2://a4c1b618-024a-42d4-b78a-1c25c337a484@gb1.xiaoliyu.cyou:10086?sni=gb1.xiaoliyu.cyou&insecure=1&obfs=salamander#GB   HYSTERIA2-TCP-NTLS - ASNET  5.39.254.65%20t.me%2Frjsxrd
 hysteria2://aa61a314-2d82-4509-b9fa-eb93a921b6ab@hk3.jueduibupao.top:48651?sni=hk3.jueduibupao.top&insecure=1#MU   HYSTERIA2-TCP-NTLS - ACCK-LTD  45.196.219.47%20t.me%2Frjsxrd
