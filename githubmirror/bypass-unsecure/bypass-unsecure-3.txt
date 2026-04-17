@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-3/7 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://554a813d-5ec3-4cad-8880-7a10af8adf54@81.200.149.180:8443?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=CK9FUoPvZS0AyXyu1sOK_gHUdQUQl9TeFM6IFzpTFV0&sid=1d9dc56f0b4fbb28#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20442108%20t.me%2Frjsxrd
 vless://aca62032-1d7c-41cf-904e-04cb867006f7@217.28.225.247:4443?type=tcp&security=reality&encryption=none&fp=qq&pbk=cVIcx9DvuTfAwjBEQ8-48kJdhh18IQddk2C-4TnlpBQ&sid=af20&sni=max.ru&spx=/#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-18997%20t.me%2Frjsxrd
 vless://a9da0525-fe34-42e6-a8a1-72cf1340c7bf@vkmsk.kuda-idem-nvrsk.ru:25207?type=tcp&security=reality&encryption=none&fp=firefox&pbk=C6WsAt2bsBvEd7kiESLtpKAAr11ymEl5TUpkty8ODFw&sid=b5d1fe16&sni=www.vk.com&spx=/CqdbpwPU6yxhaFf#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK%20t.me%2Frjsxrd

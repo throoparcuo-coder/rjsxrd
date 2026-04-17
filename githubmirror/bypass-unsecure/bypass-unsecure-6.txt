@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-6/7 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e2daaf71-363d-43f7-852b-1a6d1117734e@ng-pl-0.woffic1al.com:443?type=tcp&security=tls&encryption=none&sni=ng-pl-0.woffic1al.com&fp=qq&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&xudp=0&insecure=0&allow_insecure=0#🇵🇱 Польша | Black List | Fast | EaveVPN | #0049%20t.me%2Frjsxrd
 vless://0ddfc8ce-745e-44f6-97d2-aaeeadbaaec8@srvusjrp.samanidempire.org:443?type=ws&security=tls&sni=&host=srvusjrp.samanidempire.org&path=%2Fafb18b42#%F0%9F%87%A9%F0%9F%87%AA%20%5BVL%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%23860%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://35796021-099d-4db0-b48c-687758b0ab96@51.250.108.98:4443?encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4iZWExolJV2s1BcPnZvhBbFVE7tbzWCShLyTWy7h9SY&sid=e9b3&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20294271%20t.me%2Frjsxrd
