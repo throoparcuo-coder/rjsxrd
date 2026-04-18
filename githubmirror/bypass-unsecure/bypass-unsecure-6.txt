@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-6/6 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@188.114.98.0:2096?path=/&security=tls&encryption=none&host=daluan.eu.org&fp=chrome&type=ws&sni=daluan.eu.org#🇨🇦 Канада | Black List | Fast | EaveVPN | #1504%20t.me%2Frjsxrd
 vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@usa.pink-world.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&security=reality&sid=8ffa160e608bf539&sni=usa.pink-world.ru&type=tcp#[478ms US US  @vlesstrojan]%20t.me%2Frjsxrd
 vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇦🇲 Армения | Black List | Fast | EaveVPN | #0068%20t.me%2Frjsxrd

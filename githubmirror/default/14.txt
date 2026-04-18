@@ -1,9 +1,3 @@
-#profile-title: 14-14/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&path=/&security=none&type=ws#🇺🇸 12 - US - VLESS/WS - 80%20t.me%2Frjsxrd
 vless://054b9fdb-4ca8-4b2e-9855-c1515c4937c5@188.114.98.0:443?allowInsecure=1&encryption=none&host=ekhtelal120.mobailfarid4.ir&path=/&security=tls&sni=ekhtelal120.mobailfarid4.ir&type=ws#🇺🇸 14 - US - VLESS/WS/TLS - 443%20t.me%2Frjsxrd
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.31:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇺🇸 16 - US - VLESS/WS/TLS - 443%20t.me%2Frjsxrd
