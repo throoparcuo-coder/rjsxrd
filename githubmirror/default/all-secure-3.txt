@@ -4,4 +4,4 @@
 #announce: t.me/rjsxrd
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://a6abf70b-f734-42e5-ace6-208e4d53d207@85.192.32.138:443?security=reality&encryption=none&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=fb916778d4#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5B*CIDR%5D%20VK%20t.me%2Frjsxrd
+vless://321c91b8-0395-4dd5-a7d5-9df5adc5c32b@84.201.129.151:443?security=reality&encryption=none&pbk=F8velYFetdr3DueRXR-1c24nj8CBlKGLR1CmgsTGPWA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eda.x5.ru&sid=2232bb69535c6a14#%F0%9F%87%AC%F0%9F%87%AA+%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F+LTE+%235%20t.me%2Frjsxrd
