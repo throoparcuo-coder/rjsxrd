@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-5/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://b960ed61-d7b0-03ec-a39f-484726e2ad66@217.168.247.238:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=eu.bridge.raw-srv.org&pbk=HsKBZVsE7puWHs8AzpHhf5eEwj0imv51at6GRRmLs0A&sid=54150a1d4a31894b#%21 100 %7C REALITY %7C SNI%3A eu.bridge.raw-srv.org %7C IN%3A RU OUT%3A FI %7C RATING%3A 5%2F10%20t.me%2Frjsxrd
 vless://aa3c2eec-3946-0154-88a9-47b58a6bc5a7@158.160.231.77:443?type=tcp&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&flow=xtls-rprx-vision#🇩🇪 Германия | White List | Fast | EaveVPN | #0008%20t.me%2Frjsxrd
 vless://51d32c94-ac8e-4be9-98c0-1133ef9e1c44@151.236.114.143:8443?encryption=none&type=grpc&security=reality&mode=multi&fp=chrome&sni=media.mediavitrina.ru&pbk=UsIT-zjeviusx9Av1bItm6yZiZCW56J1P1zvoQAOpU0&sid=0123456789abcdef#🇷🇺 Россия | White List | Fast | EaveVPN | #0044%20t.me%2Frjsxrd

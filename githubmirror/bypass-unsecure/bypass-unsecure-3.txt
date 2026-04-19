@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-3/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://ce6f3864-fbf9-43f0-9ed5-c0dbaffef5c3@158.160.240.76:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd
 trojan://49197da7-4f74-4c34-8229-35561043c113@159.195.6.151:443?fp=random&pbk=TEFfOIgYRUunDwRv_ycZiN8oXGROPx5AQvUCbp9171Q&security=reality&sid=fd&sni=www.google.com&type=tcp#[283ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
 trojan://d896222d-b446-42de-a0be-6996c6013779@45.150.64.248:443?fp=random&pbk=IkfiEw7m3p6og7gmN1xEpEwP2myga6YWM7dZQBuLPEk&security=reality&sid=3e&sni=www.google.com&type=tcp#[389ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd

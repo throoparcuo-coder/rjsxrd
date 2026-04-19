@@ -1,9 +1,3 @@
-#profile-title: bypass-8/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://a475fc1b-c719-4c0b-bb67-39d78fa5b302@madnvrsk.verymad.net:27439?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Re0aWbYgk775QZ2eiIzh9fwPANq8HfLlrp9vbTC8vXQ&sid=3a1e&sni=www.vk.com&spx=/g6Yvk8hhfQwPT70#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-11845%20t.me%2Frjsxrd
 vless://aa3c2eec-3946-00be-88a9-47b58a6bc5a7@158.160.231.77:443?type=tcp&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&flow=xtls-rprx-vision#[459ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 vless://aa3c2eec-3946-0028-88a9-47b58a6bc5a7@158.160.231.77:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM#[459ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd

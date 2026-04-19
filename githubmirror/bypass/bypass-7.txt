@@ -1,9 +1,3 @@
-#profile-title: bypass-7/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://dd09a21b-c1ac-4fde-83bb-dc09f85416b6@bested1.pineappled.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#🇦🇲 Армения | Black List | Fast | EaveVPN | #0011%20t.me%2Frjsxrd
 vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@158.160.209.94:7443?security=reality&sni=www.google.com&fp=chrome&pbk=cbv-Rv71o0fChp6km0HxHnZfzuoRGb2eCBVSGlQHPF0&sid=aabb1122&type=grpc&serviceName=grpc&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-19196%20t.me%2Frjsxrd
 vless://19e94f08-d831-4673-8a03-bb8ebe680eb9@72.56.247.236:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-19185%20t.me%2Frjsxrd
