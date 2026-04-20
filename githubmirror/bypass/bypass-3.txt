@@ -1,9 +1,3 @@
-#profile-title: bypass-3/7 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://2c78c246-5556-47bf-9a22-0ed5d6237389@51.250.45.194:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=Py03aPnCma9Ip4xCvtBsK77NScUYphSw46RmdjFSvls&fp=random&bx=%252525252525252F&sid=b5f1b85b38f53196#TCP%2C%20%D0%9F%D1%8F%D1%82%D1%91%D1%80%D0%BE%D1%87%D0%BA%D0%B0%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
 vless://4e4f5607-087f-4ff6-907c-6b466530b455@109.205.58.79:54986?type=tcp&security=reality&sni=www.vk.com&fp=chrome&pbk=r5MXUjZdwVFbi1XWgElNHWbAn5SA_XRyoENzVTDxa2U&sid=cccbaf57#HK 🇭🇰 ┇ VLESS-TCP-RLT - Sprinthost.ru LLC ┇ 109.205.58.79%20t.me%2Frjsxrd
 trojan://49197da7-4f74-4c34-8229-35561043c113@159.195.6.151:443?security=reality&sni=www.google.com&fp=random&pbk=TEFfOIgYRUunDwRv_ycZiN8oXGROPx5AQvUCbp9171Q&sid=fd&spx=/&type=tcp#🇦🇲 Армения | Black List | Fast | EaveVPN | #0119%20t.me%2Frjsxrd

@@ -1,9 +1,3 @@
-#profile-title: 13-13/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.47:443?allowInsecure=1&amp;encryption=none&amp;host=sni.111000.v6.navy&amp;security=tls&amp;sni=sni.111000.v6.navy&amp;type=ws#%F0%9F%8C%BF57@oneclickvpnkeys%20t.me%2Frjsxrd
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFjei0ueair+WtkGh0dHBzOi8vdC5tZS9tZnRpemkiLA0KICAiYWRkIjogIjE4My4yMzYuNTEuMjMiLA0KICAicG9ydCI6ICI0NjYwMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9<br/><br/>#%20t.me%2Frjsxrd
 ss://YWVzLTI1Ni1nY206UU0xQkI1U01XQzQ3SVZXQQ==@219.135.227.209:15010#%E5%85%B3%E6%B3%A8%E7%94%B5%E6%8A%A5https%3A%2F%2Ft.me%2Fmftizi%20t.me%2Frjsxrd
