@@ -1,9 +1,3 @@
-#profile-title: 25-25/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.fh-aachen.de&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%201%20t.me%2Frjsxrd
 vless://dd09a21b-c1ac-4fde-83bb-dc09f85416b6@bested1.pineappled.org:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%202%20t.me%2Frjsxrd
 trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.237:10369?sni=fra5.chasem2026sud.com&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%203%20t.me%2Frjsxrd

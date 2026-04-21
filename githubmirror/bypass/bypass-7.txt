@@ -1,9 +1,3 @@
-#profile-title: bypass-7/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://26524cce-d514-4014-a426-365fb266a14d@50.62.198.42:443?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&type=ws&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#%E7%BE%8E%E5%9B%BD_0420191098%20t.me%2Frjsxrd
 vless://26524cce-d514-4014-a426-365fb266a14d@50.62.91.42:443?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&type=ws&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#%E7%BE%8E%E5%9B%BD_0420191100%20t.me%2Frjsxrd
 vless://26524cce-d514-4014-a426-365fb266a14d@50.62.175.42:443?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&type=ws&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#%E7%BE%8E%E5%9B%BD_0420191096%20t.me%2Frjsxrd

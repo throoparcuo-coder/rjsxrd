@@ -1,9 +1,3 @@
-#profile-title: 8-8/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://036cfa36-85a6-4964-b38c-4bfdd06d6e3e@th.gostargate.top:49961?security=none&encryption=none&headerType=http&type=tcp#@Test_Vpn_pro%20t.me%2Frjsxrd
 vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&sid=1a24af87&type=tcp&headerType=none#🏳️%20t.me%2Frjsxrd
 vless://bcb7fff4-3426-49a5-bee7-34222fb71ca8@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#%40v2ray_phoenix%20t.me%2Frjsxrd

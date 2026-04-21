@@ -1,9 +1,3 @@
-#profile-title: 19-19/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://0020a489-e36f-42f1-adf0-c87783cfb025@51.250.96.27:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=eh.vk.com&pbk=o_NTED7bFHqtn2U0976cWYXiAQjO15Mp5pHMKLtoODg&sid=f17bd2a519c714a1&spx=/#🇷🇺 1 - RU - VLESS/GRPC/REALITY/PBK/SID/UTLS - 443%20t.me%2Frjsxrd
 vless://0020a489-e36f-42f1-adf0-c87783cfb025@51.250.96.27:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=event.yandex.ru&pbk=o_NTED7bFHqtn2U0976cWYXiAQjO15Mp5pHMKLtoODg&sid=951deac1de&spx=/#🇷🇺 2 - RU - VLESS/GRPC/REALITY/PBK/SID/UTLS - 443%20t.me%2Frjsxrd
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=/222.167.202.31:7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&type=ws&sni=2026.hhhhh.eu.org#🏳️ 16 - XX - VLESS/WS/TLS - 443%20t.me%2Frjsxrd
