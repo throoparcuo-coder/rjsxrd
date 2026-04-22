@@ -1,9 +1,3 @@
-#profile-title: 12-12/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.dynv6.net#%40hopev2ray%F0%9F%A4%8D%20t.me%2Frjsxrd
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#%40configfree20255%20t.me%2Frjsxrd
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.4.130:8443?allowInsecure=1&amp;encryption=none&amp;host=sni.111000.v6.navy&amp;security=tls&amp;sni=sni.111000.v6.navy&amp;type=ws#%F0%9F%90%BE58@oneclickvpnkeys%20t.me%2Frjsxrd

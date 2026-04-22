@@ -1,9 +1,3 @@
-#profile-title: 15-15/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇸🇬%20t.me%2Frjsxrd
 vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#🏳️%20t.me%2Frjsxrd
 vless://6ac7ad6f-168a-468a-85f7-b94bec54e069@arvancloud.ir:2082/?type=ws&encryption=none&path=%2F&host=mzz.bede-baqbon-bilbezane.store&security=none#Cat2-gk3213y9%20t.me%2Frjsxrd

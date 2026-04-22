@@ -1,9 +1,3 @@
-#profile-title: bypass-5/6 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.144.189.5:443?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#1076 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGOVx1RDgzQ1x1RERFRCDms7Dlm70gMzU2IiwNCiAgImFkZCI6ICIxMTkuNDYuNTEuNDUiLA0KICAicG9ydCI6ICI0MjU1MyIsDQogICJpZCI6ICJiYzMwY2M2NS1iYzA4LTQ4NDMtODViNi0xY2FjMmI4YTk3NTMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==#%20t.me%2Frjsxrd
 vless://37e34fcf-7254-4af3-a0ca-733efbff66c4@147.45.248.201:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=zL5pAKteheIP6ZHmadgqDpxVnIKEzHYZ87LxFSG6-nM&sid=8526&sni=yahoo.com&spx=/#1049 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
