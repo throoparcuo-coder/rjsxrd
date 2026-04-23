@@ -12,6 +12,27 @@ hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=gavazn.55994421
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20t.me%2Frjsxrd
 hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20t.me%2Frjsxrd
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ANL%20t.me%2Frjsxrd
+hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=#%20t.me%2Frjsxrd
+hy2://5046SHWqk6@91.132.51.160:844/#%20t.me%2Frjsxrd
+hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=#%20t.me%2Frjsxrd
+hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=#%20t.me%2Frjsxrd
+hy2://V9TUQQMN40@23.27.240.33:23161/?insecure=1#%E2%99%9291%40oneclickvpnkeys%20t.me%2Frjsxrd
+hy2://V9TUQQMN40@23.27.240.33:23161/?insecure=1#91@oneclickvpnkeys%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=#%20t.me%2Frjsxrd
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=#%20t.me%2Frjsxrd
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=#%20t.me%2Frjsxrd
+hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#%E2%99%9297%40oneclickvpnkeys%20t.me%2Frjsxrd
+hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#97@oneclickvpnkeys%20t.me%2Frjsxrd
+hy2://zhangyang@130.61.50.75:6443/#%20t.me%2Frjsxrd
+hy2://V9TUQQMN40@23.27.240.33:23161/?insecure=1#♒91@oneclickvpnkeys%20t.me%2Frjsxrd
+hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#♒97@oneclickvpnkeys%20t.me%2Frjsxrd
+hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#%20t.me%2Frjsxrd
+hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=🔒#%20t.me%2Frjsxrd
+hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=🔒#%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=🔒#%20t.me%2Frjsxrd
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=🔒#%20t.me%2Frjsxrd
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=🔒#%20t.me%2Frjsxrd
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&amp;sni=bing.com#SG%20t.me%2Frjsxrd
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&amp;sni=bing.com#TW%20t.me%2Frjsxrd
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP%20t.me%2Frjsxrd
@@ -19,8 +40,6 @@ hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sn
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&amp;sni=mg2.mangshe.xyz#美国2%20t.me%2Frjsxrd
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&amp;sni=xjp1.mangshe.xyz#新加坡1%20t.me%2Frjsxrd
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK%20t.me%2Frjsxrd
-hy2://V9TUQQMN40@23.27.240.33:23161/?insecure=1#♒91@oneclickvpnkeys%20t.me%2Frjsxrd
-hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#♒97@oneclickvpnkeys%20t.me%2Frjsxrd
 hy2://f6e4b19a3110d19d@66.135.28.59:443?obfs=salamander&amp;obfs-password=8c3ce17b&amp;insecure=1&amp;sni=ELiV2RAY.eliv2.top#%20t.me%2Frjsxrd
 hy2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979/?insecure=1&amp;sni=www.bing.com#📟80@oneclickvpnkeys%20t.me%2Frjsxrd
 hy2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102/?insecure=1#📟86@oneclickvpnkeys%20t.me%2Frjsxrd
@@ -63,26 +82,6 @@ hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&amp;sni=www.apple.com&amp;o
 hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU!&Brls!0exuP+!4so#⚡️ @vipv2rey(Hysteria)%20t.me%2Frjsxrd
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&amp;sni=www.apple.com#%20t.me%2Frjsxrd
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?insecure=1&amp;sni=api.kermanshahi.org&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🚀93@%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ANL%20t.me%2Frjsxrd
-hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#%20t.me%2Frjsxrd
-hy2://5046SHWqk6@91.132.51.160:844/#%20t.me%2Frjsxrd
-hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=🔒#%20t.me%2Frjsxrd
-hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=🔒#%20t.me%2Frjsxrd
-hy2://V9TUQQMN40@23.27.240.33:23161/?insecure=1#%E2%99%9291%40oneclickvpnkeys%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=🔒#%20t.me%2Frjsxrd
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=🔒#%20t.me%2Frjsxrd
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=🔒#%20t.me%2Frjsxrd
-hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#%E2%99%9297%40oneclickvpnkeys%20t.me%2Frjsxrd
-hy2://zhangyang@130.61.50.75:6443/#%20t.me%2Frjsxrd
-hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=#%20t.me%2Frjsxrd
-hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=#%20t.me%2Frjsxrd
-hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=#%20t.me%2Frjsxrd
-hy2://V9TUQQMN40@23.27.240.33:23161/?insecure=1#91@oneclickvpnkeys%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=#%20t.me%2Frjsxrd
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=#%20t.me%2Frjsxrd
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=#%20t.me%2Frjsxrd
-hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#97@oneclickvpnkeys%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20795094%20t.me%2Frjsxrd
 hy2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com#%E2%9C%8572%20t.me%2Frjsxrd
 hy2://default:DKFzbGvtAkn2AG7C2FqyjdOav0bo7bXg@51.250.41.243:8443/?insecure=1&sni=sun6-22.userapi.com&obfs=salamander&obfs-password=A5JDQcOv7Gifnygu2QoAPznVR5oU6Ai0#%F0%9F%87%B7%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%E2%84%965%20%28%D0%B1%D0%B5%D1%82%D0%B0%29%20t.me%2Frjsxrd
 hy2://7795df7d-3c2f-4ab5-8c06-f48df2731ce1@129.154.209.184:443?insecure=1&sni=kr01.pochan.868891.xyz#%F0%9F%87%B0%F0%9F%87%B7%20Korea,%20Republic%20of%20-%20Seoul%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
@@ -768,15 +767,15 @@ hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?obfs=salamander&obfs-password=i
 hy2://7008iSe44g5ddtr4a5621r32o@[2a01:4f8:c012:1ec6::1]:443?obfs=salamander&obfs-password=i35Se47g78ar98o&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Falkenstein%20%F0%9F%8C%8D%20HY2-UDP-TLS%206%E2%83%A3%20t.me%2Frjsxrd
 hy2://738377dc-e149-4f81-e6a2-96c5afca1577@136.243.200.189:5844?insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Falkenstein%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
 hy2://01aa59a6-d375-4319-b948-14f515db2e50@103.184.112.35:55228?insecure=1#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20-%20NA%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20561359%20t.me%2Frjsxrd
-hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20147147%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil%20t.me%2Frjsxrd
 hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil%20t.me%2Frjsxrd
 hy2://3780fcbcddd107f7d7c727eb18e28f4c@20.230.191.53:8443/?insecure=1#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil%20t.me%2Frjsxrd
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil%20t.me%2Frjsxrd
 hy2://5046SHWqk6@91.132.51.160:844/#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil%20t.me%2Frjsxrd
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil%20t.me%2Frjsxrd
 hy2://V9TUQQMN40@23.27.240.33:23161/?insecure=1#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil%20t.me%2Frjsxrd
+hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil%20t.me%2Frjsxrd
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%8F%B045%40oneclickvpnkeys%20t.me%2Frjsxrd
 hy2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#%20t.me%2Frjsxrd
 hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com```#%20t.me%2Frjsxrd
@@ -806,12 +805,8 @@ hy2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443/?insecure=1&sni=hy
 hy2://1fe714a1-d35e-4fb4-b3c7-6037eeef2cfc@138.2.61.63:23001/?insecure=1&sni=jp1.xn--mesx36n.com#j@oneclickvpnkeys%20t.me%2Frjsxrd
 hy2://1fe714a1-d35e-4fb4-b3c7-6037eeef2cfc@130.162.146.2:23001/?insecure=1&sni=kr3.xn--mesx36n.com#k@oneclickvpnkeys%20t.me%2Frjsxrd
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#g@oneclickvpnkeys%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%201014%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%201419%20t.me%2Frjsxrd
 hy2://zhangyang@130.61.50.75:6443/#%3E%3E%40oneclickvpnkeys%3A%3ADE%20t.me%2Frjsxrd
-hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AUS%20t.me%2Frjsxrd
-hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AFR%20t.me%2Frjsxrd
-hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3AGB%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%9C%A83%40oneclickvpnkeys%20t.me%2Frjsxrd
 hy2://e343471a-aad3-40da-9dea-72cc8c7dce5f@158.178.236.104:443/?mport=35000-39000&insecure=1&sni=api.push.apple.com#%3E%3E%40oneclickvpnkeys%3A%3ASG%20t.me%2Frjsxrd
 hy2://e343471a-aad3-40da-9dea-72cc8c7dce5f@pq.us1.globals-download.com:443/?insecure=1&sni=www.apple.com#%3E%3E%40oneclickvpnkeys%3A%3AUS%20t.me%2Frjsxrd
 hy2://e343471a-aad3-40da-9dea-72cc8c7dce5f@pq.us7.globals-download.com:443/?insecure=1&sni=www.apple.com#%3E%3E%40oneclickvpnkeys%3A%3AUS%20t.me%2Frjsxrd
@@ -820,6 +815,10 @@ hy2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.69.220.212:443/?mport=35000-39000
 hy2://e343471a-aad3-40da-9dea-72cc8c7dce5f@158.179.18.251:443/?mport=35000-39000&insecure=1&sni=api.push.apple.com#%3E%3E%40oneclickvpnkeys%3A%3AAU%20t.me%2Frjsxrd
 hy2://e343471a-aad3-40da-9dea-72cc8c7dce5f@193.123.76.84:443/?mport=35000-39000&insecure=1&sni=www.apple.com#%3E%3E%40oneclickvpnkeys%3A%3AAE%20t.me%2Frjsxrd
 hy2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.67.95.183:443/?mport=35000-39000&insecure=1&sni=www.apple.com#%3E%3E%40oneclickvpnkeys%3A%3ACH%20t.me%2Frjsxrd
+hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AUS%20t.me%2Frjsxrd
+hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AFR%20t.me%2Frjsxrd
+hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3AGB%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%9C%A83%40oneclickvpnkeys%20t.me%2Frjsxrd
 hy2://10193f1d-9a4d-457a-b668-bdeb240e092c@netcupus.alisaku.com:34444/?insecure=1&sni=apps.apple.com#%F0%9F%8F%B5%EF%B8%8F38%40oneclickvpnkeys`%20t.me%2Frjsxrd
 hy2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923/?insecure=1&sni=yjjdhl.yunjijd.xyz#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1%20t.me%2Frjsxrd
 hy2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262/?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20t.me%2Frjsxrd
@@ -842,37 +841,37 @@ hy2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:45979/?insecure=1&sni=w
 hy2://9FmazX8AAPpM8TQcNyI2zvBDF5o@92.112.23.216:28264/?insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC%20t.me%2Frjsxrd
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@serv03.20240706.ir:16496/?insecure=1&sni=www.bing.com#%F0%9F%92%A2%20SLOW%20-hy2%20%7C%20TEXT%20ONLY%20%F0%9F%92%A2%20t.me%2Frjsxrd
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.86.47:16496/?insecure=1&sni=www.bing.com#%F0%9F%92%A2%20SLOW%20-hy2%20%7C%20TEXT%20ONLY%20-%20IP%20%F0%9F%92%A2%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20845373%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20963049%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20818481%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20457931%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20324979%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20413209%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20224864%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20360723%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20292845%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20930181%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20332153%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20190022%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20900551%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20292518%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20935444%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20448393%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20629532%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20993530%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20667498%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20311288%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20488224%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20645948%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20315877%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20960501%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20994605%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20622211%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20541997%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20738566%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20451382%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20863555%20t.me%2Frjsxrd
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20643801%20t.me%2Frjsxrd
 hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.153.25.59:35000/?insecure=1&sni=www.lamer.com.hk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20152952%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20213323%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20489855%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20695867%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20452936%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20333088%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20692114%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20373965%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20708999%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20597412%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20725816%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20388493%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20181300%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20510015%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443744%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20569155%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20811593%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20912230%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20861867%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20751553%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20686773%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20337739%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20381777%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20350654%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20764094%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20436125%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20138839%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20345080%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443085%20t.me%2Frjsxrd
 hy2://MScgdxgGEW@179.61.251.214:44800/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=On0%28hf%2454%25gFDet%24%25K5gf3#%40V2rayMiner%20t.me%2Frjsxrd
 hy2://DnMOT5C2CP@162.55.223.25:2053/?insecure=1&sni=vkvd127.mycdn.me#%40V2rayMiner%20t.me%2Frjsxrd
 hy2://w1WaL8WbZf@185.254.96.99:29814/?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=iVPN.Pro-Sahel-Gh3%5Ej%28jshGS5%5E776%26#%40V2rayMiner%20t.me%2Frjsxrd
@@ -896,39 +895,6 @@ hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@sg.zhenshihui.one:48489/#%40V2rayMine
 hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@sg2.zhenshihui.one:48489/#%40V2rayMiner%20t.me%2Frjsxrd
 hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@kr.zhenshihui.one:48489/#%40V2rayMiner%20t.me%2Frjsxrd
 hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@us.zhenshihui.one:48489/#%40V2rayMiner%20t.me%2Frjsxrd
-hy2://1ab02865393bfa6d@5.161.213.184:443?insecure=1&obfs=salamander&obfs-password=d5a9baeec9b61a44&sni=www.google.com#رایگان | HY2 | @TUICity | US🇺🇸 | 0️⃣1️⃣%20t.me%2Frjsxrd
-hy2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=www.apple.com#%20t.me%2Frjsxrd
-hy2://#رایگان | HY2 | @TUICity | US🇺🇸 | 0️⃣2️⃣%20t.me%2Frjsxrd
-hy2://#%20t.me%2Frjsxrd
-hy2://YwuvGJk36B@81.168.83.89:2083?obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧%20United%20Kingdom%20-%2027%20t.me%2Frjsxrd
-hy2://YwuvGJk36B@81.168.83.89:2083?obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org@V2rayNGVPN%3C%3D%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86#🇬🇧%20United%20Kingdom%20-%2028%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%201%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%202%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%203%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%204%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%205%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%206%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%207%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%208%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%209%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%2010%20t.me%2Frjsxrd
-hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#🇳🇱%20Netherlands%20-%2011%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
-hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
-hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335/?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA-hamedp71%20-%20Hysteria2%20t.me%2Frjsxrd
-hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#yandex-99%20t.me%2Frjsxrd
-hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#yandex-100%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#github.com/Ruk1ng001_3232313539623666%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#github.com/Ruk1ng001_6438373236663130%20t.me%2Frjsxrd
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#github.com/Ruk1ng001_3134323237626462%20t.me%2Frjsxrd
-hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#%E4%B8%AD%E5%9B%BD%20-%20%E9%A6%99%E6%B8%AF%20-%20Ultahost,%20Inc.%20-%208%20t.me%2Frjsxrd
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?insecure=1&sni=du.wish.ml#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7%20t.me%2Frjsxrd
-hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.80.237:30300?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD%20t.me%2Frjsxrd
-hy2://a8402d65-d738-446b-b94f-e39cd368e089@23.94.211.92:11119?insecure=1&sni=www.bing.com#hy2-rack%7C%E7%BE%8E%E5%9B%BD%20t.me%2Frjsxrd
 hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%40vpnAndroid2%20mci%20t.me%2Frjsxrd
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#SH%CE%9E%D0%AFVIN%E2%84%A2%20%283%29%20t.me%2Frjsxrd
 hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#SH%CE%9E%D0%AFVIN%E2%84%A2%20%284%29%20t.me%2Frjsxrd
@@ -968,6 +934,39 @@ hy2://dongtaiwang.com@62.210.103.0:52465/?insecure=1&sni=www.bing.com#%F0%9F%87%
 hy2://dongtaiwang.com@108.181.24.77:43656/?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20%40vpnAndroid2%20%281%29%20t.me%2Frjsxrd
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7%40vpnAndroid2%20t.me%2Frjsxrd
 hy2://d017e316-82cb-441c-8eea-7b5e9de64a20@45.150.165.84:8881/?insecure=1&obfs=salamander&obfs-password=d017e316-82cb-441c-8eea-7b5e9de64a20#%F0%9F%87%AB%F0%9F%87%B7%20%40vpnAndroid2%20%282%29%20t.me%2Frjsxrd
+hy2://1ab02865393bfa6d@5.161.213.184:443?insecure=1&obfs=salamander&obfs-password=d5a9baeec9b61a44&sni=www.google.com#رایگان | HY2 | @TUICity | US🇺🇸 | 0️⃣1️⃣%20t.me%2Frjsxrd
+hy2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=www.apple.com#%20t.me%2Frjsxrd
+hy2://#رایگان | HY2 | @TUICity | US🇺🇸 | 0️⃣2️⃣%20t.me%2Frjsxrd
+hy2://#%20t.me%2Frjsxrd
+hy2://YwuvGJk36B@81.168.83.89:2083?obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧%20United%20Kingdom%20-%2027%20t.me%2Frjsxrd
+hy2://YwuvGJk36B@81.168.83.89:2083?obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org@V2rayNGVPN%3C%3D%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86#🇬🇧%20United%20Kingdom%20-%2028%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%201%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%202%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%203%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%204%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%205%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%206%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%207%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%208%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%209%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%2010%20t.me%2Frjsxrd
+hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#🇳🇱%20Netherlands%20-%2011%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
+hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
+hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335/?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA-hamedp71%20-%20Hysteria2%20t.me%2Frjsxrd
+hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#yandex-99%20t.me%2Frjsxrd
+hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#yandex-100%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#github.com/Ruk1ng001_3232313539623666%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#github.com/Ruk1ng001_6438373236663130%20t.me%2Frjsxrd
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#github.com/Ruk1ng001_3134323237626462%20t.me%2Frjsxrd
+hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#%E4%B8%AD%E5%9B%BD%20-%20%E9%A6%99%E6%B8%AF%20-%20Ultahost,%20Inc.%20-%208%20t.me%2Frjsxrd
+hy2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?insecure=1&sni=du.wish.ml#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7%20t.me%2Frjsxrd
+hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.80.237:30300?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD%20t.me%2Frjsxrd
+hy2://a8402d65-d738-446b-b94f-e39cd368e089@23.94.211.92:11119?insecure=1&sni=www.bing.com#hy2-rack%7C%E7%BE%8E%E5%9B%BD%20t.me%2Frjsxrd
 hy2://5c397f7b-3d06-48cc-9147-218109e23a24@83.147.13.176:11402?insecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#🔒 HYSTERIA-UDP 🇹🇼 TW-83.147.13.176:11402%20t.me%2Frjsxrd
 hy2://KevinZakarian@[2606:a8c0:101:6d::a]:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-[2606:a8c0:101:6d::a]:443%20t.me%2Frjsxrd
 hy2://547e05a0-2e59-4712-b9f9-dedb10293d83@166.88.164.181:2056?insecure=1&sni=bra1.xiaoliyu.us#🔒 HYSTERIA-UDP 🇺🇸 US-166.88.164.181:2056%20t.me%2Frjsxrd
@@ -3250,26 +3249,24 @@ hy2://949c8831-e52b-489b-bff4-01b5d2f64b5d@hk3.wukong.bond:36000/?insecure=1&sni
 hy2://d96922f9-3d2b-4fa3-84a1-b87859f03024@hk1.wukong.bond:36000/?insecure=1&sni=hk1.wukong.bond#%40V2rayMiner%20t.me%2Frjsxrd
 hy2://d96922f9-3d2b-4fa3-84a1-b87859f03024@hk2.wukong.bond:36000/?insecure=1&sni=hk1.wukong.bond#%40V2rayMiner%20t.me%2Frjsxrd
 hy2://d96922f9-3d2b-4fa3-84a1-b87859f03024@hk3.wukong.bond:36000/?insecure=1&sni=hk1.wukong.bond#%40V2rayMiner%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#@kingo_team%20t.me%2Frjsxrd
-hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#@kingo_team%20t.me%2Frjsxrd
-hy2://V9TUQQMN40@23.27.240.33:23161/?insecure=1#@kingo_team%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#@teleking_vip%20t.me%2Frjsxrd
+hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#@teleking_vip%20t.me%2Frjsxrd
 hy2://751c1e55ead7439a@free.netmh3.pro:443?obfs=salamander&obfs-password=159836e3&insecure=1#🇹🇷TR | 🟢 | hy2 | @iP_CF | 6%20t.me%2Frjsxrd
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@129.150.36.216:44300?insecure=1&sni=sg-02.worldfirst.eu.org#ð HYSTERIA-UDP ð¸ð¬ SG-129.150.36.216:44300%20t.me%2Frjsxrd
-hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=%45%4C%69%56%32%72%61%79.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#ð¸ðª-@Free_V2rng%20t.me%2Frjsxrd
-hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@13.231.105.239:3074/?insecure=1&sni=TG.@WangCai2#ð°23@oneclickvpnkeys%20t.me%2Frjsxrd
-hy2://f6e4b19a3110d19d@66.135.28.59:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=ELiV2RAY.eliv2.top%0A#@ToYoTA_PRoXY%20t.me%2Frjsxrd
-hy2://DnMOT5C2CP@162.55.223.25:2096?insecure=1&obfs=salamander&obfs-password=Vk%40l%40b%40shV&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%A9%F0%9F%87%AA%20DE%20162.55.223.25%20%E2%97%88%20udp:2096%20%E2%97%88%20Hetzner%20%E2%97%88%20d530b%20t.me%2Frjsxrd
-hy2://7840d79b-c72a-4838-bcfd-b8726260d8f1@5.75.205.182:443?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=www.speedtest.net#ð HYSTERIA-UDP ð©ðª DE-5.75.205.182:443%20t.me%2Frjsxrd
 hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200?sni=han.ssudo.x10.mx#ð HYSTERIA-UDP ðºð¸ US-107.175.93.166:52200%20t.me%2Frjsxrd
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1%3DTG%20WangCai2@18.183.184.241:3074?insecure=1&sni=TG.%40WangCai2#ð HYSTERIA-UDP ð¯ðµ JP-18.183.184.241:3074%20t.me%2Frjsxrd
 hy2://cef1e7a47565b431@147.45.76.99:443/?insecure=1&sni=%45%4C%69%56%32%72%61%79.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#ð¸ðª-@Free_V2rng%20t.me%2Frjsxrd
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@52.199.249.206:3074/?insecure=1&sni=TG.@WangCai2#ð°18@oneclickvpnkeys%20t.me%2Frjsxrd
-hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@139.162.15.99:443?mport=40001-50000&insecure=1&sni=ynn.441166.xyz#ð HYSTERIA-UDP ð¸ð¬ SG-139.162.15.99:443%20t.me%2Frjsxrd
 hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#ð HYSTERIA-UDP ð¹ð¼ TW-188.253.6.117:5555%20t.me%2Frjsxrd
-hy2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:34006?insecure=1&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2045.76.33.120%20%E2%97%88%20udp:34006%20%E2%97%88%20Choopa%20/%20Vultr%20Holdings%20%E2%97%88%20706dc%20t.me%2Frjsxrd
+hy2://2d068322-b0e3-4c35-991e-58d46d8775f8@139.162.15.99:443?mport=40001-50000&insecure=1&sni=ynn.441166.xyz#ð HYSTERIA-UDP ð¸ð¬ SG-139.162.15.99:443%20t.me%2Frjsxrd
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5%3DTG%20WangCai2@23.247.137.67:3074?insecure=1&sni=TG.%40WangCai2#ð HYSTERIA-UDP ðºð¸ US-23.247.137.67:3074%20t.me%2Frjsxrd
+hy2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:34006?insecure=1&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2045.76.33.120%20%E2%97%88%20udp:34006%20%E2%97%88%20Choopa%20/%20Vultr%20Holdings%20%E2%97%88%20706dc%20t.me%2Frjsxrd
+hy2://cef1e7a47565b431@[2a12:5940:42c5::2]:443/?insecure=1&sni=%45%4C%69%56%32%72%61%79.Elena.expert&obfs=salamander&obfs-password=2c5ef5135559d4f5#ð¸ðª-@Free_V2rng%20t.me%2Frjsxrd
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#ð HYSTERIA-UDP ð¸ð° SK-5.35.103.44:4380%20t.me%2Frjsxrd
-hy2://BjJBojuzng@91.231.182.239:17479?insecure=1&obfs=salamander&obfs-password=KJkjsusu878734jhhYyUJJ#ð HYSTERIA-UDP ðºð¦ UA-91.231.182.239:17479%20t.me%2Frjsxrd
+hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@13.231.105.239:3074/?insecure=1&sni=TG.@WangCai2#ð°23@oneclickvpnkeys%20t.me%2Frjsxrd
+hy2://f6e4b19a3110d19d@66.135.28.59:443?obfs=salamander&obfs-password=8c3ce17b&insecure=1&sni=ELiV2RAY.eliv2.top%0A#@ToYoTA_PRoXY%20t.me%2Frjsxrd
+hy2://DnMOT5C2CP@162.55.223.25:2096?insecure=1&obfs=salamander&obfs-password=Vk%40l%40b%40shV&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%A9%F0%9F%87%AA%20DE%20162.55.223.25%20%E2%97%88%20udp:2096%20%E2%97%88%20Hetzner%20%E2%97%88%20d530b%20t.me%2Frjsxrd
+hy2://7840d79b-c72a-4838-bcfd-b8726260d8f1@5.75.205.182:443?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=www.speedtest.net#ð HYSTERIA-UDP ð©ðª DE-5.75.205.182:443%20t.me%2Frjsxrd
 hy2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2051.15.19.206%20%E2%97%88%20udp:8443%20%E2%97%88%20Online%20SAS%20NL%20/%20SCALEWAY%20%E2%97%88%2053e80%20t.me%2Frjsxrd
 hy2://7008iSe44g5ddtr4a5621r32o@88.99.86.235:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#ð HYSTERIA-UDP ð©ðª DE-88.99.86.235:443%20t.me%2Frjsxrd
 hy2://f6e4b19a3110d19d@207.246.124.135:443?insecure=1&sni=www.apple.com%0A&obfs=salamander&obfs-password=8c3ce17b#ð HYSTERIA-UDP ðºð¸ US-207.246.124.135:443%20t.me%2Frjsxrd
@@ -3283,34 +3280,35 @@ hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@213.35.99.16:2052?insecure=1&sni=sg3.
 hy2://0ec39bfb-7040-4953-9399-406c61ded790@160.251.235.72:443?mport=45000-46000&insecure=1&sni=haneda.lol#ð HYSTERIA-UDP ð¯ðµ JP-160.251.235.72:443%20t.me%2Frjsxrd
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#ð HYSTERIA-UDP ð¬ð§ GB-181.215.32.174:4380%20t.me%2Frjsxrd
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@213.35.101.179:44300?insecure=1&sni=sg-02.worldfirst.eu.org#ð HYSTERIA-UDP ð¸ð¬ SG-213.35.101.179:44300%20t.me%2Frjsxrd
-hy2://7008iSe44g5ddtr4a5621r32o@[2a01:4f8:c012:1ec6::1]:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#ð HYSTERIA-UDP ð©ðª DE-[2a01:4f8:c012:1ec6::1]:443%20t.me%2Frjsxrd
+hy2://BjJBojuzng@91.231.182.239:17479?insecure=1&obfs=salamander&obfs-password=KJkjsusu878734jhhYyUJJ#ð HYSTERIA-UDP ðºð¦ UA-91.231.182.239:17479%20t.me%2Frjsxrd
 hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#â¡ï¸ @vipv2rey(Hysteria)%20t.me%2Frjsxrd
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@138.2.86.137:44300?insecure=1&sni=sg-02.worldfirst.eu.org#ð HYSTERIA-UDP ð¸ð¬ SG-138.2.86.137:44300%20t.me%2Frjsxrd
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#ð HYSTERIA-UDP ð¬ð§ GB-144.48.81.171:4380%20t.me%2Frjsxrd
 hy2://BjJBojuzng@91.231.182.239:52894?insecure=1&obfs=salamander&obfs-password=kj34HJhs673518Fhats#ð HYSTERIA-UDP ðºð¦ UA-91.231.182.239:52894%20t.me%2Frjsxrd
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@185.204.0.117:443?mport=50000-50500&insecure=1&sni=hk1.pithecia.com#ð HYSTERIA-UDP ð·ðº RU-185.204.0.117:443%20t.me%2Frjsxrd
 hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG WangCai2@52.194.254.229:3074/?insecure=1&sni=TG.@WangCai2#â¡ï¸@vpnserverrr (Hysteria)%20t.me%2Frjsxrd
-hy2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:34007?insecure=1&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2045.76.33.120%20%E2%97%88%20udp:34007%20%E2%97%88%20Choopa%20/%20Vultr%20Holdings%20%E2%97%88%20118c8%20t.me%2Frjsxrd
+hy2://2fe59b90-3808-4dbc-93fb-bb04598cf80f@107.172.235.75:40443?sni=speedtest.realityforus.com#ð HYSTERIA-UDP ðºð¸ US-107.172.235.75:40443%20t.me%2Frjsxrd
 hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#ð HYSTERIA-UDP ð­ð° HK-156.254.114.144:64470%20t.me%2Frjsxrd
 hy2://NTEzMzU5OjE2NDQwMTpjNWQ2MWEyODQ5NjNkZGVm%3DTG%20WangCai2@60.249.35.95:3074?insecure=1&sni=TG.%40WangCai2#ð HYSTERIA-UDP ð¹ð¼ TW-60.249.35.95:3074%20t.me%2Frjsxrd
-hy2://2fe59b90-3808-4dbc-93fb-bb04598cf80f@107.172.235.75:40443?sni=speedtest.realityforus.com#ð HYSTERIA-UDP ðºð¸ US-107.172.235.75:40443%20t.me%2Frjsxrd
+hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@132.226.0.78:30075?insecure=1&sni=www.bing.com#ð HYSTERIA-UDP ð¯ðµ JP-132.226.0.78:30075%20t.me%2Frjsxrd
 hy2://de77d530-18f1-4a96-a87f-b21bc7c2142d@132.145.52.10:443?insecure=1&sni=www.microsoft.com#ð HYSTERIA-UDP ð¬ð§ GB-132.145.52.10:443%20t.me%2Frjsxrd
-hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@129.150.55.250:2052?insecure=1&sni=xjp3.mangshe.xyz#ð HYSTERIA-UDP ð¸ð¬ SG-129.150.55.250:2052%20t.me%2Frjsxrd
-hy2://vpnxw@217.196.106.70:33003?insecure=1&sni=www.speedtest.net&obfs=salamander&obfs-password=vpnxw#ð HYSTERIA-UDP ð¸ðª SE-217.196.106.70:33003%20t.me%2Frjsxrd
+hy2://7008iSe44g5ddtr4a5621r32o@[2a01:4f8:c012:1ec6::1]:443?insecure=1&obfs=salamander&obfs-password=i35Se47g78ar98o#ð HYSTERIA-UDP ð©ðª DE-[2a01:4f8:c012:1ec6::1]:443%20t.me%2Frjsxrd
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@141.147.188.151:2052?insecure=1&sni=dj2.mangshe.xyz#ð HYSTERIA-UDP ð¯ðµ JP-141.147.188.151:2052%20t.me%2Frjsxrd
 hy2://de77d530-18f1-4a96-a87f-b21bc7c2142d@62.210.71.30:443?insecure=1&sni=www.microsoft.com#ð HYSTERIA-UDP ð«ð· FR-62.210.71.30:443%20t.me%2Frjsxrd
 hy2://209b1a3c-c917-49fd-8ef8-4e8062c68422@154.40.33.104:20003?insecure=1&sni=hk1.pithecia.com#ð HYSTERIA-UDP ðºð¸ US-154.40.33.104:20003%20t.me%2Frjsxrd
+hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@129.150.55.250:2052?insecure=1&sni=xjp3.mangshe.xyz#ð HYSTERIA-UDP ð¸ð¬ SG-129.150.55.250:2052%20t.me%2Frjsxrd
+hy2://vpnxw@217.196.106.70:33003?insecure=1&sni=www.speedtest.net&obfs=salamander&obfs-password=vpnxw#ð HYSTERIA-UDP ð¸ðª SE-217.196.106.70:33003%20t.me%2Frjsxrd
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@129.150.43.11:44300?insecure=1&sni=sg-02.worldfirst.eu.org#ð HYSTERIA-UDP ð¸ð¬ SG-129.150.43.11:44300%20t.me%2Frjsxrd
 hy2://NTEzMzU5OjE2NDQwMTpjNWQ2MWEyODQ5NjNkZGVm%3DTG%20WangCai2@54.250.34.221:3074?insecure=1&sni=TG.%40WangCai2#ð HYSTERIA-UDP ð¯ðµ JP-54.250.34.221:3074%20t.me%2Frjsxrd
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@18.179.58.237:3074/?insecure=1&sni=TG.@WangCai2#ð°17@oneclickvpnkeys%20t.me%2Frjsxrd
 hy2://af7911e7-fb22-41b0-8006-a5f2be3495f1@139.185.58.190:2052?insecure=1&sni=ae.eyujichang.xyz#ð HYSTERIA-UDP ð¦ðª AE-139.185.58.190:2052%20t.me%2Frjsxrd
 hy2://8d320b07-26fc-4a58-9ef8-e443fbd1f056@144.21.59.53:2052?insecure=1&sni=ld1.mangshe.xyz#ð HYSTERIA-UDP ð¬ð§ GB-144.21.59.53:2052%20t.me%2Frjsxrd
 hy2://13f82e2d-d62b-4988-96c2-2dea912bcdaf@138.2.90.199:44300?insecure=1&sni=sg-02.worldfirst.eu.org#ð HYSTERIA-UDP ð¸ð¬ SG-138.2.90.199:44300%20t.me%2Frjsxrd
-hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG WangCai2@35.77.94.152:3074/?insecure=1&sni=TG.@WangCai2#â»ï¸8@oneclickvpnkeys%20t.me%2Frjsxrd
-hy2://03e4fe32@193.123.78.206:31452?insecure=1&sni=www.bing.com#ð HYSTERIA-UDP ð¦ðª AE-193.123.78.206:31452%20t.me%2Frjsxrd
-hy2://sTeki1$re5!8swohopro@hys9.freelines.net:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#â¡ï¸ @ConfigV2RayNG%20t.me%2Frjsxrd
-hy2://c04a0848-1cd5-4bdb-94f8-ed9798c3f3cc@132.226.0.78:30075?insecure=1&sni=www.bing.com#ð HYSTERIA-UDP ð¯ðµ JP-132.226.0.78:30075%20t.me%2Frjsxrd
 hy2://NDg1MzUzOjE0MzI4NzowYmQ3YzEyMjcyNDdjY2E1=TG WangCai2@54.249.79.143:3074/?insecure=1&sni=TG.@WangCai2#ð°10@oneclickvpnkeys%20t.me%2Frjsxrd
+hy2://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:34007?insecure=1&obfs=salamander&obfs-password=sYvzEVtAPdEQjW1zAouQGHJU4dfEB1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%B3%F0%9F%87%B1%20NL%2045.76.33.120%20%E2%97%88%20udp:34007%20%E2%97%88%20Choopa%20/%20Vultr%20Holdings%20%E2%97%88%20118c8%20t.me%2Frjsxrd
+hy2://03e4fe32@193.123.78.206:31452?insecure=1&sni=www.bing.com#ð HYSTERIA-UDP ð¦ðª AE-193.123.78.206:31452%20t.me%2Frjsxrd
+hy2://NDg1MzgyOjE0MjM4NDo5MmZkMmZmNzcxNDY0ZDU5=TG WangCai2@35.77.94.152:3074/?insecure=1&sni=TG.@WangCai2#â»ï¸8@oneclickvpnkeys%20t.me%2Frjsxrd
+hy2://sTeki1$re5!8swohopro@hys9.freelines.net:443/?insecure=1&sni=google.com&obfs=salamander&obfs-password=sTeki1$re5!8swohopro#â¡ï¸ @ConfigV2RayNG%20t.me%2Frjsxrd
 hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.121.211:30300/?insecure=1&sni=www.bing.com#✅@v2ray_configs_pools%20t.me%2Frjsxrd
 hy2://@JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000/?sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#✅@v2ray_configs_pools%20t.me%2Frjsxrd
 hy2://dongtaiwang.com@108.181.5.130:4710/?insecure=1&sni=apple.com#✅@v2ray_configs_pools%20t.me%2Frjsxrd
@@ -3404,11 +3402,11 @@ hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q@18.179.16.135:3074/?insecure=1&sni
 hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q@54.64.148.82:3074/?insecure=1&sni=TG.%40WangCai2#r♡ya%20t.me%2Frjsxrd
 hy2://MzM1NTQ1OjQyNzc0OmQ0NTlkYmFjOTk3NmZjM2Q@13.231.105.239:3074/?insecure=1&sni=TG.%40WangCai2#r♡ya%20t.me%2Frjsxrd
 hy2://6b389472-9094-4c8a-a780-3d371b2eade5@45.76.82.254:25444?obfs=salamander&obfs-password=3JuQOL32nT5rUt1nNxAX&insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
+hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@155.248.216.247:30300?insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
+hy2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3ACA%20t.me%2Frjsxrd
 hy2://dongtaiwang.com@195.154.33.70:4489?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Ivry-sur-Seine%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
 hy2://dongtaiwang.com@51.158.205.126:4489?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
 hy2://dongtaiwang.com@51.159.226.1:44464?insecure=1&sni=www.bing.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
-hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@155.248.216.247:30300?insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Toronto%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
-hy2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3ACA%20t.me%2Frjsxrd
 hy2://#⭐@mshojaei77%20t.me%2Frjsxrd
 hy2://----Join-Telegram:%40IP_CF----@79.137.206.126:8080?insecure=1&sni=bing.com&obfs=salamander&obfs-password=----Join-Telegram%3A%40IP_CF----#⭐@mshojaei77%20t.me%2Frjsxrd
 hy2://----Join-Telegram:%40IP_CF----@79.137.206.126:8080?obfs=salamander&obfs-password=----Join-Telegram%3A%40IP_CF----&insecure=1&sni=bing.com#⭐@mshojaei77%20t.me%2Frjsxrd
@@ -4080,57 +4078,6 @@ hy2://yVjFH7Vcwu@77.239.112.132:48149?obfs=salamander&obfs-password=v2raybluecry
 hy2://yVjFH7Vcwu@77.239.112.132:48149?obfs=salamander&obfs-password=v2raybluecrystal3&insecure=1#⭐@mshojaei77%20t.me%2Frjsxrd
 hy2://yVjFH7Vcwu@77.239.112.132:48149?obfs=salamander&obfs-password=v2raybluecrystal3&insecure=1#🔒%20t.me%2Frjsxrd
 hy2://c2cb5277-c6e6-41ef-be81-05e46ce5a438@cat.jouhatsu.sbs:8882?insecure=1#CloudSigmaSB hysteria2%20t.me%2Frjsxrd
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&amp;sni=bing.com#SG%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&amp;sni=bing.com#TW%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sni=de.eyucdn.xyz#DE%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&amp;sni=mg2.mangshe.xyz#美国2%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&amp;sni=xjp1.mangshe.xyz#新加坡1%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://V9TUQQMN40@23.27.240.33:23161/?insecure=1#♒91@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#♒97@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://f6e4b19a3110d19d@66.135.28.59:443?obfs=salamander&amp;obfs-password=8c3ce17b&amp;insecure=1&amp;sni=ELiV2RAY.eliv2.top#%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979/?insecure=1&amp;sni=www.bing.com#📟80@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102/?insecure=1#📟86@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@148.135.106.185:30102/?insecure=1#📟71@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@51.81.223.31:30102/?insecure=1#📟78@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@144.22.223.153:30102/?insecure=1#📟87@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&amp;sni=xjp1.mangshe.xyz#📟83@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@46.17.43.71:30102/?insecure=1&amp;sni=du.wish.ml#📟49@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056/?insecure=1&amp;sni=🔒#📟50@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000/?insecure=1&amp;sni=api.kermanshahi.org&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#📟26@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&amp;sni=api.kermanshahi.org&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#📟32@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&amp;sni=api.kermanshahi.org&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#📟36@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://Telegram-->@Ln2Ray@206.71.158.23:45000/?insecure=1&amp;sni=gavazn.55994421.xyz&amp;obfs=salamander&amp;obfs-password=Telegram-->@Ln2Ray#📟22@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325/#📟40@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&amp;sni=hl01.mistea.top#📟28@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000/?insecure=1&amp;sni=api.kermanshahi.org&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#📟19@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@de1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟5@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@92.5.59.208:30000/?insecure=1&amp;sni=bing.com#📟2@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sb1.oomz.ru:30000/?insecure=1&amp;sni=bing.com#📟10@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sni=de.eyucdn.xyz#📟1@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@74.48.56.139:30102/?insecure=1#🎡78@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@jp4.oomz.ru:30000/?insecure=1&amp;sni=bing.com#🎡74@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@51.81.223.22:30102/?insecure=1#🎡59@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://0e2c8be1-f36b-477c-b808-8e429fa6357b@112.120.131.125:543/?insecure=1&amp;sni=hktv03.outleft-hy.xyz&amp;obfs=salamander&amp;obfs-password=YjcwMDNiMDhhZWU1OTU4MA==#🎡64@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@154.16.183.55:30102/?insecure=1#🎡69@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@138.2.111.116:30000/?insecure=1&amp;sni=bing.com#🎡61@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@168.110.57.148:30000/?insecure=1&amp;sni=bing.com#🎡68@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&amp;sni=mg2.mangshe.xyz#🎡57@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&amp;sni=us11.588878.xyz&amp;obfs=salamander&amp;obfs-password=jjQQP9Av2l6BRdP5#🎡56@oneclickvpnkeys%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://eq64TMTbpcsf5LERJoKcMwwSHEzBEm@194.87.2.3:443/?insecure=1&amp;sni=google.com#Hysteria 🇷🇴 @v2meowcf%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://4vAy2oj2RhV6TlM8YUCCIWkj1KDfgH@146.19.100.138:443/?insecure=1&amp;sni=google.com#Hysteria 🇸🇬 @v2meowcf%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://QtgdPIrjSirZNtFJM01JQUPMvEVfih@178.236.237.84:443/?insecure=1&amp;sni=google.com#Hysteria 🇬🇧 @v2meowcf%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://WKAPupuylb1Z44WBOtEshyzqREh0bE@45.135.180.4:443/?insecure=1&amp;sni=google.com#Hysteria 🇳🇱 @v2meowcf%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://v2meowmeowmeow@103.68.108.25:443/?insecure=1&amp;sni=google.com#Hysteria 🇮🇳 @v2meowcf%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://wSu8KVl38ul4t9a2eA5foAVaS9MR5U@103.195.189.54:443?insecure=1&amp;sni=google.com#Hysteria 🇸🇬 @v2meowcf%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://public.vahshiestmeow3@104.168.128.173:443/?insecure=1&amp;sni=google.com#@V2meowcf Hysteria 🇺🇲%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&amp;sni=bing.com#⚡️ @vipv2rey(Hysteria1)%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU!&Brls!0exuP+!4so#⚡️ @vipv2rey(Hysteria2)%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=bd7f765e#⚡️ @vipv2rey(Hysteria)%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU!&Brls!0exuP+!4so#⚡️ @vipv2rey(Hysteria)%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&amp;sni=www.apple.com#%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?insecure=1&amp;sni=api.kermanshahi.org&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🚀93@%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 hy2://956f1c7e-1159-4797-8936-8aa94232d0c9@bgp.abyssvpn.com:31119/?insecure=1#⚜️Telegram: @IP_CF%20t.me%2Frjsxrd
 hy2://5339eeb6-b57e-4236-be2e-43deb3eccfdf@cmcc.abyssvpn.com:31116/?insecure=1#⚜️Telegram: @IP_CF%20t.me%2Frjsxrd
 hy2://5339eeb6-b57e-4236-be2e-43deb3eccfdf@cucc.abyssvpn.com:31129/?insecure=1#⚜️Telegram: @IP_CF%20t.me%2Frjsxrd
@@ -4148,10 +4095,10 @@ hy2://96cad374-7573-4463-8804-4665c2c3d932@aws-hkhk.aikunapp.com:5001/?insecure=
 hy2://sysadmin.sysadmin@170.205.54.5:443/?insecure=1#⚜️Telegram: @IP_CF%20t.me%2Frjsxrd
 hy2://0cf2ecce@46.17.45.133:64707?insecure=1&sni=www.bing.com#🇷🇺RU%20|%20hy2%20|%20@TUICity%20|%206%20t.me%2Frjsxrd
 hy2://dongtaiwang.com@108.181.22.155:27710?insecure=1&sni=www.bing.com#🇺🇸US%20|%20hy2%20|%20@TUICity%20|%207%20t.me%2Frjsxrd
-hy2://V9TUQQMN40@23.27.240.33:23161/?insecure=1#3593.%20CONFIG%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
-hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#3594.%20CONFIG%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#5069.%20CONFIG%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
-hy2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com#0003%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20TG%20%7C%20BL%20%7C%20Premium%20TG%3A%20%40kfwlrus%20t.me%2Frjsxrd
+hy2://V9TUQQMN40@23.27.240.33:23161/?insecure=1#4795.%20CONFIG%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+hy2://hrxvl5n08w@54.169.235.155:23943/?insecure=1#4796.%20CONFIG%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#6368.%20CONFIG%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+hy2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com#0003%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20TG%20%7C%20BL%20%7C%20Premium%20TG:%20@kfwlrus%20t.me%2Frjsxrd
 hy2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS%20%281%29%20t.me%2Frjsxrd
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36300/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%95%8A%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%40%20t.me%2Frjsxrd
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20t.me%2Frjsxrd
