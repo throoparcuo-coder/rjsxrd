@@ -1,9 +1,3 @@
-#profile-title: 19-19/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?security=none&type=ws&path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D&host=icy-wildflower-2590.lihuifeng595.workers.dev&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11586%20t.me%2Frjsxrd
 vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11689%20t.me%2Frjsxrd
 vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.13.229:2052?encryption=none&security=none&type=ws&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11717%20t.me%2Frjsxrd

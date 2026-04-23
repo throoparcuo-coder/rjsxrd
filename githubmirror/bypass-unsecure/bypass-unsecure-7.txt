@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-7/9 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://2b7f78aa-3eb9-4fba-9a90-d56682c5e17f@94.126.206.115:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=google.com&pbk=wwGR_yrkQmb5atW8fWWR376idUXqTD8CnHhoFPTb7yQ&sid=d10195d5995c1790#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2377%20t.me%2Frjsxrd
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?security=tls&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=%2Fazadnet-1ml.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#%F0%9F%87%A8%F0%9F%87%A6%20%5BVL%5D%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20%2316%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://0a7cfefe-fcba-4298-98a9-e200a4c55848@185.215.187.28.muslimtr.ru:443?type=grpc&security=tls&encryption=none&sni=185.215.187.28.vhub.pro&fp=chrome&serviceName=%2Fsequre%2Fgrpc%2F&packet_mode=gun&insecure=0#%F0%9F%87%AA%F0%9F%87%AA%20%5BVL%5D%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%234148%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd

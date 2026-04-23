@@ -1,9 +1,3 @@
-#profile-title: bypass-5/7 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://2b7f78aa-3eb9-4fba-9a90-d56682c5e17f@94.126.206.107:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=google.com&pbk=IY3FoZJxMLG_yyWJ7BkkL6cpfxypkx_XkogW0xbK-Es&sid=7ba6c86c7aa8684d#[727ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 vless://2b7f78aa-3eb9-4fba-9a90-d56682c5e17f@94.126.206.107:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=google.com&pbk=wwGR_yrkQmb5atW8fWWR376idUXqTD8CnHhoFPTb7yQ&sid=d10195d5995c1790#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA%20t.me%2Frjsxrd
 vless://2b7f78aa-3eb9-4fba-9a90-d56682c5e17f@94.126.206.115:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=google.com&pbk=cSNsBZfv7R_GS3wuMRceNeFwpylt7YSj3xatEAfQ3ls&sid=d3a66b47c4f0792a#[691ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
