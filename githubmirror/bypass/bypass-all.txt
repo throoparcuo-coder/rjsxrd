@@ -1,9 +1,3 @@
-#profile-title: bypass-all t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://b92c2159-5465-43ca-b999-5c203cd62d5d@5.188.115.43:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2378%20t.me%2Frjsxrd
 vless://9a7771e6-ac9a-4474-8a50-d5b685da8471@158.160.96.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2372%20t.me%2Frjsxrd
 vless://b92c2159-5465-43ca-b999-5c203cd62d5d@5.188.115.43:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2379%20t.me%2Frjsxrd

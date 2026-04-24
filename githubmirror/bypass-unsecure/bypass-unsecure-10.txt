@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-10/19 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=3-abf.pages.dev&fp=chrome&sni=3-abf.pages.dev&path=%2F&encryption=none#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd
 vless://93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea@45.144.51.205:59999?type=tcp&security=reality&sni=yastatic.net&fp=chrome&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&sid=9c77d4b3&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Польша%20%7C%20%F0%9F%8C%90%20%7C%20🔐%20|%20🥭🔥%20yastatic.net%20t.me%2Frjsxrd
 vless://dca6d2cd-068f-4320-960a-3ed99636300a@5.178.85.225:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=ObBnqYiOaiWqvELvFMZRiWrHYZ5wsyq0WWSwhBteYQw&sid=7a1197aa&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20t.me%2Frjsxrd

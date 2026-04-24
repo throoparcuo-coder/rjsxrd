@@ -1,9 +1,3 @@
-#profile-title: bypass-11/17 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://d608e843-a06d-4613-b73a-ee7bfc6cfa22@213.165.39.137:2083?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20LTE%20253%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel%20t.me%2Frjsxrd
 vless://93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea@212.34.145.156:59999?type=tcp&security=reality&sni=yastatic.net&fp=chrome&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&sid=6ba85179&flow=xtls-rprx-vision#854.%20VLESS%20%7C%20SNI%3A%20yastatic.net%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel%20t.me%2Frjsxrd
 vless://93c6d2ce-0a01-4ac9-a1df-0ad6f6d84dea@193.124.130.63:3478?encryption=none&flow=xtls-rprx-vision&security=reality&sni=payment-widget.plus.kinopoisk.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=6ba85179e30d4fc2&packetEncoding=xudp#847.%20VLESS%20%7C%20SNI%3A%20payment-widget.plus.kinopoisk.ru%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel%20t.me%2Frjsxrd

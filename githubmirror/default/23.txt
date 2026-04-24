@@ -1,9 +1,3 @@
-#profile-title: 23-23/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?sni=afrcloud1.mmv.kr#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%92%F0%9F%87%92-Unknown-120ms-Unknown%20t.me%2Frjsxrd
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWJANDUuNDAuMTU0LjE2OjQ0Mz9wbHVnaW49djJyYXktcGx1Z2luJTNCbW9kZSUzRHdlYnNvY2tldCUzQmhvc3QlM0R5bG5oaC51cy5jaSUzQnBhdGglM0QlMkYxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWIlMkYlM0ZlZCU1QyUzRDI1NjAlM0J0bHMlM0JtdXglM0Qw#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%92%F0%9F%87%92-Unknown-120ms-Unknown%20t.me%2Frjsxrd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BA%F0%9F%87%B8-LosAngeles-120ms-Psychz%20Networks%20t.me%2Frjsxrd

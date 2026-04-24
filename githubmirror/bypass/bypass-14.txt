@@ -1,9 +1,3 @@
-#profile-title: bypass-14/17 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://60a5115e-7aa7-4d96-9165-3b1fd72a7dbc@89.208.229.130:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Lvz96A7lYsJsbru6sZF-FQivrpqpG3fmVhIHQYJjM20&sid=f5ebbb093b&spx=%2F#TCP%2C%20Max%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
 vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.128:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#%F0%9F%87%B5%F0%9F%87%AD%20Philippines%20%E2%80%94%20%23401%20t.me%2Frjsxrd
 vless://da2ab05b-6b96-4d0c-96eb-7b320b343fc0@zdas.zeabur.app:443?type=ws&security=tls&sni=&host=zdas.zeabur.app&path=%2F#%E7%BE%8E%E5%9B%BD_0424101039%20t.me%2Frjsxrd

@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-7/19 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://1f2c75e4-bfaa-48fc-8b2d-c3ce6f549a7d@82.202.143.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru-streaming.barryvpn.com&pbk=u1QltI2SnUX48F-cqulaVojcSLadC9I1Vt8gOqnFTB4&sid=0123456789abcdef#%21 23 %7C REALITY %7C SNI%3A ru-streaming.barryvpn.com %7C IN%3A RU OUT%3A FI %7C RATING%3A 8%2F10%20t.me%2Frjsxrd
 vless://97413854-e51c-439e-bb33-2e8dc524066b@158.160.105.148:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%21 17 %7C REALITY %7C SNI%3A id.x5.ru %7C IN%3A RU OUT%3A RU %7C RATING%3A 8%2F10%20t.me%2Frjsxrd
 vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.74:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-de-2.firstvideocdn.ru#19 %7C TLS %7C SNI%3A cluster-de-2.firstvideocdn.ru %7C IN%3A RU OUT%3A DE %7C RATING%3A 8%2F10%20t.me%2Frjsxrd

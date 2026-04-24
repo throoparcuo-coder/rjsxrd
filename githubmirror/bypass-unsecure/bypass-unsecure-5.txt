@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-5/19 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Россия | White List | Fast | EaveVPN | #0364%20t.me%2Frjsxrd
 vless://75807638-6f19-07d0-ae08-38492ee85c88@80.249.131.172:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-russia-1.firstvideocdn.ru#🇷🇺 Россия | White List | Fast | EaveVPN | #0359%20t.me%2Frjsxrd
 vless://9a4a07fe-646c-4a22-9023-b07185e4f298@109.120.191.115:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK%20t.me%2Frjsxrd
