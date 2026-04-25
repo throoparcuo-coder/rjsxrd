@@ -1,9 +1,3 @@
-#profile-title: bypass-3/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://402e0ea6-635c-4352-905f-e184486c0289@95.163.183.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=beeline.ru&pbk=Oc4VtwpdXGT4jlQZVEEgTTjeBx97uJ0sON2ek629plE&sid=d928&spx=%252F#TCP%2C%20%D0%91%D0%B8%D0%BB%D0%B0%D0%B9%D0%BD%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
 vless://f993de15-4cc2-49bb-b64b-2d248687b819@5.188.224.137:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=ir.ozone.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#🇷🇺 Россия | White List | Fast | EaveVPN | #0093%20t.me%2Frjsxrd
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@95.163.208.58:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=fbv5wVdKhLJFpmUQy2Q0ZnKHaQrFIxwkQGQTnMRaFh8&sid=a1#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-20003%20t.me%2Frjsxrd

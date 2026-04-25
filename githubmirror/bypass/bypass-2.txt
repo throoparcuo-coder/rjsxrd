@@ -1,9 +1,3 @@
-#profile-title: bypass-2/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://4d79ed84-f798-413d-9c6c-81b2c8d5355b@84.201.131.36:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23301%20t.me%2Frjsxrd
 vless://0f5bc121-48bd-489b-b622-3c010c40748c@51.250.110.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23515%20t.me%2Frjsxrd
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@vw.xbs54as9c6.ru:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fbv5wVdKhLJFpmUQy2Q0ZnKHaQrFIxwkQGQTnMRaFh8&sid=a1&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%D0%95%D0%9B%D0%AB%D0%A5%20%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%9E%D0%92%20%7C%20RU%20t.me%2Frjsxrd
