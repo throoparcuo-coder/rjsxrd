@@ -1,9 +1,3 @@
-#profile-title: 23-23/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:803#⚡ b2n.ir/v2ray-configs | 87%20t.me%2Frjsxrd
 ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5980#⚡ b2n.ir/v2ray-configs | 326%20t.me%2Frjsxrd
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&sni=gstatic.com&type=ws&path=/&Host=gstatic.com#⚡ b2n.ir/v2ray-configs | 357%20t.me%2Frjsxrd

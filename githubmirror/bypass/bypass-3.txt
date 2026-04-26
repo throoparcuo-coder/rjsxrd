@@ -1,9 +1,3 @@
-#profile-title: bypass-3/12 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 vless://4ccff2bb-b761-40f0-95ec-a58b38862dab@158.160.12.31:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=9V6nLW41-TzWLHj4NGN-MW-71IA-41W0VgUMOgihwTo#[439ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 vless://09a429d9-6ffa-43f3-8b3a-c634dbdda94d@193.233.103.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=V6m8_CGU_f4Ym9yFxreUjm6rUBzvE4eNg_GHKWp0MG4&sid=e178a9d7bb36a98e#[502ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
