@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-3/17 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://41e72698-f09a-4617-8f1b-33359c2473cc@185.107.74.163:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#[412ms Швеция SE 🇸🇪 @vlesstrojan]%20t.me%2Frjsxrd
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@158.160.101.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20802706%20t.me%2Frjsxrd
 vless://52a4263d-2ad0-452d-a669-c2d2776f4c34@5.188.224.65:2083?type=grpc&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=ir.ozone.ru&mode=gun&serviceName=UpdateService#🏳️ UNKNOWN VLESS 1024%20t.me%2Frjsxrd

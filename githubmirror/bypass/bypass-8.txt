@@ -1,9 +1,3 @@
-#profile-title: bypass-8/22 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e68aab34-64bb-4052-a1a0-5e26b04f68c1@5.188.224.65:2083?type=grpc&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=ir.ozone.ru&serviceName=UpdateService#🇷🇺 RU VLESS 1872%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.191.253:8880?host=joss.jak.biz.id&https://t.me/WangCai2=&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&type=ws#🇨🇦 Канада | Black List | Fast | EaveVPN | #0314%20t.me%2Frjsxrd
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@84.201.131.34:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20399173%20t.me%2Frjsxrd

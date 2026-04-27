@@ -1,8 +1,2 @@
-#profile-title: all-5/5 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://9e1afeda-73dd-4c5a-87ea-d897d7553aa1@rumob2.trustnet.sbs:443?security=reality&encryption=none&pbk=8TaWKAKzO0dbyY31iJrna_nLJae9BEG_KgROL0BGmmg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=dc4aa6635008a9ae#%F0%9F%8C%8D+%D0%95%D0%B2%D1%80%D0%BE+IP4+LTE+%2311%20t.me%2Frjsxrd
 vless://321c91b8-0395-4dd5-a7d5-9df5adc5c32b@84.201.129.151:443?security=reality&encryption=none&pbk=F8velYFetdr3DueRXR-1c24nj8CBlKGLR1CmgsTGPWA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eda.x5.ru&sid=2232bb69535c6a14#%F0%9F%87%AC%F0%9F%87%AA+%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F+LTE+%235%20t.me%2Frjsxrd

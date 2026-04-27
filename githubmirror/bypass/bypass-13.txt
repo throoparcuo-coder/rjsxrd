@@ -1,9 +1,3 @@
-#profile-title: bypass-13/22 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e68aab34-64bb-4052-a1a0-5e26b04f68c1@5.188.224.135:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=ir.ozone.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#[337ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.241.169:8443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=sun6-21.userapi.com&serviceName=grpc#1090 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://36d85d65-1b57-4cba-a2a6-f61131b08593@176.98.186.50:443?host=srv2.towersflowerss.com&path=/&type=tcp#🇵🇱 Польша | Black List | Fast | EaveVPN | #0074%20t.me%2Frjsxrd

@@ -1,9 +1,3 @@
-#profile-title: bypass-18/22 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://9d9de5ad-4ce8-4d1e-870d-59fb859f5fa4@161.104.105.157:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn1.ozone.ru&pbk=wi3hRlGNIWwcyKxyQmItdaa9jXvYWb8uQFvbsSZZtA4&fp=random&bx=%2F&sid=fbbffd72f5121b83#%F0%9F%87%A9%F0%9F%87%AA%20%5BVL%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%235011%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://4ccff2bb-b761-40f0-95ec-a58b38862dab@158.160.12.31:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=9V6nLW41-TzWLHj4NGN-MW-71IA-41W0VgUMOgihwTo#🇵🇱 Poland — #🇵🇱 Poland | H2nexus LTD 111%20t.me%2Frjsxrd
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&security=reality&encryption=none&fp=chrome&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&sid=9a694cfa8ebd15&sni=www.m.vk.ru&spx=%2525252F#TCP%2C%20VK%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
