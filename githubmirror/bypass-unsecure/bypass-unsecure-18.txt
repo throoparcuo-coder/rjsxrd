@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-18/27 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://41e72698-f09a-4617-8f1b-33359c2473cc@185.100.157.60:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#1336 | 🇸🇪 Sweden | 🏳️ SNI-MAX | VLESS | 📺 YT | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://400097aa-b508-4e4c-9b6d-4f91924ec919@130.49.189.40:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%E7%BE%8E%E5%9B%BD_042719302%20t.me%2Frjsxrd
 vless://5167daba-4640-4a60-8adb-bdfeb8c1ae55@62.192.174.198:25262?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fb-cdn.premier.one&fp=chrome&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sid=a79ee9d365da7d81&spx=%2525252525252FYJMg9uhEvOJhCxp&type=tcp&headerType=none#TCP%2C%20Premier%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd

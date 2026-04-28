@@ -1,9 +1,3 @@
-#profile-title: bypass-8/28 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://45bbf56b-2d92-4618-a14d-66bef7287c4d@154.37.216.151:45482#%E9%A6%99%E6%B8%AF_042810198%20t.me%2Frjsxrd
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@158.160.101.240:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=smartcaptcha.yandexcloud.net#82.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20smartcaptcha.yandexcloud.net%20%7C%20CIDR%3A%20Yandex%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://92b220d8-88fa-40f2-9c8f-9e54c8166f9f@109.69.218.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=lerua.xyz&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%E2%80%94%20%23184%20t.me%2Frjsxrd

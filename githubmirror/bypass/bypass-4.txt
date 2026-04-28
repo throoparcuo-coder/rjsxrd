@@ -1,9 +1,3 @@
-#profile-title: bypass-4/28 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e679aa5e-fde0-4e9f-ad46-63725e1c47f3@new-de.vcfco.ir:7500?security=reality&encryption=none&pbk=8a3blVdAACDlvRA5zrdNxHLZ9boU5QkwGMkf0WwyZVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn77.com&sid=77a3a1c829040294#Шкатулка запретов — 🇮🇷IR%20t.me%2Frjsxrd
 vless://530eaa91-28a0-46ae-bc63-57384362ba6b@46.149.78.27:17113?type=tcp&security=reality&sni=vk.ru&fp=chrome&pbk=516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg&sid=fe013b8818613e#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 46.149.78.27%20t.me%2Frjsxrd
 vless://2420af47-2316-482e-bb0f-b164df4b2334@158.160.102.236:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sso.passport.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#🇨🇦 Канада | White List | Fast | EaveVPN | #0098%20t.me%2Frjsxrd

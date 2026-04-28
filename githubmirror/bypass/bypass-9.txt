@@ -1,9 +1,3 @@
-#profile-title: bypass-9/28 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.253.153:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇵🇱 Poland | OC NETWORKS LIMITED 52%20t.me%2Frjsxrd
 vless://b2433762-ba4f-4f50-b963-32cbc430ca36@5.188.224.135:2083?type=grpc&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=ir.ozone.ru&serviceName=UpdateService#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 vless://7d3e6808-d105-4ee4-b904-1f6ed8417f4d@ru.safepass.click:443?security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c&type=xhttp&mode=auto&extra=%257B%2520%2520%2522noGRPCHeader%2522%2520%3A%2520false%2C%2520%2520%2522scMaxConcurrentPosts%2522%2520%3A%2520100%2C%2520%2520%2522scMaxEachPostBytes%2522%2520%3A%25201000000%2C%2520%2520%2522scMinPostsIntervalMs%2522%2520%3A%252030%2C%2520%2520%2522xPaddingBytes%2522%2520%3A%2520%2522100-1000%2522%257D&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20t.me%2Frjsxrd

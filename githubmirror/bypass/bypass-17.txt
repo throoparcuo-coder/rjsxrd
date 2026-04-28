@@ -1,9 +1,3 @@
-#profile-title: bypass-17/28 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@filegrid.cc:443?type=grpc&security=tls&encryption=none&sni=filegrid.cc&alpn=h2&serviceName=grpc-tunnel#🇨🇦 Канада | White List | Fast | EaveVPN | #0693%20t.me%2Frjsxrd
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.229.209:993?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&sni=yandex.ru#%21 43 %7C REALITY %7C SNI%3A yandex.ru %7C IN%3A RU OUT%3A FI %7C RATING%3A 6%2F10%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://f6b71e78-e065-4cf8-9fbb-b9e25ff67eff@5.188.224.137:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=ir.ozone.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#[417ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd

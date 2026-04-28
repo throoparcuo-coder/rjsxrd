@@ -1,9 +1,3 @@
-#profile-title: bypass-23/28 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://8822e9a7-9b61-4b5e-9efd-a483c7322b00@158.160.51.188:6445?type=grpc&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=qq&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&sid=bad5722c72a0&serviceName=grpc&packet_mode=gun#232.%20%F0%9F%87%B5%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20ads.x5.ru%20%7C%20CIDR%3A%20Yandex%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
 vless://4fc32ded-ef1f-4e30-ac2e-24da6e5f141b@212.34.145.199:23916?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vt-1.ozone.ru&fp=chrome&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sid=2ee3a5b4ed37e2&spx=%25252525252525252525252FJnvhSPZRldOyNEd&type=tcp&headerType=none#934.%20VLESS%20%7C%20SNI%3A%20vt-1.ozone.ru%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel%20t.me%2Frjsxrd
 vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@185.112.59.40:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23610%20t.me%2Frjsxrd

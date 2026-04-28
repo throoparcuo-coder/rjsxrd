@@ -1,9 +1,3 @@
-#profile-title: bypass-24/28 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://1511896a-9ca2-4a74-b256-5b2cde0c44f0@51.250.83.22:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=m.vk.com&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20513529%20t.me%2Frjsxrd
 vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@omg.herumhas.shop:5443?security=reality&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20%5BVL%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%233248%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.143.70:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=grpc-tunnel&fp=chrome&sni=api2.dropmefile.net#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23781%20t.me%2Frjsxrd

@@ -1,9 +1,3 @@
-#profile-title: bypass-19/28 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://530eaa91-28a0-46ae-bc63-57384362ba6b@46.149.78.27:17113?encryption=none&security=reality&sni=vk.ru&fp=chrome&pbk=516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg&sid=fe013b8818613e&spx=%25252525252525252525252F&type=tcp&headerType=none#TCP%2C%20VK%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.140.166:993?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&sni=max.ru#71 %7C REALITY %7C SNI%3A max.ru %7C IN%3A RU OUT%3A PL %7C RATING%3A 5%2F10%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@84.201.132.110:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20317474%20t.me%2Frjsxrd

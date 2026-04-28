@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-8/27 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@84.201.159.228:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#🇵🇱 Poland | MEVSPACE sp. z o.o. 165%20t.me%2Frjsxrd
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@217.16.19.13:993?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&sni=yandex.ru#2089 | 🇷🇺 Russia | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://499bc7cb-b522-433e-b883-697565c0d45b@109.69.218.167:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894&sni=lerua.xyz#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5B%2ACIDR%5D%20t.me%2Frjsxrd

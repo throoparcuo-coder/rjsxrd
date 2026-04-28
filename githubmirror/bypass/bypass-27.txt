@@ -1,9 +1,3 @@
-#profile-title: bypass-27/28 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://530eaa91-28a0-46ae-bc63-57384362ba6b@46.149.78.27:17113?encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg&sid=fe013b8818613e&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20741145%20t.me%2Frjsxrd
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@158.160.114.71:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20726711%20t.me%2Frjsxrd
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@158.160.101.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🇵🇱 Poland | MEVSPACE sp. z o.o. 111%20t.me%2Frjsxrd

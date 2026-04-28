@@ -1,9 +1,3 @@
-#profile-title: bypass-2/28 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://74d3057f-5d2b-4d21-8819-3b387d47c0a4@5.188.224.166:2083?type=grpc&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=ir.ozone.ru&serviceName=UpdateService#🇷🇺 RU VLESS 4560%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F#0514%20%7C%20%F0%9F%87%B2%F0%9F%87%AA%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%20%7C%20WL%20%7C%20TGK%3A%20%40kfwlrus%20t.me%2Frjsxrd
 vless://adf94503-a1e2-4c6f-8f67-f2456420b9f4@157.22.196.252:2083?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🏳️ UNKNOWN VLESS 2575%20t.me%2Frjsxrd

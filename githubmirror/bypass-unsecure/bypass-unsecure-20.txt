@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-20/27 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://b3ef1c2b-7399-4f8d-86c3-639c412e039b@84.201.174.10:51190?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61&sni=max.ru#🇪🇪 Эстония | White List | Fast | EaveVPN | #0011%20t.me%2Frjsxrd
 vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.253.101:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇵🇱 Poland | OC NETWORKS LIMITED 129%20t.me%2Frjsxrd
 vless://530eaa91-28a0-46ae-bc63-57384362ba6b@46.149.78.27:17113?encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg&sid=fe013b8818613e&spx=%252525252525252525252525252525252525252F#TCP%2C%20VK%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
