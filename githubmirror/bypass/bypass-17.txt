@@ -1,9 +1,3 @@
-#profile-title: bypass-17/20 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://26524cce-d514-4014-a426-365fb266a14d@43.213.148.173:443?allowInsecure=0&sni=snippet.gfw.qzz.io&alpn=http/1.1&type=ws&host=snippet.gfw.qzz.io&path=/danfengfp=chrome&security=tls#%F0%9F%87%B2%F0%9F%87%AA%20%5B%D0%91%D0%A1-VL%5D%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%20%2314779%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://c22fbdee-854b-4ac6-a185-6d07bf017a07@150.241.92.189:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=steel.tokervpn.ru&pbk=AFejAxl-6RGMmxYedpX2nwABAAEB5IpsecwB6xp8RhI&sid=6ba85179e30d4fc2&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%5BVL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%232813%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://06ef4f00-1baf-4259-a622-f40dbf96155f@node-turk1.rmp-inc.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=19Z9Syrik36ltvmS01HL2hsxcPCjlEF16wXWOozJHTU&sid=&packetEncoding=xudp#3008.%20VLESS%20%7C%20SNI%3A%20eh.vk.com%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel%20t.me%2Frjsxrd

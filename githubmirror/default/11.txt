@@ -1,9 +1,3 @@
-#profile-title: 11-11/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.206.71.253:8880?path=%2FFree-VPN-CF-Geo-Project%2FHK&security=none&encryption=none&host=joss.jak.biz.id&type=ws#Psiphon--%40V2rayAlpha--2%20t.me%2Frjsxrd
 vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?path=%2Fpreply&security=none&encryption=none&host=app.gplance.com&type=ws#Psiphon--%40V2ray_Raha--13%20t.me%2Frjsxrd
 vless://26524cce-d514-4014-a426-365fb266a14d@43.167.157.65:12345?host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=snippet.fgfw.loc.cc&type=ws#🇺🇸%20t.me%2Frjsxrd

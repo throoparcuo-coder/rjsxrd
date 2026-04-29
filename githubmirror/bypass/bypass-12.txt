@@ -1,9 +1,3 @@
-#profile-title: bypass-12/20 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://84a02b5e-3e1a-448b-98db-e937d8287cdd@37.49.225.246:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=hello.opengate.tech&pbk=rV_kmYWTBJPPMTS2Fo7garwmvLkyjwVP_4_gbx6nLh8&sid=3f9f20cdf5d2fa5e#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23411%20t.me%2Frjsxrd
 vless://301d1286-ab5a-44b7-a572-3d55b209c7b6@n1.sportshop11.ru:8443?type=tcp&encryption=none&security=reality&pbk=qQ4l40OckukEo2OoCTIpLrxBHKRa277XXhUAf3SYEhM&fp=chrome&sni=login.vk.com&sid=abd0f00f85f814a0&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20Эстония%20|%20🥭🔥%20login.vk.com%20t.me%2Frjsxrd
 vless://0bf0ab36-63a2-4d63-84b7-68c8cb595e34@103.111.114.86:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=goya.rutube.ru&fp=chrome&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&packetEncoding=xudp#SNI%3A%20goya.rutube.ru%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd

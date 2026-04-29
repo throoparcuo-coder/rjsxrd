@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-3/12 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://f993de15-4cc2-49bb-b64b-2d248687b819@5.188.224.135:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=ir.ozone.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#%F0%9F%87%B7%F0%9F%87%BA%20EdgeCenter%20%E2%80%94%20%2340%20t.me%2Frjsxrd
 vless://8822e9a7-9b61-4b5e-9efd-a483c7322b00@158.160.51.188:6444?type=xhttp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=qq&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&sid=bad5722c72a038&spx=%2525252F&path=/&packet_mode=auto#XHTTP%2C%20%D0%9F%D1%8F%D1%82%D1%91%D1%80%D0%BE%D1%87%D0%BA%D0%B0%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23786%20t.me%2Frjsxrd%20t.me%2Frjsxrd

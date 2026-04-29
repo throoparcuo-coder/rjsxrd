@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-7/12 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://26524cce-d514-4014-a426-365fb266a14d@113.192.61.199:2053?sni=mug.support.gfw.hidns.co&type=ws&host=mug.support.gfw.hidns.co&path=/danfeng?ed=2560fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD_042900591%20t.me%2Frjsxrd
 vless://297a4ec6-cb11-4d82-aa98-9703b85a3db2@45.84.1.123:443?type=tcp&encryption=none&security=reality&pbk=YFfz76RnULla7CbfuMpkCmaUF3RVhu5JRYb6HAR95Ak&fp=firefox&sni=api-maps.yandex.ru&sid=4b&spx=%2525252525252F&flow=xtls-rprx-vision#1241.%20VLESS%20%7C%20SNI%3A%20api-maps.yandex.ru%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel%20t.me%2Frjsxrd
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.188.50:993?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23821%20t.me%2Frjsxrd
