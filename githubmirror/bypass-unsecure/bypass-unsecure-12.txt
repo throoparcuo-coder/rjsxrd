@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-12/22 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@158.160.114.71:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%2385%20t.me%2Frjsxrd
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@158.160.101.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23305%20t.me%2Frjsxrd
 vless://409bdb0f-5aae-4e93-a8dd-60adc47d5fd3@84.201.132.110:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🇵🇱 Poland | MEVSPACE sp. z o.o. 63%20t.me%2Frjsxrd

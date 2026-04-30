@@ -1,9 +1,3 @@
-#profile-title: ssr.txt t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ssr://c2ctYW0zLmVxc3Vuc2hpbmUuY29tOjMyMDAxOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TTJjd1pFaHNTMDFGLz9yZW1hcmtzPTVMdWo1NUNHNTV1MDZMLWU3N3lhUUdFd01EVTFPRGcmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ#%20t.me%2Frjsxrd
 ssr://NDIuMTU3LjE5NS4yMjk6MTIxMjc6YXV0aF9hZXMxMjhfc2hhMTphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpOamg0WkdkMU9XVjVhV1kvP3JlbWFya3M9NWE2YTVZaTI1TGlUNTdxXzc3eWFRRkZUTURBd01EZyZwcm90b3BhcmFtPU5qQXdOemMzT2pFMU5GUTRZZyZvYmZzcGFyYW09TUdZd09UazJNREEzTnpjdWRqSXpaamR1VFRB#%20t.me%2Frjsxrd
 ssr://的格式#%20t.me%2Frjsxrd

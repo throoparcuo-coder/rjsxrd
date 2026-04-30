@@ -1,9 +1,3 @@
-#profile-title: 1-1/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@193.108.112.212:443?sni=1-aym.pages.dev&type=ws&host=1-aym.pages.dev&path=/proxyip=ProxyIP.DE.owg.dpdns.orgfp=chrome&security=tls#🇦🇱[openproxylist.com] vless-AL%20t.me%2Frjsxrd
 vless://b24484be-a335-472c-8dff-060ccd2b8f3b@104.20.6.134:2083?&security=tls&fp=firefox&alpn=h3&sni=xn-de.shakhle.ir.&type=ws&headerType=none&host=xn-de.shakhle.ir.&path=%2F#🇩🇪[openproxylist.com] vless-DE%20t.me%2Frjsxrd
 ss://YWVzLTEyOC1nY206MGZhZTBjZWItNGI2ZC00YmFiLTlkM2MtNjEyYzc3YWU5YjJm@vip-pro6669cheap.fq-number-001.co:37769#🇭🇰[openproxylist.com] ss-HK%20t.me%2Frjsxrd

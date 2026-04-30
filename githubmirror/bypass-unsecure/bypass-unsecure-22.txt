@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-22/22 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.96.3:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20574561%20t.me%2Frjsxrd
 vless://0a5ab719-2407-4398-b507-8437ef365023@104.21.31.4:8880?encryption=none&host=underthegun.cfd.&path=/FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20%5BVL%5D%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20%23224%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.108.20.183:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=1&allowInsecure=1&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E5%BE%B7%E5%9B%BD_043010377%20t.me%2Frjsxrd
