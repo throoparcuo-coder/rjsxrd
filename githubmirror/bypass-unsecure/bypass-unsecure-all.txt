@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-all t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e68aab34-64bb-4052-a1a0-5e26b04f68c1@5.188.224.73:2083?encryption=none&type=tcp&security=reality&fp=chrome&sni=ir.ozone.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#774.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20ir.ozone.ru%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
 vless://74d3057f-5d2b-4d21-8819-3b387d47c0a4@5.188.224.73:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=ir.ozone.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#755.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20ir.ozone.ru%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
 vless://e68aab34-64bb-4052-a1a0-5e26b04f68c1@5.188.224.73:2083?encryption=none&type=grpc&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=ir.ozone.ru&fp=chrome&serviceName=UpdateService&alpn=http%2F1.1&headerType=none#773.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20ir.ozone.ru%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd

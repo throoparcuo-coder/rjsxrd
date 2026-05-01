@@ -1,9 +1,3 @@
-#profile-title: bypass-2/23 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.164.11.48:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🏳️ UNKNOWN VLESS 663%20t.me%2Frjsxrd
 vless://5074df4a-1b57-4417-9f9c-d055b420a6f3@84.201.158.227:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20124292%20t.me%2Frjsxrd
 vless://291364ee-d321-473f-9e14-7581bb7ffee4@77.232.136.114:4443?type=&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=&sni=www.avito.ru#[360ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
