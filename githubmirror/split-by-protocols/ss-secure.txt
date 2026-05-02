@@ -1,9 +1,3 @@
-#profile-title: ss-secure.txt t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇳🇱[openproxylist.com] ss-NL%20t.me%2Frjsxrd
 ss://YWVzLTI1Ni1nY206NjNkN2MxNzUwNmQxZjQ4Yg@203.32.26.24:40120#🇰🇷[openproxylist.com] ss-KR%20t.me%2Frjsxrd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#🇬🇧[openproxylist.com] ss-GB%20t.me%2Frjsxrd
