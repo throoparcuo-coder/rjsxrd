@@ -4,18 +4,19 @@
 #announce: t.me/rjsxrd
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-hy2://5046SHWqk6@91.132.51.160:844/#%F0%9F%87%A6%F0%9F%87%AAAE%28AzadNet.t.me%29%20t.me%2Frjsxrd
-hy2://zhangyang@130.61.50.75:6443/#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29%20t.me%2Frjsxrd
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20t.me%2Frjsxrd
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20t.me%2Frjsxrd
 hy2://5046SHWqk6@91.132.51.160:844/#%20t.me%2Frjsxrd
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=#%20t.me%2Frjsxrd
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=#%20t.me%2Frjsxrd
 hy2://zhangyang@130.61.50.75:6443/#%20t.me%2Frjsxrd
+hy2://5046SHWqk6@91.132.51.160:844/#%F0%9F%87%A6%F0%9F%87%AAAE%28AzadNet.t.me%29%20t.me%2Frjsxrd
+hy2://zhangyang@130.61.50.75:6443/#%F0%9F%87%A9%F0%9F%87%AADE%28AzadNet.t.me%29%20t.me%2Frjsxrd
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20t.me%2Frjsxrd
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20t.me%2Frjsxrd
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=🔒#%20t.me%2Frjsxrd
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=🔒#%20t.me%2Frjsxrd
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK%20t.me%2Frjsxrd
 hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325/#📟40@oneclickvpnkeys%20t.me%2Frjsxrd
+hy2://8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a@172.245.11.73:443?sni=s246.ccgfw.top&alpn=h3#US%20HY2-150%20%7C%20free-nodes%20t.me%2Frjsxrd
 hy2://85509d13-a5ea-460f-ae9d-12a58fc3aa9f@130.61.244.114:443?sni=1.nodes.yljc.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
 hy2://8c4bd1ec-377e-4914-87a3-0e2c6b618bc2@185.225.201.228:18488?obfs=salamander&obfs-password=S0lPELawhd&sni=direct-nl.snowguard-cloud-vpn-01.link#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
 hy2://8c80cb0d-5ec1-48b5-bd6a-7bdc4d2e1d0a@172.207.208.4:30002?sni=hy2jp01.xqc.best#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
@@ -140,7 +141,6 @@ hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@sg.zhenshihui.one:48489/#%40V2rayMine
 hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@sg2.zhenshihui.one:48489/#%40V2rayMiner%20t.me%2Frjsxrd
 hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@kr.zhenshihui.one:48489/#%40V2rayMiner%20t.me%2Frjsxrd
 hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@us.zhenshihui.one:48489/#%40V2rayMiner%20t.me%2Frjsxrd
-hy2://#رایگان | HY2 | @TUICity | US🇺🇸 | 0️⃣2️⃣%20t.me%2Frjsxrd
 hy2://#%20t.me%2Frjsxrd
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%201%20t.me%2Frjsxrd
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%202%20t.me%2Frjsxrd
@@ -151,6 +151,7 @@ hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#github.com/Ruk1ng001_3232313539623666%20t.me%2Frjsxrd
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#github.com/Ruk1ng001_6438373236663130%20t.me%2Frjsxrd
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#github.com/Ruk1ng001_3134323237626462%20t.me%2Frjsxrd
+hy2://#رایگان | HY2 | @TUICity | US🇺🇸 | 0️⃣2️⃣%20t.me%2Frjsxrd
 hy2://148097c2-cd69-4015-992f-5939c08b9ab8@112.120.54.171:443?mport=22000-22999#🔒 HYSTERIA-UDP 🇭🇰 HK-112.120.54.171:443%20t.me%2Frjsxrd
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@157.245.198.38:10001?sni=AU.1010520.shop#🔒 HYSTERIA-UDP 🇸🇬 SG-157.245.198.38:10001%20t.me%2Frjsxrd
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@144.202.119.175:8080?sni=jp2.trojanws.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-144.202.119.175:8080%20t.me%2Frjsxrd
