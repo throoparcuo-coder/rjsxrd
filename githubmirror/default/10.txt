@@ -1,9 +1,3 @@
-#profile-title: 10-10/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://1f145f18-d730-6a98-9679-ad24f6fc0838@snapp.ir:2052?path=%2F%3Fed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#@MugshotMusic%20t.me%2Frjsxrd
 vless://5904f7df-4d1b-4e4f-a51e-b4925245288b@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cdn.softnetconnect.ir#%F0%9F%98%8E%20%DA%AF%D8%B1%D9%88%D9%87%D9%87%20%D9%85%D8%B1%D8%A7%D9%85%20%D9%88%20%D9%85%D8%B9%D8%B1%D9%81%D8%AA%20%D9%BE%D9%84%D8%A7%D8%B3@maramvpn1%20t.me%2Frjsxrd
 vless://b2b083fa-b10a-4fd3-9d4b-a3913a55a1f9@snapp.ir:80?path=%2F%3Fed&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%40V2rayNG_Cafe%20t.me%2Frjsxrd

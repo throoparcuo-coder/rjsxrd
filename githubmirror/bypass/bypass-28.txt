@@ -1,9 +1,3 @@
-#profile-title: bypass-28/28 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://d966de9b-5b4a-4710-9392-d0bea0da3abb@45.66.163.146:5443?encryption=none&type=tcp&security=reality&fp=qq&sni=google.com&pbk=mqoyXhM1BWhgzLyOilSaC4BtplOHI8QvMYGTT7FaZDE&sid=714a7c71a19006#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23789%20t.me%2Frjsxrd
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.230.199:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&security=reality&sid=ad7dab462a323acb&sni=api-maps.yandex.ru&type=#SNI%3A%20api-maps.yandex.ru%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.188.50:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&type=tcp&headerType=none#🇵🇱 Poland | H2nexus LTD 667%20t.me%2Frjsxrd%20t.me%2Frjsxrd

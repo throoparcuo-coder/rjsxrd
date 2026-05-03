@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-3/29 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e7d88c6a-c253-4d16-b0cb-e293b2856c6e@195.209.212.66:53443?fm=null&fp=chrome&pbk=zActfG7j1iIjclCzN1Eid1jR85-_U9-ZR2nedr142Hk&security=reality&sid=255f084ed8658410&sni=sso.passport.yandex.ru&type=tcp#2196.%20VLESS%20%7C%20SNI%3A%20sso.passport.yandex.ru%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel%20t.me%2Frjsxrd
 vless://3b95fcac-599b-4c55-bc26-89e63f9a1bd6@ktzy4.vpnul.codes:443?security=reality&encryption=none&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2da46294d6a521B2#SNI%3A%20ads.x5.ru%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://b561f8fb-e447-4e1a-be9b-777c4d032305@77.110.122.251:40443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=google.com&pbk=58BvODsw5jUJfDtZAUbO-DyLaqvtqieCwwbgfvjkOgY&sid=d394469d9ca7432d&spx=%2F#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%231163%20t.me%2Frjsxrd
