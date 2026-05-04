@@ -1,9 +1,3 @@
-#profile-title: bypass-5/11 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.217:443?encryption=none&type=ws&security=tls&host=sni.111000.v6.rocks&sni=sni.111000.v6.rocks#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23313%20t.me%2Frjsxrd
 vless://4b481152-ba7f-4445-8cc0-d33d58546e23@193.124.130.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20513273%20t.me%2Frjsxrd
 vless://a0e4e8b6-0518-4f19-803e-eece71583392@109.206.236.58:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=apple.com&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16#%F0%9F%87%AB%F0%9F%87%AE%20%5BVL%5D%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%236709%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd

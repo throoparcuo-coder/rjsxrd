@@ -1,9 +1,3 @@
-#profile-title: hysteria2.txt t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk4.shiyuandian.shop:1935?insecure=1&sni=hk4.shiyuandian.shop#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2004%20TG%3A%20%40nodpai%20t.me%2Frjsxrd
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk2.shiyuandian.shop:1935?insecure=1&sni=hk2.shiyuandian.shop&obfs=&obfs-password=#B%20-%20%F0%9F%87%AD%F0%9F%87%B0%20HK%2008%20TG%3A%20%40nodpai%20t.me%2Frjsxrd
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@sg1.shiyuandian.shop:2056?insecure=1&sni=sg1.shiyuandian.shop#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2008%20TG%3A%20%40nodpai%20t.me%2Frjsxrd

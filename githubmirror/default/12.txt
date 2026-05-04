@@ -1,9 +1,3 @@
-#profile-title: 12-12/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.130:443?allowInsecure=1&amp;encryption=none&amp;host=sni.111000.v6.navy&amp;security=tls&amp;sni=sni.111000.v6.navy&amp;type=ws#%F0%9F%A6%8136@oneclickvpnkeys%20t.me%2Frjsxrd
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=carlotta.shoorekeeper.cloudns.org&amp;fp=randomized&amp;type=ws&amp;sni=carlotta.shoorekeeper.cloudns.org#%E2%9C%85%F0%9F%8D%B7%40vless_vmess%20x%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7%20t.me%2Frjsxrd
 ss://telegram-id-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=8.v.v.v-_-_-v2ray-_-_-v.v.zula.ir.speedtest.net.bahrane.Ir.&amp;type=ws#WS8-Hamrah-@ArV2ray%20t.me%2Frjsxrd

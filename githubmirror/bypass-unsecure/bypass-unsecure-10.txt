@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-10/11 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://26524cce-d514-4014-a426-365fb266a14d@45.32.49.72:6443?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&insecure=0&allowInsecure=0&type=ws&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd
 vless://da2d9e98-f486-43ec-8637-79089bc1f222@45.15.129.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=tmRzdUIUtlS3-qqTIXF1FNRDn9gkIm4j1kdbb50OLC8&sid=62f140#1286.%20%F0%9F%87%B3%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20yandex.ru%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
 vless://f6808c62-cfe0-438c-aae6-44fe6ef51e47@o11111o.club:8082?type=grpc&headerType=none&security=reality&encryption=none&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&serviceName=vless-grpc-reality&mode=gun#%5BOpenRay%5D%20Dynamic-15243%20t.me%2Frjsxrd

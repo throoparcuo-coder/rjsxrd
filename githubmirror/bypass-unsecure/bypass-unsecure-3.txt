@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-3/11 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://a0e4e8b6-0518-4f19-803e-eece71583392@151.242.43.238:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=apple.com&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16#[588ms Финляндия FI 🇫🇮 @vlesstrojan]%20t.me%2Frjsxrd
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@141.98.191.78:443?type=xhttp&security=reality&fp=chrome&pbk=wpLAX1ax15YI3H8kmmE8PH6S4vCjAwE2gYw6hG6QIh4&sid=a0&sni=login.vk.ru&path=%2525252F#SNI%3A%20login.vk.ru%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@141.98.191.78:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=login.vk.ru&fp=chrome&pbk=wpLAX1ax15YI3H8kmmE8PH6S4vCjAwE2gYw6hG6QIh4&sid=a0&path=%2525252F&mode=auto%2525252C#SNI%3A%20login.vk.ru%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd%20t.me%2Frjsxrd
