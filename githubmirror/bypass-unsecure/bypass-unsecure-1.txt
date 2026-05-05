@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-1/12 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://10cc1052-15de-4a66-b8bb-d62ef8b7f956@5.188.224.137:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=ir.ozone.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#%F0%9F%87%B7%F0%9F%87%BA%20EdgeCenter%20%E2%80%94%20%2358%20t.me%2Frjsxrd
 vless://054a13cb-47a2-41f1-8010-1ad46c67df3d@5.188.224.136:2083?mode=gun&type=grpc&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&serviceName=UpdateService#2664.%20VLESS%20%7C%20SNI%3A%20ir.ozone.ru%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel%20t.me%2Frjsxrd
 vless://7a771ef8-960d-408c-b88a-fafbfe815242@51.250.15.95:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=pTbESwhdAb5h4BeLDXK9DOHfh-FOeJhjrkLn179p-Dc&sid=e311d0&spx=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA%20t.me%2Frjsxrd

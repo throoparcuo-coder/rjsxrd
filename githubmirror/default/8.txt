@@ -1,9 +1,3 @@
-#profile-title: 8-8/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.155:443?allowInsecure=1&amp;encryption=none&amp;fp=chrome&amp;host=sni.111000.v6.navy&amp;security=tls&amp;sni=sni.111000.v6.navy&amp;type=ws#%F0%9F%A6%8161@oneclickvpnkeys%20t.me%2Frjsxrd
 ss://97d53a59-918e-45fc-bc5d-ba487f090cc1@80.240.23.101:443?type=xhttp&amp;path=%2FDota2%3Fed%3D2048&amp;host=&amp;mode=auto&amp;security=reality&amp;pbk=HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o&amp;fp=randomized&amp;sni=hundleymechanical.com&amp;sid=008c74&amp;spx=%2F#%DA%86%D9%86%D9%84%20%3A%20RivenVpn%20t.me%2Frjsxrd
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hetz.x-smm.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hetz.x-smm.com#%40Vpn_Tehran%20%E2%9D%A4%EF%B8%8F%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20t.me%2Frjsxrd

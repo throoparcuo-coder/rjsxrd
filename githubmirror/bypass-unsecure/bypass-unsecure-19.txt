@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-19/19 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.152.2:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20588119%20t.me%2Frjsxrd
 vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80?type=ws&security=none&encryption=none&path=%F0%9F%94%92&host=floral-term-d21f.wafajax493.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20%5BVL%5D%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20%23113%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.199.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20878769%20t.me%2Frjsxrd

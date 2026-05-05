@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-8/12 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&encryption=none&sni=2-ee1.pages.dev&host=2-ee1.pages.dev#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd
 vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?security=reality&encryption=none&type=tcp&sni=www.ozon.ru&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&alpn=http%252F1.1&headerType=none%252C#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20www.ozon.ru%20t.me%2Frjsxrd
 vless://6a17d3c4-d673-4bf1-8306-1e997f9a49f7@84.201.159.203:444?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=xiOvFspGDufcf37IfC_Ny82NZUPNMEDi6qUwfnQ822I&sid=0614355789abbdef#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2321%20t.me%2Frjsxrd

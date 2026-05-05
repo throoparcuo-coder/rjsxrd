@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-7/12 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://26524cce-d514-4014-a426-365fb266a14d@64.110.71.6:443?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&insecure=0&allowInsecure=0&type=ws&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#%E9%9F%A9%E5%9B%BD_050510202%20t.me%2Frjsxrd
 vmess://eyJhZGQiOiI0My4xNjIuMTA1LjMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1czEtc3MuZmx5cGFydHMuY24iLCJpZCI6IjkxYTk4OGRjLTk5ZDUtNGMwZC1hOTk5LWExZDRkZDcyYWQyMSIsIm5hdGlvbiI6IiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjEwMDIyIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVVTIiwic2N5IjoiYXV0byIsInNlcnZlcnBvcnQiOjAsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#%F0%9F%87%BA%F0%9F%87%B8%20%5BVM%5D%20%D0%A1%D0%A8%D0%90%20%239709%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://26524cce-d514-4014-a426-365fb266a14d@138.3.210.67:30032?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&insecure=0&allowInsecure=0&type=ws&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#%E6%97%A5%E6%9C%AC_050510156%20t.me%2Frjsxrd
