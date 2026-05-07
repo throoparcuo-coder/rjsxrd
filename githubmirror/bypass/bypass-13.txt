@@ -1,9 +1,3 @@
-#profile-title: bypass-13/15 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://d428091c-e6eb-48f9-9a07-b44eb886ac90@217.18.61.243:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mydogcollections.com&fp=chrome&pbk=RsG53RnTZKpPwbKt0mnj3963DinwNFHpk3eWaHH6oG4&sid=653253254366&type=tcp&headerType=none#Full #001 @FreeCFGHub%20t.me%2Frjsxrd
 vless://bdf9687c-9d7b-4a67-8c87-723a9f3de723@158.160.226.179:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=LHcascaxOxugVSALgsYx46nB-vuhT7ANOneu0xb6SzQ&sid=3b25133dd9e5c23f#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-23079%20t.me%2Frjsxrd
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@35.79.146.187:443?sni=gogo2.kmj.qzz.io&type=ws&host=gogo2.kmj.qzz.io&path=/fp=chrome&security=tls#%E6%97%A5%E6%9C%AC_050710027%20t.me%2Frjsxrd

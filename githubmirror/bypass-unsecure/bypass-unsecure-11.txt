@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-11/16 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://5ad9f8f3-40dc-457b-942b-d210825d7627@85.206.161.98:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sun6-22.userapi.com&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&sid=abc323#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20664496%20t.me%2Frjsxrd
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@2.27.57.88:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.yandex.ru&security=reality&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a#🇵🇱 Poland | "HOSTOFF CSL" 411%20t.me%2Frjsxrd
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@144.31.49.94:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=mirror.yandex.ru&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20970033%20t.me%2Frjsxrd
