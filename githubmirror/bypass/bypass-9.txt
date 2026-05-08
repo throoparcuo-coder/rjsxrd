@@ -1,9 +1,3 @@
-#profile-title: bypass-9/13 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&sni=eh.vk.com&spx=/o7Aaf6fjwgbitolAe#%F0%9F%87%A9%F0%9F%87%AA%20%5BVL%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%23968%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://7937bd2c-b783-45a2-8674-9f825ecb0b7c@79.174.91.100:2452?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA&sid=e035146d93da51a9&sni=queuev4.vk.com&spx=/#1173 | 🇷🇺 Russia | 🏳️ CIDR-REGRU | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://5ad9f8f3-40dc-457b-942b-d210825d7627@netherland.boot-lee.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&sid=abc123&sni=eh.vk.com&alpn=http/1.1#SNI%3A%20eh.vk.com%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd

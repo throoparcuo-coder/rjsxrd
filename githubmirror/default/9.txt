@@ -1,9 +1,3 @@
-#profile-title: 9-9/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://8f646a01-2cc1-4270-ad43-f87e157e4d44@webshecan.webredirect.org:2087?type=tcp&amp;security=reality&amp;fp=chrome&amp;pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&amp;sni=www.speedtest.net&amp;flow=xtls-rprx-vision&amp;sid=53242a95&amp;spx=%2F#%40WebShecan-29Mordad-1%20t.me%2Frjsxrd
 ss://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none&amp;host=vip.yaml7.ggff.net&amp;path=%2F&amp;security=none&amp;type=ws#%F0%9F%8D%9124@oneclickvpnkeys%20t.me%2Frjsxrd
 ss://8135074a-49d9-46da-b79d-b58d2b9dcb6a@185.143.233.235:80?type=ws&amp;encryption=none&amp;path=%2Fytugihaowlndawobd&amp;host=blitbegir.ir&amp;security=none#StrStark-@Fr33C0nfig%20t.me%2Frjsxrd
