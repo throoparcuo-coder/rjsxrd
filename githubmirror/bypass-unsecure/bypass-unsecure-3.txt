@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-3/12 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://ada16414-ea27-433b-b448-f77744493deb@api.cloudconsole.ru:443?type=xhttp&security=reality&fp=chrome&pbk=xejt7baNPj-ZmBgQVNW0MikXcVuLSro14gb6EyW4rAA&sid=ab000000&sni=vk.com&host=vk.com&mode=auto&spx=#SNI%3A%20vk.com%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
 vless://e8a67795-ca80-498f-bab0-34989a8f4a1d@79.174.95.200:5452/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.kinopoisk.ru&fp=chrome&security=reality&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=542c8ba8f82ea453#5795.%20VLESS%20%7C%20SNI%3A%20st.kinopoisk.ru%20%7C%20CIDR%3A%20REG.RU%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
 vless://a060f842-52f4-412a-8565-7063d8282722@cp.cloudconsole.ru:443?fp=firefox&host=vk.com&mode=auto&path=%2F&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&security=reality&sid=df&sni=vk.com&spx=/&type=xhttp#SNI%3A%20vk.com%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd

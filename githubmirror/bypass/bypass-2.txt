@@ -1,9 +1,3 @@
-#profile-title: bypass-2/9 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.39.125.139:2053?type=ws&security=tls&fp=chrome&sni=kalami-eew.pages.dev&host=kalami-eew.pages.dev#0628 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://7bbc52f8-e8d3-48cb-8b62-a3bc50c862c1@79.174.95.200:5446?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=f543a7a8ec616e07&sni=quiz.kinopoisk.ru&spx=/#🇷🇺 RU VLESS 2152%20t.me%2Frjsxrd
 vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#SNI%3A%20cluster-russia-1.firstvideocdn.ru%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd

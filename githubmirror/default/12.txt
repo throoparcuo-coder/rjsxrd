@@ -1,9 +1,3 @@
-#profile-title: 12-12/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://telegram-id-ArV2ray@25.129.197.233:2052?mode=auto&amp;path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40ArFilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=cdn-alman5.arfilter2.blog&amp;type=xhttp#XHTTP1-All-%40ArV2ray%20t.me%2Frjsxrd
 ss://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.140.106:443?path=%2F139.99.124.165%3D443&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=afrcloud1.c01.kr&amp;type=ws&amp;allowInsecure=1&amp;sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER%20t.me%2Frjsxrd
 ss://1903b9c4-7cea-4beb-be2a-845ae73e29cc@zeusgg.isfahangaming.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=zeusgg.isfahangaming.com&amp;type=ws#SuperFast-proxystore11%20t.me%2Frjsxrd
