@@ -1,9 +1,3 @@
-#profile-title: bypass-4/7 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@163.5.207.235:443?fp=chrome&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.navy&telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2=&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D%20t.me%2Frjsxrd
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@65.49.236.30:443?security=tls&type=ws&path=%2F&host=gogo2.kmj.qzz.io&sni=gogo2.kmj.qzz.io&fp=chrome#🇺🇸 США 67 | [BL]%20t.me%2Frjsxrd
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.159.12.89:443?security=tls&type=ws&path=%2F&host=gogo12.kmj.qzz.io&sni=gogo12.kmj.qzz.io&fp=chrome#🇺🇸 США 60 | [BL]%20t.me%2Frjsxrd

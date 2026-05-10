@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-7/10 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://8cc04288-bac1-4b09-8ea5-1493c4d14376@217.168.240.172:2443?type=xhttp&security=reality&fp=chrome&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789&sni=travel.yandex.ru&mode=stream-one&extra={"host":"","path":"","mode":"","headers":null,"xPaddingBytes":"0","xPaddingObfsMode":false,"xPaddingKey":"","xPaddingHeader":"","xPaddingPlacement":"","xPaddingMethod":"","uplinkHTTPMethod":"","sessionPlacement":"","sessionKey":"","seqPlacement":"","seqKey":"","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":0,"noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"500000","scMinPostsIntervalMs":"0","scMaxBufferedPosts":10,"scStreamUpServerSecs":"0","xmux":{"maxConcurrency":"0","maxConnections":"0","cMaxReuseTimes":"0","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":0},"downloadSettings":null,"extra":null}#🇺🇸 US VLESS 2154%20t.me%2Frjsxrd
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@172.64.229.220:2096?allow_insecure=0&fp=chrome&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=gogo.kmj.qzz.io&type=ws#%F0%9F%87%B2%F0%9F%87%AA%20%5B%D0%91%D0%A1-VL%5D%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%20%2318684%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.19.59.39:8443?allow_insecure=0&fp=chrome&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&sni=gogo.kmj.qzz.io&type=ws#%F0%9F%87%B2%F0%9F%87%AA%20%5B%D0%91%D0%A1-VL%5D%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%20%2318403%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd

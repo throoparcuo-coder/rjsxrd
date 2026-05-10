@@ -1,9 +1,3 @@
-#profile-title: 12-12/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&amp;security=reality&amp;sid=479826bdfc3eb86e&amp;sni=www.speedtest.net&amp;type=tcp#%F0%9F%AB%9F3@oneclickvpnkeys%20t.me%2Frjsxrd
 ss://97a3b0e9-f44f-4dad-96af-40a14b3ae680@143.110.169.66:26329?type=tcp&amp;security=reality&amp;pbk=ir5yuFXmp49WTWAsoD_mxmfbPf6lROEmzcgrCpopWDc&amp;fp=firefox&amp;sni=*.sourceforge.net&amp;sid=7ea2155d&amp;spx=%2F#@Capital_NET%20t.me%2Frjsxrd
 ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig%20t.me%2Frjsxrd
