@@ -1,9 +1,3 @@
-#profile-title: bypass-3/22 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://5a478129-3e7e-Fade-99d7-95e1da14fbdc@s28233.cdn.ngenix.net:443?type=ws&security=tls&fp=qq&sni=s28233.cdn.ngenix.net&host=s28233.cdn.ngenix.net&alpn=h2,http/1.1#[928ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 vless://e4934f14-3dc1-41cb-8e50-f46227ab8a96@85.192.38.115:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=EdGe0g5xCQq14KhxL51NrgeKiFy6Z6CAvsfK5TBSKVY&sid=f2d55d5f&spx=/&flow=xtls-rprx-vision#SNI%3A%20ads.x5.ru%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?encryption=none&security=reality&sni=www.m.vk.ru&fp=chrome&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&sid=9a694cfa8ebd15&spx=/&type=tcp&headerType=none#SNI%3A%20www.m.vk.ru%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd

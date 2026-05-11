@@ -1,9 +1,3 @@
-#profile-title: bypass-8/22 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://d1bba76e-fa65-4772-a3ce-ea3ede58f343@79.174.95.200:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=cec6de179885b02d&spx=/#SNI%3A%20ads.x5.ru%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
 vless://23616470-4782-4da9-8576-affbbcf6ae7b@lk.cloudconsole.ru:443?fp=firefox&host=vk.com&mode=auto&path=%252F&pbk=nCxYuad0GYaNJwUpLjyKZyK7NyjTssz0a1Agq5wZcwI&security=reality&sid=87&sni=vk.com&spx=/&type=xhttp#SNI%3A%20vk.com%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd
 vless://e4cdf9e6-586a-474e-b712-84b7ba9f1c06@85021057111778395226.fast.roscomsosal.de:22842?security=reality&type=tcp&sid=fd&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&sni=gazprom.hutsharing.com&flow=xtls-rprx-vision&fp=qq&_t=52c59361#%F0%9F%87%A9%F0%9F%87%AA%20%5BVL%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%23775%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd

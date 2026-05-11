@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-17/23 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://acf37d14-121a-47bd-a7d4-1d4189347417@79.174.95.200:5447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.okcdn.ru&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=f543a7a8ec616e07#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23594%20t.me%2Frjsxrd
 vless://4734b6d0-1306-4792-bed0-6b834aa851a8@79.174.95.200:5446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=quiz.kinopoisk.ru&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=f543a7a8ec616e07#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20268598%20t.me%2Frjsxrd
 vless://2175dcd6-7b24-41db-ba5a-8258ad22340d@46.182.24.148:2448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=m.ok.ru&pbk=5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA&sid=e035146d93da51a9&spx=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20593216%20t.me%2Frjsxrd

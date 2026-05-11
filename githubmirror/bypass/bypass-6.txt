@@ -1,9 +1,3 @@
-#profile-title: bypass-6/22 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster--1.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%23130%20t.me%2Frjsxrd
 vless://4734b6d0-1306-4792-bed0-6b834aa851a8@79.174.95.200:5452?alpn=http%2F1.1&flow=xtls-rprx-vision&fp=random&headertype=none&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&security=reality&sid=f543a7a8ec616e07&sni=st.kinopoisk.ru&type=tcp#2307.%20VLESS%20%7C%20SNI%3A%20st.kinopoisk.ru%20%7C%20CIDR%3A%20REG.RU%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
 vless://3e7c2157-e62f-433a-8c37-d43bf1e0d077@fi-2-yapi.maxg.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=&pbk=FJ4KCJmIbZw_lLKrIueo8yUEP959xvvCOVXUEc2Zclo&sid=#SNI%3A%20api-maps.yandex.ru%20%5B%23%D0%A0%D0%9A%D0%9F%5D%20t.me%2Frjsxrd

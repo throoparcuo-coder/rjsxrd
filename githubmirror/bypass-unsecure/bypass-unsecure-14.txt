@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-14/23 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.81.33.80:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=qv7KgP-yBuTBKtpyjZDsngIStO23xfm1lf3y75tKrFA&sid=e93429fa&sni=login.vk.ru&fp=chrome&alpn=http%2F1.1&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://2175dcd6-7b24-41db-ba5a-8258ad22340d@46.182.24.148:2446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ir.ozone.ru&pbk=5w9AftPH_705ynMzcG03D3z61O1qegNp6WFL6jOXxRA&sid=7b374423e3f0f5fb&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23267%20t.me%2Frjsxrd
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%2210-20%22%2C%22length%22%3A%2250-100%22%2C%22packets%22%3A%22tlshello%22%7D%7D%5D%2C%22udp%22%3Anull%7D&type=tcp&headerType=none#🇵🇱 Poland | OC NETWORKS LIMITED 79%20t.me%2Frjsxrd

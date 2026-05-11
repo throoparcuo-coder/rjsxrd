@@ -1,9 +1,3 @@
-#profile-title: bypass-27/34 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@104.20.6.134:443?encryption=none&type=ws&host=thisisverytemp.bananalegends.com&path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&fp=chrome&sni=thisisverytemp.bananalegends.com#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd
 vless://26524cce-d514-4014-a426-365fb266a14d@218.55.175.15:10250?allowInsecure=0&sni=yn80.api-backend.fgfw.qzz.io&type=ws&host=yn80.api-backend.fgfw.qzz.io&path=/danfengfp=firefox&security=tls#%E9%9F%A9%E5%9B%BD_051104024%20t.me%2Frjsxrd
 vless://4f9d2c5e-bfc5-47d7-806e-e752f73300ae@158.160.142.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇺🇸 США 194 | [WL]%20t.me%2Frjsxrd
