@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-3/21 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://acd178ef-55ae-40e9-9ab3-76b502a4f6d1@95.163.211.240:8081?type=tcp&security=reality&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c&sni=ads.x5.ru#3890 | 🇷🇺 Russia | 🏳️ SNI-X5 | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://42aef110-e78f-4d6e-aeb4-344050a4b4de@91.219.227.200:8083?type=tcp&security=reality&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c&sni=max.ru#0049 | 🇷🇺 Russia | 🏳️ SNI-MAX | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://e4cdf9e6-586a-474e-b712-84b7ba9f1c06@89.23.97.124:22842?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=gazprom.hutsharing.com&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&sid=fd#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23172%20t.me%2Frjsxrd

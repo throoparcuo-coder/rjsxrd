@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-1/21 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.47:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-de-2.firstvideocdn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 vless://16796387-ceeb-4b58-9cb2-dc87aefb0608@5.188.224.137:2083?encryption=none&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&type=grpc&authority=&serviceName=UpdateService&mode=gun\",",#740.%20VLESS%20%7C%20SNI%3A%20ir.ozone.ru%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel%20t.me%2Frjsxrd
 vless://75807638-6f19-01f4-ae08-38492ee85c88@178.72.181.49:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-de-1.firstvideocdn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20t.me%2Frjsxrd

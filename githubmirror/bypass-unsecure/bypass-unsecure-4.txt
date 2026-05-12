@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-4/21 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e4cdf9e6-586a-474e-b712-84b7ba9f1c06@5.42.98.65:22842?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=gazprom.hutsharing.com&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&sid=fd&source_name=zieng_vless_universal&provider_id=zieng_vless_universal#81 %7C REALITY %7C SNI%3A gazprom.hutsharing.com %7C IN%3A RU OUT%3A DE %7C RATING%3A 5%2F10%20t.me%2Frjsxrd
 vless://2b879bf6-5551-47aa-8239-55bb2199f410@79.174.95.200:5446?flow=xtls-rprx-vision&fp=random&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&security=reality&sid=542c8ba8f82ea453&sni=quiz.kinopoisk.ru&spx=/&type=tcp#734.%20VLESS%20%7C%20SNI%3A%20quiz.kinopoisk.ru%20%7C%20CIDR%3A%20REG.RU%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel%20t.me%2Frjsxrd
 vless://9ef0cf20-a8ca-Fade-a510-23b5157a2569@37.9.4.82:443?encryption=none&type=grpc&security=reality&mode=gun&fp=qq&sni=ads.x5.ru&pbk=o6jbbDkNF_5v8BlkIDl4NKhBiXTxCGms-NPmFkuQNXA#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23234%20t.me%2Frjsxrd

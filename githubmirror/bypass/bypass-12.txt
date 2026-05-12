@@ -1,9 +1,3 @@
-#profile-title: bypass-12/15 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://a277a703-e767-4ed4-a963-89fe26d91162@79.174.95.200:5452?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=542c8ba8f82ea453&sni=st.kinopoisk.ru&spx=/#4213 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://b818576e-951a-4a9c-879a-d32611b977ad@104.19.49.83:2087?sni=cocobaby.pages.dev&type=ws&host=cocobaby.pages.dev&path=/fp=chrome&security=tls#CF%E4%B8%AD%E8%BD%AC_0512102363%20t.me%2Frjsxrd
 vless://23616470-4782-4da9-8576-affbbcf6ae7b@lk.cloudconsole.ru:443?encryption=none&security=reality&sni=vk.com&fp=firefox&pbk=nCxYuad0GYaNJwUpLjyKZyK7NyjTssz0a1Agq5wZcwI&sid=87&spx=/&type=xhttp&host=vk.com&path=%252F&mode=auto#🇷🇺 Россия 34 | [WL]%20t.me%2Frjsxrd
