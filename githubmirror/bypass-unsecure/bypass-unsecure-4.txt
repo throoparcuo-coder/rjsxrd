@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-4/10 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e387b1c6-c344-Fade-b068-094f5b92aa23@s28233.cdn.ngenix.net:443?type=ws&security=tls&sni=&host=s28233.cdn.ngenix.net&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&type=ws&security=tls&path=/stream/updates/130cdea4/019dee35-0199-dd7e-7323-a62ad725bba07&host=cdn.lovecrafty.link&fp=chrome&sni=cdn.tracker.yandex.net#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔥%20%20%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#🌐سرور 326 | Ord-23| MTSRVRS%20t.me%2Frjsxrd

@@ -1,9 +1,3 @@
-#profile-title: 3-3/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇬🇪[openproxylist.com] vless-GE%20t.me%2Frjsxrd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#🇹🇼[openproxylist.com] ss-TW%20t.me%2Frjsxrd
 vless://6946cf76-2c1e-4fbc-a28a-e2beeb7c29cb@144.31.96.174:443?security=reality&encryption=none&fm={"fragment":{"length":"50-100","packets":"tlshello","interval":"10-20"}}&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=6ba85179e30d4fc2#🏳[openproxylist.com] vless-%20t.me%2Frjsxrd

@@ -1,9 +1,3 @@
-#profile-title: 21-21/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://f9f57c0b-b473-4fe9-8603-21e42613be04@snappfood.ir:2086?security=none&type=ws&headerType=&path=%2Fcdn&host=dl5.movizdl.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:63.57ms%20t.me%2Frjsxrd
 vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0&fp=chrome#👉🆔@v2ray_configs_pool📡🇶🇦®️Qatar©️Doha🅿️ping:173.37ms%20t.me%2Frjsxrd
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@172.64.145.53:2096?encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45.26ms%20t.me%2Frjsxrd

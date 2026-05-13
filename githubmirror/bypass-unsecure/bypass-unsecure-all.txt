@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-all t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.52:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-russia-3.firstvideocdn.ru#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2310%20t.me%2Frjsxrd
 vless://5d1e9449-c5da-48d9-a307-df280251a835@5.129.204.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=altrunet-probe.tw1.su#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2317%20t.me%2Frjsxrd
 vless://600c2e35-031a-40fe-983e-5d892114c799@46.182.24.141:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=static.yandex.net&pbk=-3KqEvD5M3nJTrTO2kvmrTn1WpLxn6k_ckjh6XsKqTc&sid=b2a6e3d42f05c3d1#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2315%20t.me%2Frjsxrd
