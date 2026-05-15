@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-11/11 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@vip2.kaixincloud.top:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇺🇸 США 19 | [WL]%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.79.211:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20270154%20t.me%2Frjsxrd
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.18.185.26:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#🇺🇸 США 3 | [WL]%20t.me%2Frjsxrd

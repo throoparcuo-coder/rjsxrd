@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-7/11 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@store.ubi.com:443?security=tls&type=ws&path=%2Fproducts&host=pagescm.freen8.de5.net&sni=pagescm.freen8.de5.net&fp=chrome&encryption=none#🇺🇸 США 391 | [WL]%20t.me%2Frjsxrd
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@xin.usfox.qzz.io:443?encryption=none&security=tls&sni=pagescm.freen3.de5.net&type=ws&host=pagescm.freen3.de5.net&path=%2Fzh%2Fplayer%2Fshop#🇺🇸 США 393 | [WL]%20t.me%2Frjsxrd
 vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@46.243.233.212:2081?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=random&sni=io.ozone.ru&pbk=FARqAvdBdAqPJGFpjGVY4GWwgGl_afQ8ArDlfVs7-Ck&sid=5fb06f1e4d8f&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20CDNvideo%20%E2%80%94%20%2317%20t.me%2Frjsxrd

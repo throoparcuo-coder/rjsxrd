@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-9/11 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.202.211.138:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20894387%20t.me%2Frjsxrd
 vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.5.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&security=none&type=ws#🇺🇸 США 266 | [WL]%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.21.7.193:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=sant.atira-40.workers.dev&path=/sni.111000.dynv6.net/&security=tls&sni=sant.atira-40.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20375915%20t.me%2Frjsxrd
