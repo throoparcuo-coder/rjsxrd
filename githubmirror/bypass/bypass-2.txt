@@ -1,9 +1,3 @@
-#profile-title: bypass-2/3 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&type=ws&security=tls&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&host=cdn.lovecrafty.link&fp=chrome&sni=cdn.tracker.yandex.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20246060%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&type=ws&security=tls&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&host=cdn.lovecrafty.link&fp=chrome&sni=cdn.tracker.yandex.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20636438%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@45.133.251.23:6443?type=xhttp&security=reality&fp=chrome&pbk=m_dqBYbQWfqxsZftTKY_AdVdzmeoOVf3Ytdupe-y9AQ&sid=6ba85179e30d4fc2&sni=yandex.net&mode=auto&extra={#%20t.me%2Frjsxrd

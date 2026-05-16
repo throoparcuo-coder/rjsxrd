@@ -1,9 +1,3 @@
-#profile-title: 14-14/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@14.102.229.231:443?allowInsecure=1&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#👉🆔@v2ray_configs_pool📡🇨🇿®️Czechia©️Prague🅿️ping:45.9ms%20t.me%2Frjsxrd
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#👉🆔@v2ray_configs_pool📡🇧🇬®️Bulgaria©️Sofia🅿️ping:52.35ms%20t.me%2Frjsxrd
 trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:73.93ms%20t.me%2Frjsxrd

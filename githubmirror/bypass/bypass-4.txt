@@ -1,9 +1,3 @@
-#profile-title: bypass-4/5 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.52:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&sni=max.ru&fm=%25257B%252522tcp%252522%25253A%25255B%25257B%252522settings%252522%25253A%25257B%252522delay%252522%25253A%25252210-20%252522%25252C%252522length%252522%25253A%25252250-100%252522%25252C%252522packets%252522%25253A%252522tlshello%252522%25257D%25252C%252522type%252522%25253A%252522fragment%252522%25257D%25255D%25257D&echfq=none&fragment=50-100%25252C10-20%25252Ctlshello%25252Cnull#🇵🇱 Польша 11 | [WL]%20t.me%2Frjsxrd
 vless://611ffd18-65e4-424e-94d4-664ca3022d66@158.160.240.14:3449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=dev.tau.vk.ru&pbk=y8Xef3AIk7TEbLdu2WkC1NX0jtdxrSs9xsAxLqkSXA8&sid=9d8e40b1e50c3b63&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23447%20t.me%2Frjsxrd
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B7%F0%9F%87%B8-Belgrade-1186ms-WorkTitans%20B.V.%20t.me%2Frjsxrd
