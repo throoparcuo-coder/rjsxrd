@@ -1,9 +1,3 @@
-#profile-title: 23-23/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@sg04.352343.cc:8080?sni=sg04.352343.cc&insecure=0#SG   HYSTERIA2-TCP-NTLS - AMAZON-02  18.141.110.246%20t.me%2Frjsxrd
 hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@hkmax03.476579.xyz:8080?sni=hkmax03.476579.xyz&insecure=0#SG   HYSTERIA2-TCP-NTLS - AMAZON-02  52.76.164.94%20t.me%2Frjsxrd
 hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@sg16.453521.xyz:8080?sni=sg16.453521.xyz&insecure=0#SG   HYSTERIA2-TCP-NTLS - AMAZON-02  18.140.80.202%20t.me%2Frjsxrd

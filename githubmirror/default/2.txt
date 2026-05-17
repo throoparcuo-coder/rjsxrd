@@ -1,9 +1,3 @@
-#profile-title: 2-2/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://b9d56e59-02ee-4af0-9963-b3650f8a1387@pivo5.ikisky.com:443?security=reality&encryption=none&echfq=none&pbk=hOUwTtuq2-jG7uKSgnrKIWxj3HdPYvvL7Kj3nrFTKA4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pivo5.ikisky.com&sid=49c667cd18477438#🇩🇪[openproxylist.com] vless-DE%20t.me%2Frjsxrd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇨🇿[openproxylist.com] ss-CZ%20t.me%2Frjsxrd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#🇬🇧[openproxylist.com] ss-GB%20t.me%2Frjsxrd
