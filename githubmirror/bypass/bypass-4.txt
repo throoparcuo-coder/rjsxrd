@@ -1,9 +1,3 @@
-#profile-title: bypass-4/5 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTEAxOTQuODcuMzkuMjE1OjgzODg=#%F0%9F%87%B9%F0%9F%87%B7%20%5BSS%5D%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20%238348%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@81.200.149.93:443?type=ws&headerType=none&security=tls&encryption=none&sni=e.genesis1780.ru&path=%2F&host=e.genesis1780.ru&insecure=0#44 %7C WS%2BTLS %7C SNI%3A e.genesis1780.ru %7C IN%3A RU OUT%3A FI %7C RATING%3A 5%2F10%20t.me%2Frjsxrd
 vless://f2564bb4-9960-4ccb-8017-bc02802f768a@white-snowflake-e65e.queenmahsan1.workers.dev:443?encryption=none&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&type=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&ed=4096#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd

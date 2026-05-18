@@ -1,9 +1,3 @@
-#profile-title: 1-1/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 trojan://8r%3C%5B9%27l6hAO%238ZQi@149.129.91.58:23779?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#%E9%A6%99%E6%B8%AF+%E9%98%BF%E9%87%8C%E4%BA%91%20t.me%2Frjsxrd
 trojan://8r%3C%5B9%27l6hAO%238ZQi@154.197.88.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#%E5%8D%97%E9%9D%9E+V2CROSS.COM%20t.me%2Frjsxrd
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFx1NTJhMFx1NTIyOVx1Nzk4Zlx1NWMzY1x1NGU5YVx1NWRkZVx1NTcyM1x1NGY1NVx1NTg1ZUlLR2xvYmFsIiwgImFkZCI6ICIxMDMuMTI3LjI0My41OSIsICJwb3J0IjogIjU2NzM4IiwgImlkIjogIjVmNDljODBlLTc3NzAtNGJkMS05Yzg2LTQzYzIwNjhhM2EyNiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogIiIsICJwYXRoIjogIi9BQkNERSIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==#%20t.me%2Frjsxrd

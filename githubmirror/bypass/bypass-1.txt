@@ -1,9 +1,3 @@
-#profile-title: bypass-1/3 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://4e11ad7d-a372-4f0d-81c5-a03a52cc8291@auto.api-rutube.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#4166 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&type=ws&security=tls&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&host=cdn.lovecrafty.link&fp=chrome&sni=cdn.tracker.yandex.net#4FreeIran-6209%20t.me%2Frjsxrd
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&type=ws&security=tls&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&host=cdn.lovecrafty.link&fp=chrome&sni=cdn.tracker.yandex.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20555848%20t.me%2Frjsxrd
