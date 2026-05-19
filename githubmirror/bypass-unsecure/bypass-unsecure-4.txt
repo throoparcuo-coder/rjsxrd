@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-4/8 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.18.81.143:80?type=ws&host=amirvpn.amirhm00100.workers.dev&path=/?ed=2048#CF%E4%B8%AD%E8%BD%AC_0518107704%20t.me%2Frjsxrd
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@5.188.140.166:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&sni=max.ru&fp=chrome&alpn=http%252F1.1&headerType=none#🇵🇱 Poland | H2nexus LTD 76%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:443?alpn=http/1.1&encryption=none&fp=chrome&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#4Sarina-6834%20t.me%2Frjsxrd
