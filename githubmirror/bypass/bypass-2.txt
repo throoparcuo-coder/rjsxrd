@@ -1,9 +1,3 @@
-#profile-title: bypass-2/2 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@68.183.227.22:443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%E6%96%B0%E5%8A%A0%E5%9D%A1_051920507%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.5.81:8443?allow_insecure=0&host=sni.111000.dns.army&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20%5BVL%5D%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%237540%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#%E2%84%96855%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%40obwhitel%20t.me%2Frjsxrd%20t.me%2Frjsxrd
