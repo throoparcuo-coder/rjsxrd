@@ -1,9 +1,3 @@
-#profile-title: 19-19/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://00112558-ab83-4780-a0d5-03d52e824237@158.160.220.7:6443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=EagleFOEX2C-aS-78Ivg8U6tCxOJ7X1IovccktpXNzI&sid=6ba85179e30d4fc2#🇷🇺 1 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 6443%20t.me%2Frjsxrd
 vless://00112558-ab83-4780-a0d5-03d52e824237@84.201.147.213:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=hxpWlr-5EgNUPr__9gnoDdF9spsl4W4sfNKv_NJM_FY&sid=6ba85179e30d4fc2#🇷🇺 2 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 2443%20t.me%2Frjsxrd
 vless://00112558-ab83-4780-a0d5-03d52e824237@84.201.147.213:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=7ibca15-im9GR65wrb0N-ij1qdUftpcxTwNxHn9HPUw&sid=6ba85179e30d4fc2#🇷🇺 3 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 3443%20t.me%2Frjsxrd

@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-3/4 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://3e34a5c3-7413-4d9d-ab8e-6247a0954902@51.250.83.22:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=m.vk.com&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20362944%20t.me%2Frjsxrd
 vless://3e34a5c3-7413-4d9d-ab8e-6247a0954902@51.250.83.22:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20460125%20t.me%2Frjsxrd
 vless://64f95f98-302e-40f4-9396-bfa38ed3fc17@51.250.97.92:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=0d960275b7b0f9af#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D%20YA%20t.me%2Frjsxrd
