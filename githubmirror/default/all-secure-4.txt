@@ -1,8 +1,2 @@
-#profile-title: all-secure-4/4 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.191.171:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc-tunnel&sni=api-no-cache.dropmefile.net#%D0%9D%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+%7C+%F0%9F%8C%90+Speed%20t.me%2Frjsxrd
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.229.209:993?security=reality&encryption=none&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=ad7dab462a323acb#%D0%9D%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+%F0%9F%87%AB%F0%9F%87%AE%20t.me%2Frjsxrd
