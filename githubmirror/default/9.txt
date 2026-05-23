@@ -1,9 +1,3 @@
-#profile-title: 9-9/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#[🇦🇱] [vl-no-ws] [260522-133017.273]%20t.me%2Frjsxrd
 vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#[🇦🇱] [vl-no-ws] [260522-133046.342]%20t.me%2Frjsxrd
 vmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiaWQiOiI4MjBkNGI0Zi0zMzU3LTRkYzctOTM4MS02ZTVmZDUyYjVmMzkiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4em8J+HsV0gW3ZtLW5vLXdzXSBbMjYwNTIyLTEzMzI1My40NjJdIn0K#%20t.me%2Frjsxrd

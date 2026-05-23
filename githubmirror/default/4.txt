@@ -1,9 +1,3 @@
-#profile-title: 4-4/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?type=tcp&security=reality&sni=vltch.mostserv.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d#🇱🇹[openproxylist.com] vless-LT%20t.me%2Frjsxrd
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?security=reality&sni=sw1tzerl4nd.gxcore.net&fp=chrome&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp#🇨🇭[openproxylist.com] vless-CH%20t.me%2Frjsxrd
 trojan://telegram-id-privatevpns@15.188.165.183:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR%20t.me%2Frjsxrd
