@@ -1,9 +1,3 @@
-#profile-title: 14-14/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;type=ws#%40configfree20255%20t.me%2Frjsxrd
 ss://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=ir1.airpanel.top&amp;type=ws&amp;allowInsecure=1&amp;sni=ir1.airpanel.top#%F0%9F%9B%A1%20V%20105%20%40Outline_Vpn%20t.me%2Frjsxrd
 ss://6ad624f4-c1e0-4911-e3fd-f0e9d797991b@footlo.argha-v2pedia.monster:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=muEtUEPnEMopCqdrhYWMzzwBsAfjZ_NV1m-AnO1byxk&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&amp;sni=tuyacn.com&amp;sid=da#%E2%9A%A1%40vpn_go67%29+66%20t.me%2Frjsxrd
