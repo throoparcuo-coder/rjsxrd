@@ -1,9 +1,3 @@
-#profile-title: tuic-secure.txt t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 tuic://32d6d133-0496-4b24-ab42-24d6dba0c071:32d6d133-0496-4b24-ab42-24d6dba0c071@104.253.175.139:64246?alpn=h3&congestion_control=bbr&sni=www.apple.com&udp_relay_mode=native#%20t.me%2Frjsxrd
 tuic://32d6d133-0496-4b24-ab42-24d6dba0c071:32d6d133-0496-4b24-ab42-24d6dba0c071@104.253.175.139:64246?alpn=h3&congestion_control=bbr&sni=www.apple.com&udp_relay_mode=native&version=5#%20t.me%2Frjsxrd
 tuic://32d6d133-0496-4b24-ab42-24d6dba0c071:32d6d133-0496-4b24-ab42-24d6dba0c071@104.253.175.139:64246?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#%20t.me%2Frjsxrd

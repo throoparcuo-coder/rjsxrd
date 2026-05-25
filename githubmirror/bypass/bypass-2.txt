@@ -1,9 +1,3 @@
-#profile-title: bypass-2/4 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://35fd6e20-d441-0114-bf75-3182f43a4489@186.246.9.154:443?flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=cdn.trahodrom.fun&type=tcp#🇷🇺 Россия 9%20t.me%2Frjsxrd
 vless://73b7ea7f-2e71-4ced-8e0f-0f441d08960b@132.243.221.246:443?flow=xtls-rprx-vision&fp=chrome&pbk=7zZPiYZMmDbROEfR-6h57xAsriHvJ492O6n2etPrqEQ&security=reality&sni=metro.xwhiteness.site&type=tcp#🇳🇱 Нидерланды 7%20t.me%2Frjsxrd
 vless://73b7ea7f-2e71-4ced-8e0f-0f441d08960b@194.55.239.138:12443?fp=chrome&mode=auto&path=/&pbk=-skK-ZENMNk_Kmf3zKEHtTQy8023tJJJVrQEaZhrKSU&security=reality&sid=25b19ab8cfd78fe5&sni=ads.x5.ru&type=xhttp#🇳🇱 Нидерланды 6%20t.me%2Frjsxrd
