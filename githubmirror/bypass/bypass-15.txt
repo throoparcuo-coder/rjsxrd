@@ -1,9 +1,3 @@
-#profile-title: bypass-15/27 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://f1ce4c8f-a840-4aa7-8b8e-37cd16761ddd@84.201.139.67:443?security=reality&encryption=none&pbk=uYdYVZk9icFIvfd8eKHYHiULohrTdIHl2J8ktn7uTUU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=9db07670a7b491cb#%F0%9F%87%B7%F0%9F%87%BA%20White%20233%20t.me%2Frjsxrd
 vless://b571e5cc-6503-4dbe-9d56-f09c088ee435@193.163.203.76:50567?flow=xtls-rprx-vision&fp=qq&pbk=LupVrBU8JW1v4ITkc6GG_M1e1AQLQzuDRgTxeCKXsH4&security=reality&sid=1a2cffd9c782f206&sni=api-maps.yandex.ru&type=tcp#🇳🇱77Mb | Clodo Cloud Service Co%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.191:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D%20t.me%2Frjsxrd

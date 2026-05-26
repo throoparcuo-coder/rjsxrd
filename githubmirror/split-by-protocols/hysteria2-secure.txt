@@ -1,9 +1,3 @@
-#profile-title: hysteria2-secure.txt t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.132:443?sni=holz6.api3-max.ru#%F0%9F%9B%A1%EF%B8%8F13%40oneclickvpnkeys%20t.me%2Frjsxrd
 hysteria2://65bc8227-48db-4993-9e9d-68394de672a1@45.92.218.150:443?insecure=0&fp=&sni=holz3.api3-max.ru&obfs=&obfs-password=#%F0%9F%87%AB%F0%9F%87%B7FR_1%7C1.1MB/s%20t.me%2Frjsxrd
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Telegram%20%3A%20%40V2ynpv%20t.me%2Frjsxrd

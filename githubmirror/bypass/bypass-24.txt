@@ -1,9 +1,3 @@
-#profile-title: bypass-24/27 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://f3d08978-e457-43a3-b062-d74e4328833d@lte.cxhub.su:2004?type=grpc&headerType=none&security=reality&encryption=none&sni=cloud.mail.ru&fp=chrome&pbk=P0fQAbHaRJ6aF8yExwqISCB0ClTrGFhZe7hGDO8YnX4&sid=1413cc6a376b5257&serviceName=cloud#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList%20%231383%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.228.153:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=/?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws# By EbraSha%20t.me%2Frjsxrd
 vless://182defe5-05b5-4814-bbe5-31a09cb06e33@95.81.102.194:50589?security=reality&type=raw&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=oHeaqwxwzVtygM0RuFaEmHBfLWxAg9cHDwGsIqwQh0g&sid=5105cba2564895f4#[301ms Нидерланды NL 🇳🇱 @vlesstrojan]%20t.me%2Frjsxrd

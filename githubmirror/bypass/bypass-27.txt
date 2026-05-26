@@ -1,9 +1,3 @@
-#profile-title: bypass-27/27 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://162f984d-811f-4faa-b200-b15460731ad6@45.192.12.15:2223?security=reality&type=tcp&sni=www.ya.ru&fp=chrome&flow=xtls-rprx-vision&sid=09&pbk=5xLCwB8j2l-oqOLyzDyjhJYrHxWrhpU-4QSkLyhh720&encryption=none#[397ms Франция FR 🇫🇷 @vlesstrojan]%20t.me%2Frjsxrd
 vless://f3d08978-e457-43a3-b062-d74e4328833d@lte.cxhub.su:2014?type=grpc&headerType=none&security=reality&encryption=none&sni=cloud.mail.ru&fp=chrome&pbk=P0fQAbHaRJ6aF8yExwqISCB0ClTrGFhZe7hGDO8YnX4&sid=1413cc6a376b5257&serviceName=cloud#AetrisVPN%20white%20list%20🇰🇷 Южная Корея | sni = cloud.mail.ru | 🔥 AetrisVPN%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.30:8880?type=ws&host=vms.lifetime02.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#%E8%8D%B7%E5%85%B0_052510106%20t.me%2Frjsxrd

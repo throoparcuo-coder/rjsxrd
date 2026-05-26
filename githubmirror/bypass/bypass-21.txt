@@ -1,9 +1,3 @@
-#profile-title: bypass-21/27 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.237:8443?encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20269843%20t.me%2Frjsxrd
 vless://44fcf3b7-7baf-4b73-9f50-9f47967f7b29@193.163.203.76:50556?security=reality&type=raw&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=tqZ-C6M7YzjR_sJ-V3OgU3tLUAv-KnJ9BQfIYfnVOHo&sid=23a3dee422d0cd1c#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20[🏳️LTE]%20|%20🥭🔥%20t.me%2Frjsxrd
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?encryption=none&security=tls&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&fp=chrome&type=ws&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&path=/#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd
