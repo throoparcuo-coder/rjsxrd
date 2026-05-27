@@ -1,9 +1,3 @@
-#profile-title: 22-22/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.64.229.181:2087?encryption=none&fp=chrome&host=pagescm.freen10.de5.net&path=%2Fcomic&security=tls&sni=pagescm.freen10.de5.net&type=ws#v2ray_dalghak%20t.me%2Frjsxrd
 vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@2.26.3.239:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=c4fb372c78b32874&sni=www.deepl.com&type=tcp#%F0%9F%8C%B6%EF%B8%8F87@oneclickvpnkeys%20t.me%2Frjsxrd
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.19.229.21:443?path=%2F&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#v2ray_dalghak%20t.me%2Frjsxrd

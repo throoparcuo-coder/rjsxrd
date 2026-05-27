@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-3/5 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.30.30:8880?type=ws&host=vms.lifetime09.workers.dev#%E8%8B%B1%E5%9B%BD_052610124%20t.me%2Frjsxrd
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=#%E8%8B%B1%E5%9B%BD_052610092%20t.me%2Frjsxrd
 trojan://204bc731190243e7a8cc9c1d0b7ac3ba@94.103.2.31:9443?fp=&pbk=Zuu0slAOjX2uWf6-xRWeZzv7O_URTgpe8BHpvoS1llw&security=reality&sid=aabbccdd&sni=static.rutube.ru#[390ms MD MD  @vlesstrojan]%20t.me%2Frjsxrd

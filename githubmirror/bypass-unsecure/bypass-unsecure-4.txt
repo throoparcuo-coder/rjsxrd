@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-4/5 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://2127747d-27b5-45c1-9187-b8648d9c9c6a@37.9.5.127:443?flow=xtls-rprx-vision&fp=random&headertype=none&pbk=vZ8yVR6ZkYZD101aLewZzl3skS965ZYj03wMxxK0zgU&security=reality&sid=27e53bbcab7593d7&sni=smartcaptcha.yandexcloud.net&spx=%2F&type=tcp#🇩🇪677Mb | UAB Cherry Servers%20t.me%2Frjsxrd
 vless://40d50428-131c-401b-82b4-b787b260b183@72.56.248.24:8443?type=tcp&security=reality&fp=random&pbk=PfV2GkrPy77eZqaQVXFrhYQUFZNYO2UrA6dE2Rm1kCQ&sid=c1a79287ca96c6c6&sni=alfabank.ru#%20t.me%2Frjsxrd
 vless://bfedca03-3fef-445b-b239-10567bf06b56@multi.fresedvpn.site:25443?type=tcp&security=reality&fp=chrome&pbk=lGbwshDwZcTimBAS7v1EXQZsrwemLU1m_UD2jtoiu0Q&sid=f44541df5de16553&sni=api-maps.yandex.ru&spx=/#%21 68 %7C REALITY %7C SNI%3A api-maps.yandex.ru %7C IN%3A RU OUT%3A KZ %7C RATING%3A 6%2F10%20t.me%2Frjsxrd

@@ -1,9 +1,3 @@
-#profile-title: 16-16/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.242.229.125:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Düsseldorf🅿️ping:34.54ms%20t.me%2Frjsxrd
 vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none&security=tls&type=ws&path=/ray#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:81.91ms%20t.me%2Frjsxrd
 vless://1e79c806-0c7b-4549-ad94-387d60462e10@varzesh3.com:80?encryption=none&host=aiagentshop.aruxm.ir&path=%2Findex.html&security=none&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:328.62ms%20t.me%2Frjsxrd
