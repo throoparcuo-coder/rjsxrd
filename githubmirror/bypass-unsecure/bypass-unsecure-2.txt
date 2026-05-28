@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-2/2 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://93fd443d-52b1-4f6a-b78f-2908b7c16fc0@91.107.181.212:20620?encryption=none&security=none&type=tcp#%E5%BE%B7%E5%9B%BD_052720020%20t.me%2Frjsxrd
 vless://6c3852b6-138f-4235-bc75-0ad96f82cca7@npmjs.com:2096?path=%2Fmetrics&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=6956646388cdb23c971b4ec6.mmdbay.site&fp=chrome&type=ws&allowInsecure=1&sni=6956646388cdb23c971b4ec6.mmdbay.site#%F0%9F%87%BA%F0%9F%87%B8%20%5BVL%5D%20%D0%A1%D0%A8%D0%90%20%231019%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 vless://9d4ec02a-b968-402c-a3e9-7ea961c96867@213.156.152.31:8080?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%E5%9C%9F%E8%80%B3%E5%85%B6_052720032%20t.me%2Frjsxrd
