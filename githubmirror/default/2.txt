@@ -1,9 +1,3 @@
-#profile-title: 2-2/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@94.156.112.71:443?security=reality&amp;encryption=none&amp;pbk=tcGias3ywS5uxXzg5Bv-TNtxclCganaj3iFSjjHgMSQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=germany2.stardevs.top&amp;sid=f37fb7531c60780d#🇩🇪[openproxylist.com] vless-DE%20t.me%2Frjsxrd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMW1kWEZRcTN1NjExWklC@20.87.107.99:443#🇿🇦[openproxylist.com] ss-ZA%20t.me%2Frjsxrd
 vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@84.32.22.143:443?security=reality&type=tcp&sni=maps.apple.com&fp=random&flow=xtls-rprx-vision&sid=2da4299da566b7&pbk=fS59W37_i8457GqkbB9_kdCfLCtWbl14qmVRnm2ty2I&encryption=none#🇸🇬[openproxylist.com] vless-SG%20t.me%2Frjsxrd
