@@ -1,9 +1,3 @@
-#profile-title: bypass-1/7 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://9287f532-4150-48ff-a755-64b21e30e9c3@217.26.24.101:23151?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cms-res-web.online.sberbank.ru&pbk=eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI#t.me%2Ffreekesha21 - 20 %F0%9F%87%B7%F0%9F%87%BA%20t.me%2Frjsxrd
 vless://9287f532-4150-48ff-a755-64b21e30e9c3@217.26.24.101:23151?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cms-res-web.online.sberbank.ru&pbk=eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20206507%20t.me%2Frjsxrd
 vless://9287f532-4150-48ff-a755-64b21e30e9c3@217.12.40.10:23151?type=tcp&headerType=none&security=reality&encryption=none&sni=cms-res-web.online.sberbank.ru&fp=qq&pbk=eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI&flow=xtls-rprx-vision#t.me%2Ffreekesha21 - 69 %F0%9F%87%B7%F0%9F%87%BA%20t.me%2Frjsxrd

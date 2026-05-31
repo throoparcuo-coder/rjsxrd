@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-3/7 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@92.53.107.175:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rus.scroogethebest.com&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&sid=9c2378562188c3cb#🇷🇺 Россия ⚪ | rus.scroogethebest.com | 🔥 от катлер%20t.me%2Frjsxrd
 vless://b49aff9a-84f9-4e41-9be4-6113901fc2dc@nl2.nvrsk-not-news.ru:41698?fp=firefox&pbk=CGy3XQXti0IWqe5GK93fH5kolq7zafDhFZvkedRFKR8&security=reality&sid=6d&sni=www.vk.com&spx=%2F5FdP0Q6vfy56Hbg&type=tcp#[2436ms Нидерланды NL 🇳🇱 @vlesstrojan]%20t.me%2Frjsxrd
 vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@45.144.220.142:7443?security=reality&encryption=none&echfq=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=be0ce047#434.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20t.me%2Frjsxrd
