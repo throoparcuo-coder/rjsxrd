@@ -1,9 +1,3 @@
-#profile-title: bypass-3/6 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@lv-geo.dataload-cdn.ru:8443?flow=xtls-rprx-vision&fp=chrome&pbk=mgIiNnujl3pahea0WW3bCFqmdwofldk85e9XD3rQcQc&security=reality&sid=d8d900&sni=www.vk.com#%F0%9F%87%B1%F0%9F%87%BB%20%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A%20407%20t.me%2Frjsxrd
 vless://d0b60427-ccb0-4026-aeec-d095b6b7dd08@nl-5.srv.vpnza300.org:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4Y1wdeQGqDecReK5UrA5RV7Dcq9QnfuArtSzujdJbXo&security=reality&sid=6eda877655137aff&sni=nl-5.srv.vpnza300.org&type=tcp#[346ms Нидерланды NL 🇳🇱 @vlesstrojan]%20t.me%2Frjsxrd
 vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@188.225.79.134:13343?flow=xtls-rprx-vision&fp=chrome&pbk=MIs98I7LawHDr-TGlrEguEWcPQlaxoRMQW6zX9LaeUM&security=reality&sid=40de4492e7&sni=rcsb.org&spx=/d3oBVSNoprcyP16&type=tcp#🇷🇺 Россия 1%20t.me%2Frjsxrd
