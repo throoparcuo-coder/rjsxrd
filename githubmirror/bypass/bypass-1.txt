@@ -1,9 +1,3 @@
-#profile-title: bypass-1/3 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#🇳🇱%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?encryption=none&fp=&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#3469.%20VLESS%20%7C%20SNI%3A%20yastatic.net%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
 vless://bb2b0112-577f-4862-886a-3c2ee004ca23@217.114.12.187:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=vz2NXt9Zzhx4dxeSXJeWOk8lRsNBCmZzqtDqhsuyLGg&sid=7c83683ed7507a69&sni=dzen.ru#[306ms%20t.me%2Frjsxrd

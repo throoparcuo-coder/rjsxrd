@@ -1,9 +1,3 @@
-#profile-title: 22-22/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 hysteria2://Masir_Sefid@18.194.238.82:443?sni=qus.masir-sefid.shop&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  18.194.238.82%20t.me%2Frjsxrd
 hysteria2://rstnnl2705%3AQtmSqzxgO95zXwNcgVYSjDl02aRsjrrl@reddeadfan.rd-team.ru:2026?sni=reddeadfan.rd-team.ru&insecure=1&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - Serv.host Group Ltd  94.156.155.56%20t.me%2Frjsxrd
 hysteria2://Masir_Sefid@18.159.104.97:54040?sni=qus.masir-sefid.shop&insecure=0&obfs=salamander#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  18.159.104.97%20t.me%2Frjsxrd

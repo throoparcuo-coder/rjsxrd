@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-5/5 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 trojan://d1UH4TrhvCmjc-s4nmChew1qGqX3MNMqel@130.94.29.102:443?type=tcp&security=tls&headerType=none&sni=www.ws-converter.click&fp=chrome&allowInsecure=1#[708ms CN CN  @vlesstrojan]%20t.me%2Frjsxrd
 vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?type=tcp&encryption=none&security=none#🇦🇪 ОАЭ 1 | [BL]%20t.me%2Frjsxrd
 vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.185:443?security=tls&type=ws&host=go.iranfree.de5.net&fp=chrome&sni=go.iranfree.de5.net&path=%2F&encryption=none&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%5BVL%5D%20%D0%A1%D0%A8%D0%90%20%231727%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
