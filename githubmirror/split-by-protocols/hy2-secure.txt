@@ -10,8 +10,6 @@ hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermansh
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20t.me%2Frjsxrd
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK%20t.me%2Frjsxrd
 hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325/#📟40@oneclickvpnkeys%20t.me%2Frjsxrd
-hy2://Masir_Sefid@18.194.238.82:444/?sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#t.me/FREECONFIGSPLUS%20t.me%2Frjsxrd
-hy2://Masir_Sefid@18.194.238.82:444/?sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#t.me/FREECONFIGSPLUS کانفیگ های رایگان%20t.me%2Frjsxrd
 hy2://85509d13-a5ea-460f-ae9d-12a58fc3aa9f@130.61.244.114:443?sni=1.nodes.yljc.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
 hy2://8c4bd1ec-377e-4914-87a3-0e2c6b618bc2@185.225.201.228:18488?obfs=salamander&obfs-password=S0lPELawhd&sni=direct-nl.snowguard-cloud-vpn-01.link#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
 hy2://8c80cb0d-5ec1-48b5-bd6a-7bdc4d2e1d0a@172.207.208.4:30002?sni=hy2jp01.xqc.best#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%F0%9F%8C%8F%20HY2-UDP-TLS%204%E2%83%A3%20t.me%2Frjsxrd
@@ -268,6 +266,7 @@ hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@akile.nai3.cc:33133/?sni=akile.nai3.c
 hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@akile.nai3.cc:33133/?sni=akile.nai3.cc#%F0%9F%9B%A1a%40oneclickvpnkeys%20t.me%2Frjsxrd
 hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@akile.nai3.cc:33133/?sni=akile.nai3.cc#akile%20t.me%2Frjsxrd
 hy2://8d262934-ff34-4ad4-a1fc-933f114f27f3@akile.nai3.cc:33133/?sni=akile.nai3.cc#🛡a@oneclickvpnkeys%20t.me%2Frjsxrd
+hy2://Masir_Sefid@18.194.238.82:444/?sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#t.me/FREECONFIGSPLUS کانفیگ های رایگان%20t.me%2Frjsxrd
 hy2://jS7RBX3eQ9QGTDDz9d@107.175.93.166:52200?sni=han.ssudo.x10.mx#ð HYSTERIA-UDP ðºð¸ US-107.175.93.166:52200%20t.me%2Frjsxrd
 hy2://03bfcbaa-2cb5-42dc-9d8c-7a70dfffb451@188.253.6.117:5555?sni=tw01.poke-mon.xyz#ð HYSTERIA-UDP ð¹ð¼ TW-188.253.6.117:5555%20t.me%2Frjsxrd
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@5.35.103.44:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#ð HYSTERIA-UDP ð¸ð° SK-5.35.103.44:4380%20t.me%2Frjsxrd
@@ -355,8 +354,7 @@ hy2://sharecentrepro@jpntt2.sharecentre.online:4433?sni=jpntt2.sharecentre.onlin
 hy2://sharecentrepro@us.scproxy.top:4433/#⭐@mshojaei77%20t.me%2Frjsxrd
 hy2://sharecentrepro@ushy2.sharecentre.online:4434#⭐@mshojaei77%20t.me%2Frjsxrd
 hy2://y0qochAspE#%20t.me%2Frjsxrd
-hy2://Masir_Sefid@18.194.238.82:444/?sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#t.me/FREECONFIGSPLUS کانفیگ های رایگان%20t.me%2Frjsxrd%20t.me%2Frjsxrd
-hy2://Masir_Sefid@18.194.238.82:444/?sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#3291.%20CONFIG%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+hy2://Masir_Sefid@18.194.238.82:444/?sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#t.me/FREECONFIGSPLUS%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20t.me%2Frjsxrd
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%A9%F0%9F%87%AA%20-%20DE%20t.me%2Frjsxrd
 hy2://1bf9c88b-1f99-47c3-ac39-cd0e4edac246@wlte5.nimarko.org:8447?sni=testing2.nimarko.org&alpn=h3#🇪🇺%20%7C%20AERYXVPN%20t.me%2Frjsxrd
