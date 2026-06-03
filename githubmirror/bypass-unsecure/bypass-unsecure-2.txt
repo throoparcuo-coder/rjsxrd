@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-2/3 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?path=%2F&type=tcp#%20t.me%2Frjsxrd
 vless://a0269f4a-dea0-4f17-8393-e3bf5a2403e6@mtn.olampiavarz.ir:2083?alpn=h2,http/1.1&encryption=none&fp=chrome&host=prNkjleyvh.olAmpiavaRz.ir&path=/?ed=2048&security=tls&sni=vddhasdasdh.olampiavarz.ir&type=ws#%E7%BE%8E%E5%9B%BD_0602171301%20t.me%2Frjsxrd
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#[508ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd

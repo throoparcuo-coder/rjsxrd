@@ -1,9 +1,3 @@
-#profile-title: bypass-5/6 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://b99b4d18-cbde-4291-94fb-a22886d3fdf2@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B3%F0%9F%87%B1Обходы - TG: AirLinkVPNBot |0339|%20t.me%2Frjsxrd
 vless://b99b4d18-cbde-4291-94fb-a22886d3fdf2@158.160.130.173:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%B3%F0%9F%87%B1Обходы - TG: AirLinkVPNBot |0338|%20t.me%2Frjsxrd
 vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.11.45:443?encryption=none&type=ws&security=tls&path=/sequre/ws?ed=2560&host=cloudflare.tyr-agentstvo.tech&fp=qq&sni=cloudflare.tyr-agentstvo.tech&alpn=http/1.1# By EbraSha%20t.me%2Frjsxrd

@@ -1,9 +1,3 @@
-#profile-title: 14-14/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vmess://eyJhZGQiOiI1Ny4xNTEuMTAwLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU1MGU4NDAwLWUyOWItNDFkNC1hNzE2LTQ0NjY1NTQ0MDAwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoxMDA4NiwicHMiOiJmaWxlbWJhZC0zMDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#%20t.me%2Frjsxrd
 vless://4cd92802-b4ef-4639-a51e-e839ea19bff5@185.143.233.122:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fed%3D2080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cyrus.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus.frtshop.ir#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:34.48ms%20t.me%2Frjsxrd
 trojan://mitivpn@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=nl.linko1.ir&fp=safari&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=nl.linko1.ir&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:32.58ms%20t.me%2Frjsxrd
