@@ -16,6 +16,4 @@ hysteria://72.52.178.23:15566?upmbps=50&downmbps=80&auth=jQrGpwSqp34P&alpn=h3#%F
 hysteria://108.181.22.155:11223?auth=O5tQQiW2xKf5&upmbps=50&downmbps=80&alpn=h3#🔒 HYSTERIA-UDP 🇺🇸 US-108.181.22.155:11223%20t.me%2Frjsxrd
 hysteria://hy2.dtku47.xyz:15566/?auth=jQrGpwSqp34P&upmbps=50&downmbps=100&alpn=h3#United%20States215%20t.me%2Frjsxrd
 hysteria://clash1.dtku47.xyz:11223/?auth=O5tQQiW2xKf5&upmbps=50&downmbps=100&alpn=h3#United%20States216%20t.me%2Frjsxrd
-hysteria://hy2.dtku47.xyz:15566/?auth=jQrGpwSqp34P&upmbps=50&downmbps=100&alpn=h3#United%20States217%20t.me%2Frjsxrd
-hysteria://hy2.dtku47.xyz:15566/?auth=jQrGpwSqp34P&upmbps=50&downmbps=100&alpn=h3#United%20States222%20t.me%2Frjsxrd
 hysteria://hy1.dtku47.xyz:22334/?auth=lASdKzWK0VxL&upmbps=50&downmbps=100&alpn=h3#United%20States223%20t.me%2Frjsxrd
