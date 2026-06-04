@@ -1,9 +1,3 @@
-#profile-title: 1-1/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MjgyXHU3MGI5XHU2NWU1XHU2NzFmXHVmZjFhMjAyNi0wNi0wMyIsICJhZGQiOiAiMTAzLjE4MS4xNjQuMTQ1IiwgInBvcnQiOiAiNTQwMjIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==#%20t.me%2Frjsxrd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#TW%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%911%20t.me%2Frjsxrd
 vmess://eyJhZGQiOiAiZ3RtLXNnLWNjNTRxN2QxcTAxLjM2NWNsb3VkMDI4NS5jb20iLCAiYWlkIjogMCwgImFsbG93X2luc2VjdXJlIjogIjAiLCAiYWxsb3dJbnNlY3VyZSI6ICIwIiwgImlkIjogImEwMzA4NDJhLWQyOWEtNGVhOS1hNzc2LTE0ZmM0YjllMTAyZCIsICJpbnNlY3VyZSI6ICIwIiwgInBvcnQiOiA2MDAxLCAicHMiOiAiSEtcdTMwMTBcdTY3M2FcdTU3M2FcdTYzYThcdTgzNTBcdWZmMWFodHRwczovL2E5YS54eXpcdTMwMTEyIiwgInNlY3VyaXR5IjogImF1dG8ifQ==#%20t.me%2Frjsxrd

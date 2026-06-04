@@ -1,9 +1,3 @@
-#profile-title: 3-3/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.252.176:443?path=%2Fsequre%2Fws&security=tls&encryption=none&host=cloudflare.vhub.pro&type=ws&sni=cloudflare.vhub.pro#🇩🇪[openproxylist.com] vless-DE%20t.me%2Frjsxrd
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#🇸🇰[openproxylist.com] vless-SK%20t.me%2Frjsxrd
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#🇩🇪[openproxylist.com] trojan-DE%20t.me%2Frjsxrd

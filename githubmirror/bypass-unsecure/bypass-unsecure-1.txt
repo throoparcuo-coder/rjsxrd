@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-1/2 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@nh-1.hysteria.ltd:9443?security=tls&amp;sni=nh-1.hysteria.ltd&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0&amp;type=tcp&amp;headerType=none#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%A7%83Amsterdam%201Gbit%2Fs%20t.me%2Frjsxrd
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&amp;sni=de-1.hysteria.ltd&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0&amp;type=tcp&amp;headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%8F%90%20Gelnhausen%2010Gbit%2Fs%20t.me%2Frjsxrd
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@kz-1.hysteria.ltd:9443?security=tls&amp;sni=kz-1.hysteria.ltd&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0&amp;type=tcp&amp;headerType=none#%F0%9F%87%B0%F0%9F%87%BF%F0%9F%8D%BFPavlodar%201Gbit%2Fs%20t.me%2Frjsxrd
