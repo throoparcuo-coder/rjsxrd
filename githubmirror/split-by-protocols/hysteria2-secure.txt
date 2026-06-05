@@ -1,9 +1,3 @@
-#profile-title: hysteria2-secure.txt t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@38.54.4.57:443?obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=kh2.yuntong.click#🇰🇭 4 - KH - Hysteria2/QUIC/OBFS - 443%20t.me%2Frjsxrd
 hysteria2://@:-1?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=masir-sefid.shop#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%B3%DB%8C%D8%B1%20%D8%B3%D9%81%DB%8C%D8%AF%20%F0%9F%95%8A%20t.me%2Frjsxrd
 hysteria2://Masir_Sefid@65.109.216.181:1040?sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid&insecure=0#🇫🇮 8 - FI - Hysteria2/QUIC/OBFS - 1040%20t.me%2Frjsxrd

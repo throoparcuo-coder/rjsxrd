@@ -1,9 +1,3 @@
-#profile-title: 24-24/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=%2Fsg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL%3AFather_vpn%20t.me%2Frjsxrd
 vless://9232a847-8f7d-4548-a23a-a8b3550e0f15@141.193.213.11:443?encryption=none&type=ws&security=tls&path=%2Fid-tksi&host=grabacademyportal.grab.com.cyylr.eu.cc&sni=grabacademyportal.grab.com.cyylr.eu.cc&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%40proxy_kafee%20t.me%2Frjsxrd
 trojan://aa710f78-eddb-45b4-bd32-1f8692a754e5@104.19.229.21:443?host=s.blibli.com.cyylr.eu.cc&path=%2Fae-bo&sni=s.blibli.com.cyylr.eu.cc&type=ws#%F0%9F%9A%9880@oneclickvpnkeys%20t.me%2Frjsxrd
