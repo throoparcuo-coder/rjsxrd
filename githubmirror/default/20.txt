@@ -1,9 +1,3 @@
-#profile-title: 20-20/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://8a36be1d-7c78-4885-8a1f-bedf5ba7db1c@104.17.147.22:443?path=%2FrN50nmm9L1DeY73C%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=lucky-lab-ac6d.caveyi8071.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=luCky-LAB-AC6D.CAveyi8071.WoRkeRS.DEV#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-15202%20t.me%2Frjsxrd
 vless://0836463b-214f-4af6-aa85-85a56a62388e@104.17.147.22:443?encryption=none&type=ws&security=tls&path=%2F8eaZJhRwB5zzDy81%3Fed%3D2560&host=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&fp=randomized&sni=d2127A49-flAT-wooD-C4B5.mILia-AkbARpOor.WorkERs.dEV&alpn=h2%2Chttp%2F1.1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-16778%20t.me%2Frjsxrd
 vless://2244d9e4-dc80-4c61-9362-dde0afd034dd@104.17.115.113:443?encryption=none&security=tls&sni=hs.qoogl.workers.dev&fp=chrome&type=ws&host=hs.qoogl.workers.dev&path=/?ed=2048#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17917%20t.me%2Frjsxrd

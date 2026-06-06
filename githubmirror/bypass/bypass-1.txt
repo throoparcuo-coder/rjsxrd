@@ -1,9 +1,3 @@
-#profile-title: bypass-1/1 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@ss.ll0ll.vip:2096?type=grpc&headerType=none&security=reality&encryption=none&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&serviceName=vless-grpc-reality#AetrisVPN%20t.me%2Frjsxrd
 vless://baf0ea60-0df6-4cfe-945c-8ab1fbf5bb07@217.16.31.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=2533f2fb6230#%F0%9F%87%B7%F0%9F%87%BA%20Lvnet%20LTD%20%E2%80%94%20%2313%20t.me%2Frjsxrd
 vless://eb3fe4a6-831c-5153-9493-5d97b28276f7@84.201.180.13:443?type=xhttp&security=reality&path=%2F&sni=api-maps.yandex.ru&fp=chrome&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA%20t.me%2Frjsxrd%20t.me%2Frjsxrd

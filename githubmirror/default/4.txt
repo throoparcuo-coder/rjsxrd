@@ -1,9 +1,3 @@
-#profile-title: 4-4/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vmess://eyJhZGQiOiAiNjY1NGM3MzRjY2FiOGY0NDBmZjA4MjVlYjQ0M2RjN2YucW9zLm9ubCIsICJwb3J0IjogIjEwMDQ5IiwgImlkIjogIjUyZjljYmZiLTViYjMtM2RkMy1iOTQ3LTcyNWUzNjVjNTlmMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidiI6ICIyIiwgInBzIjogIlx1ODI4Mlx1NzBiOVx1NjVlNVx1NjcxZlx1ZmYxYTIwMjYtMDYtMDUiLCAiaG9zdCI6ICJ2MnByOWZlb2gwejg2YW5qMmd6OW9ubmpnOXZpdWV2MGoubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInR5cGUiOiAibm9uZSIsICJzZXJ2ZXJQb3J0IjogMCwgIm5hdGlvbiI6ICIifQ==#%20t.me%2Frjsxrd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRlhrSE5RTzZxMXM5S1FY@20.87.212.31:443#ZA%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%911%20t.me%2Frjsxrd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#NL%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%912%20t.me%2Frjsxrd

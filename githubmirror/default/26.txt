@@ -1,9 +1,3 @@
-#profile-title: 26-26/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#🇳🇱KitKat%20t.me%2Frjsxrd
 hy2://rstnnl2705:QtmSqzxgO95zXwNcgVYSjDl02aRsjrrl@reddeadfan.rd-team.ru:2026/?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#🇩🇪DE%20%20ROSE—02%20t.me%2Frjsxrd
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🇩🇪DE%20%20ROSE—03%20t.me%2Frjsxrd
