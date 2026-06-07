@@ -1,9 +1,3 @@
-#profile-title: 2-2/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=cdn3-87.vk-cdnvideo.com#🇳🇱[openproxylist.com] vless-NL%20t.me%2Frjsxrd
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.79.94.192:443?security=tls&type=ws&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&host=dxy1h.twiladaphne.ndjp.net&fp=chrome&sni=dxy1h.twiladaphne.ndjp.net&path=/proxyip=104.168.132.123,172.104.53.198,85.121.50.16,151.242.125.226&encryption=none#🇨🇦[openproxylist.com] trojan-CA%20t.me%2Frjsxrd
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#🇳🇱[openproxylist.com] vless-NL%20t.me%2Frjsxrd
