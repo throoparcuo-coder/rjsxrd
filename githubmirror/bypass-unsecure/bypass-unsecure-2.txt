@@ -1,9 +1,3 @@
-#profile-title: bypass-unsecure-2/2 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&headerType=none&fp=chrome&type=tcp#[146ms US US  @vlesstrojan]%20t.me%2Frjsxrd
 trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252#[146ms US US  @vlesstrojan]%20t.me%2Frjsxrd
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.158.107:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23170%20t.me%2Frjsxrd
