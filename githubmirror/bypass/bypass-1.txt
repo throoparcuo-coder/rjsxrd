@@ -1,9 +1,3 @@
-#profile-title: bypass-1/1 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇧🇦 Босния 9 | [BL]%20t.me%2Frjsxrd
 vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@hungary.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=qa6dtExYCAVoxRNSfoyuz9JRM9nq475NbuW-P6aJyS0&sid=d0c2ffdf&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇧🇦 Босния 4 | [BL]%20t.me%2Frjsxrd
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com&brand=@Arvand_soul#🇧🇦 Босния 10 | [BL]%20t.me%2Frjsxrd

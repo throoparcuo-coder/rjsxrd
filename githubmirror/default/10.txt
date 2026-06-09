@@ -1,9 +1,3 @@
-#profile-title: 10-10/26 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
 vless://5e042049-f74d-4ccc-a3ac-db27bca2ce99@hyst.purplrose.ir:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bastani.purplrose.ir&fp=random&type=ws&allowInsecure=0&sni=bastani.purplrose.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:74.96ms%20t.me%2Frjsxrd
 vless://5ecc7a89-f66a-4ca6-9763-9fef255ceb5c@155.117.197.235:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=141.11.250.208&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:32.53ms%20t.me%2Frjsxrd
 vless://fe1060c0-78ae-55a5-96ca-e90f954f54a4@104.17.147.22:2095?type=ws&host=www.digikala.com.joinTelegram.mosiv2.be1.vless.Sitespeedtest.net.&path=join-%40mosiv2-%40mosiv2-%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:48.12ms%20t.me%2Frjsxrd
